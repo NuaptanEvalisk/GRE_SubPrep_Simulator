@@ -1,0 +1,1327 @@
+{
+  "id": "ets-form-gr9367",
+  "title": "ETS GRE Mathematics Test Form GR9367",
+  "description": "Imported from ETS GRE Mathematics Test Form GR9367.",
+  "questions": [
+    {
+      "id": "ets-form-gr9367-q01",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f(g(x))=5$ and $f(x)=x+3$ for all real $x$, then $g(x)=$",
+      "options": [
+        "$x-3$",
+        "$3-x$",
+        "$\\frac{5}{x+3}$",
+        "2",
+        "8"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q02",
+      "topic": "Official Practice Test",
+      "question_markdown": "$2 \\cdot \\lim _{x \\rightarrow 0} \\frac{\\tan x}{\\cos x}=$",
+      "options": [
+        "$-\\infty$",
+        "-1",
+        "0",
+        "1",
+        "$+\\infty$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q03",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\int_{0}^{\\log 4} e^{2 x} d x=$",
+      "options": [
+        "$\\frac{15}{2}$",
+        "8",
+        "$\\frac{17}{2}$",
+        "$\\frac{\\log 16}{2}-1$",
+        "$\\log 4-\\frac{1}{2}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q04",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $A-B$ denote $\\{x \\in A: x \\notin B\\}$. If $(A-B) \\cup B=A$, which of the following must be true?",
+      "options": [
+        "$B$ is empty",
+        "$A \\subseteq B$",
+        "$B \\subseteq A$",
+        "$(B-A) \\cup A=B$",
+        "None of the above"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q05",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f(x)=|x|+3 x^{2}$ for all real $x$, then $f^{\\prime}(-1)$ is",
+      "options": [
+        "-7",
+        "-5",
+        "5",
+        "7",
+        "nonexistent"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q06",
+      "topic": "Official Practice Test",
+      "question_markdown": "For what value of $b$ is the value of $\\int_{b}^{b+1}\\left(x^{2}+x\\right) d x$ a minimum?",
+      "options": [
+        "0",
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q07",
+      "topic": "Official Practice Test",
+      "question_markdown": "In how many of the eight standard octants of $x y z$-space does the graph of $z=e^{x+y}$ appear?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "Eight"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q08",
+      "topic": "Official Practice Test",
+      "question_markdown": "Suppose that the function $f$ is defined on an interval by the formula $f(x)=\\sqrt{\\tan ^{2} x-1}$. If $f$ is continuous, which of the following intervals could be its domain?",
+      "options": [
+        "$\\left(\\frac{3 \\pi}{4}, \\pi\\right)$",
+        "$\\left(\\frac{\\pi}{4}, \\frac{\\pi}{2}\\right)$",
+        "$\\left(\\frac{\\pi}{4}, \\frac{3 \\pi}{4}\\right)$",
+        "$\\left(-\\frac{\\pi}{4}, 0\\right)$",
+        "$\\left(-\\frac{3 \\pi}{4},-\\frac{\\pi}{4}\\right)$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q09",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\int_{0}^{1} \\frac{x}{2-x^{2}} d x=$",
+      "options": [
+        "$-\\frac{1}{2}$",
+        "$\\frac{5}{3}$",
+        "$\\frac{\\log 2-e}{2}$",
+        "$-\\frac{\\log 2}{2}$",
+        "$\\frac{\\log 2}{2}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q10",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f^{\\prime \\prime}(x)=f^{\\prime}(x)$ for all real $x$, and if $f(0)=0$ and $f^{\\prime}(0)=-1$, then $f(x)=$",
+      "options": [
+        "$1-e^{x}$",
+        "$e^{x}-1$",
+        "$e^{-x}-1$",
+        "$e^{-x}$",
+        "$-e^{x}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q11",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $\\phi(x, y, z)=x^{2}+2 x y+x z^{\\frac{3}{2}}$, which of the following partial derivatives are identically zero?\n\nI. $\\frac{\\partial^{2} \\phi}{\\partial y^{2}}$\n\nII. $\\frac{\\partial^{2} \\phi}{\\partial x \\partial y}$\n\nIII. $\\frac{\\partial^{2} \\phi}{\\partial z \\partial y}$",
+      "options": [
+        "III only",
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I. II, and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q12",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\lim _{x \\rightarrow 0} \\frac{\\sin 2 x}{(1+x) \\log (1+x)}=$",
+      "options": [
+        "-2",
+        "$-\\frac{1}{2}$",
+        "0",
+        "$\\frac{1}{2}$",
+        "2"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q13",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\lim _{n \\rightarrow \\infty} \\int_{1}^{n} \\frac{1}{x^{n}} d x=$",
+      "options": [
+        "0",
+        "1",
+        "$e$",
+        "$\\pi$",
+        "$+\\infty$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q14",
+      "topic": "Official Practice Test",
+      "question_markdown": "At a 15 percent annual inflation rate, the value of the dollar would decrease by approximately one-half every 5 years. At this inflation rate, in approximately how many years would the dollar be worth $\\frac{1}{1,000,000}$ of its present value?",
+      "options": [
+        "25",
+        "50",
+        "75",
+        "100",
+        "125"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q15",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f(x)=\\int_{1}^{x} \\frac{1}{1+t^{2}} d t$ for all real $x$. An equation of the line tangent to the graph of $f$ at the point $(2, f(2))$ is",
+      "options": [
+        "$y-1=\\frac{1}{5}(x-2)$",
+        "$y-\\operatorname{Arctan} 2=\\frac{1}{5}(x-2)$",
+        "$y-1=(\\operatorname{Arctan} 2)(x-2)$",
+        "$y-\\operatorname{Arctan} 2+\\frac{\\pi}{4}=\\frac{1}{5}(x-2)$",
+        "$y-\\frac{\\pi}{2}=(\\operatorname{Arctan} 2)(x-2)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q16",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f(x)=e^{g(x)} h(x)$ and $h^{\\prime}(x)=-g^{\\prime}(x) h(x)$ for all real $x$. Which of the following must be true?",
+      "options": [
+        "$f$ is a constant function",
+        "$f$ is a linear nonconstant function.",
+        "$g$ is a constant function.",
+        "$g$ is a linear nonconstant function.",
+        "None of the above"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q17",
+      "topic": "Official Practice Test",
+      "question_markdown": "$  1-\\sin ^{2}\\left(\\operatorname{Arccos} \\frac{\\pi}{12}\\right)=$",
+      "options": [
+        "$\\sqrt{\\frac{1-\\cos \\frac{\\pi}{24}}{2}}$",
+        "$\\sqrt{\\frac{1-\\cos \\frac{\\pi}{6}}{2}}$",
+        "$\\sqrt{\\frac{1+\\cos \\frac{\\pi}{24}}{2}}$",
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi^{2}}{144}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q18",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f(x)=\\sum_{n=0}^{\\infty}(-1)^{n} x^{2 n}$ for all $x \\in(0,1)$, then $f^{\\prime}(x)=$",
+      "options": [
+        "$\\sin x$",
+        "$\\cos x$",
+        "$\\frac{1}{1+x^{2}}$",
+        "$\\frac{-2 x}{\\left(1+x^{2}\\right)^{2}}$",
+        "$\\frac{2 x}{(1-2 x)^{2}}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q19",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following is the general solution of the differential equation\n\n$$\n\\frac{d^{3} y}{d t^{3}}-3 \\frac{d^{2} y}{d t^{2}}+3 \\frac{d y}{d t}-y=0 ?\n$$",
+      "options": [
+        "$c_{1} e^{t}+c_{2} t e^{t}+c_{3} t^{2} e^{t}$",
+        "$c_{1} e^{-t}+c_{2} t e^{-t}+c_{3} t^{2} e^{-t}$",
+        "$c_{1} e^{t}-c_{2} e^{-t}+c_{3} t e^{t^{2}}$",
+        "$c_{1} e^{t}+c_{2} e^{2 t}+c_{3} e^{3 t}$",
+        "$c_{1} e^{2 t}+c_{2} t e^{-2 t}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q20",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following double integrals represents the volume of the solid bounded above by the graph of $z=6-x^{2}-2 y^{2}$ and bounded below by the graph of $z=-2+x^{2}+2 y^{2}$ ?",
+      "options": [
+        "$4 \\int_{x=0}^{x=2} \\int_{y=0}^{y=\\sqrt{2}}\\left(8-2 x^{2}-4 y^{2}\\right) d y d x$",
+        "$\\int_{x=-2}^{x=2} \\int_{y=-\\sqrt{\\left(4-x^{2}\\right) / 2}}^{y=\\sqrt{\\left(4-x^{2}\\right) / 2}}\\left(8-2 x^{2}-4 y^{2}\\right) d y d x$",
+        "$4 \\int_{y=0}^{y=\\sqrt{2}} \\int_{x=-\\sqrt{4-2 y^{2}}}^{x=\\sqrt{4-2 y^{2}}} d x d y$",
+        "$\\int_{y=-\\sqrt{2}}^{y=\\sqrt{2}} \\int_{x=-2}^{x=2}\\left(8-2 x^{2}-4 y^{2}\\right) d x d y$",
+        "$2 \\int_{y=0}^{y=\\sqrt{2}} \\int_{x=0}^{x=\\sqrt{4-2 y^{2}}}\\left(8-2 x^{2}-4 y^{2}\\right) d x d y$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q21",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $a$ be a number in the interval $[0,1]$ and let $f$ be a function defined on $[0,1]$ by\n\n$$\nf(x)=\\left\\{\\begin{array}{l}a^{2} \\text { if } 0 \\leq x \\leq a \\\\ a x \\text { otherwise }\\end{array}\\right.\n$$\n\nThen the value of $a$ for which $\\int_{0}^{1} f(x) d x=1$ is",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "1",
+        "nonexistent"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q22",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $b$ and $c$ are elements in a group $G$, and if $b^{5}=c^{3}=e$, where $e$ is the unit element of $G$, then the inverse of $b^{2} c b^{4} c^{2}$ must be",
+      "options": [
+        "$b^{3} c^{2} b c$",
+        "$b^{4} c^{2} b^{2} c$",
+        "$c^{2} b^{4} c b^{2}$",
+        "$c b^{2} c^{2} b^{4}$",
+        "$c b c^{2} b^{3}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q23",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f$ be a real-valued function continuous on the closed interval $[0,1]$ and differentiable on the open interval $(0,1)$ with $f(0)=1$ and $f(1)=0$. Which of the following must be true?\n\nI. There exists $x \\in(0,1)$ such that $f(x)=x$.\n\nII. There exists $x \\in(0,1)$ such that $f^{\\prime}(x)=-1$.\n\nIII. $f(x)>0$ for all $x \\in[0,1)$.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q24",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $A$ and $B$ are events in a probability space such that $0<P(A)=P(B)=P(A \\cap B)<1$, which of the following CANNOT be true?",
+      "options": [
+        "$A$ and $B$ are independent.",
+        "$A$ is a proper subset of $B$.",
+        "$A \\neq B$",
+        "$A \\cap B=A \\cup B$",
+        "$P(A) P(B)<P(A \\cap B)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q25",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f$ be a real-valued function with domain [0, 1]. If there is some $K>0$ such that $f(x)-f(y) \\leq K|x-y|$ for all $x$ and $y$ in $[0,1]$, which of the following must be true?",
+      "options": [
+        "$f$ is discontinuous at each point of $(0,1)$.",
+        "$f$ is not continuous on ( 0,1 ), but is discontinuous at only countably many points of ( 0,1 ).",
+        "$f$ is continuous on $(0,1)$, but is differentiable at only countably many points of $(0,1)$.",
+        "$f$ is continuous on $(0,1)$, but may not be differentiable on $(0,1)$.",
+        "$f$ is differentiable on $(0,1)$."
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q26",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $\\mathbf{i}=(1,0,0), \\mathbf{j}=(0,1,0)$, and $\\mathbf{k}=(0,0,1)$. The vectors $\\mathbf{v}_{1}$ and $\\mathbf{v}_{2}$ are orthogonal if $\\mathbf{v}_{1}=\\mathbf{i}+\\mathbf{j}-\\mathbf{k}$ and $v_{2}=$",
+      "options": [
+        "$\\mathbf{i}+\\mathbf{j}-\\mathbf{k}$",
+        "$\\mathbf{i}-\\mathbf{j}+\\mathbf{k}$",
+        "$\\mathrm{i}+\\mathrm{k}$",
+        "$\\mathrm{j}-\\mathrm{k}$",
+        "$\\mathbf{i}+\\mathbf{j}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q27",
+      "topic": "Official Practice Test",
+      "question_markdown": "If the curve in the $y z$-plane with equation $z=f(y)$ is rotated around the $y$-axis, an equation of the resulting surface of revolution is",
+      "options": [
+        "$x^{2}+z^{2}=[f(y)]^{2}$",
+        "$x^{2}+z^{2}=f(y)$",
+        "$x^{2}+z^{2}=|f(y)|$",
+        "$y^{2}+z^{2}=|f(y)|$",
+        "$y^{2}+z^{2}=[f(x)]^{2}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q28",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $A$ and $B$ be subspaces of a vector space $V$. Which of the following must be subspaces of $V$ ?\n\nI. $A+B=\\{a+b: a \\in A$ and $b \\in B\\}$\n\nII. $A \\cup B$\n\nIII. $A \\cap B$\n\nIV. $\\{x \\in V: x \\notin A\\}$",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "III and IV only",
+        "I, II, and III only",
+        "I, II, III, and IV"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q29",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\lim _{n \\rightarrow \\infty} \\sum_{k=1}^{n}\\left(\\frac{1}{k}-\\frac{1}{2^{k}}\\right)=$",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4",
+        "$+\\infty$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q30",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f\\left(x_{1}, \\ldots, x_{n}\\right)=\\sum_{1 \\leq i<j \\leq n} x_{i} x_{j}$, then $\\frac{\\partial f}{\\partial x_{n}}=$",
+      "options": [
+        "$n!$",
+        "$\\sum_{1 \\leq i<j<n} x_{i} x_{j}$",
+        "$\\sum_{1 \\leq i<j<n}\\left(x_{i}+x_{j}\\right)$",
+        "$\\sum_{j=1}^{n} x_{j}$",
+        "$\\sum_{j=1}^{n-1} x_{j}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q31",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f(x)=\\left\\{\\begin{array}{cl}\\sqrt{1-x^{2}} & \\text { for } 0 \\leq x \\leq 1 \\\\ x-1 & \\text { for } 1<x \\leq 2,\\end{array}\\right.$ then $\\int_{0}^{2} f(x) d x$ is",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\sqrt{2}}{2}$",
+        "$\\frac{1}{2}+\\frac{\\pi}{4}$",
+        "$\\frac{1}{2}+\\frac{\\pi}{2}$",
+        "undefined"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q32",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $R$ denote the field of real numbers, $Q$ the field of rational numbers, and $Z$ the ring of integers. Which of the following subsets $F_{i}$ of $R, 1 \\leq i \\leq 4$, are subfields of $R$ ?\n\n$$\n\\begin{aligned}& F_{1}=\\{a / b: a, b \\in Z \\text { and } b \\text { is odd }\\} \\\\ & F_{2}=\\{a+b \\sqrt{2}: a, b \\in Z\\} \\\\ & F_{3}=\\{a+b \\sqrt{2}: a, b \\in Q\\} \\\\ & F_{4}=\\{a+b \\sqrt[4]{2}: a, b \\in Q\\}\\end{aligned}\n$$",
+      "options": [
+        "No $F_{i}$ is a subfield of $R$.",
+        "$F_{3}$ only",
+        "$F_{2}$ and $F_{3}$ only",
+        "$F_{1}, F_{2}$, and $F_{3}$ only",
+        "$F_{1}, F_{2}, F_{3}$, and $F_{4}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q33",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $n$ apples, no two of the same weight, are lined up at random on a table, what is the probability that they are lined up in order of increasing weight from left to right?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{n}$",
+        "$\\frac{1}{n!}$",
+        "$\\frac{1}{2^{n}}$",
+        "$\\left(\\frac{1}{n}\\right)^{n}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q34",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\frac{d}{d x} \\int_{0}^{x^{2}} e^{-t^{2}} d t=$",
+      "options": [
+        "$e^{-x^{2}}$",
+        "$2 e^{-x^{2}}$",
+        "$2 e^{-x^{4}}$",
+        "$x^{2} e^{-x^{2}}$",
+        "$2 x e^{-x^{4}}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q35",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f$ be a real-valued function defined on the set of integers and satisfying $f(x)=\\frac{1}{2} f(x-1)+\\frac{1}{2} f(x+1)$. Which of the following must be true?\n\nI. The graph of $f$ is a subset of a line.\n\nII. $f$ is strictly increasing.\n\nIII. $f$ is a constant function.",
+      "options": [
+        "None",
+        "I only",
+        "II only",
+        "I and II",
+        "I and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q36",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $F$ is a function such that, for all positive integers $x$ and $y, F(x, 1)=x+1, F(1, y)=2 y$, and $F(x+1, y+1)=F(F(x, y+1), y)$, then $F(2,2)=$",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "5",
+        "4"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q37",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $\\det\\left(\\begin{array}{ccc}a & b & c \\\\ d & e & f \\\\ g & h & k\\end{array}\\right)=9$, then $\\det\\left(\\begin{array}{ccc}3 a & 3 b & 3 c \\\\ g-4 a & h-4 b & k-4 c \\\\ d & e & f\\end{array}\\right)=$",
+      "options": [
+        "-108",
+        "-27",
+        "3",
+        "12",
+        "27"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q38",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\lim _{n \\rightarrow \\infty} \\frac{3}{n} \\sum_{i=1}^{n}\\left[\\left(\\frac{3 i}{n}\\right)^{2}-\\left(\\frac{3 i}{n}\\right)\\right]=$",
+      "options": [
+        "$-\\frac{1}{6}$",
+        "0",
+        "3",
+        "$\\frac{9}{2}$",
+        "$\\frac{31}{6}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q39",
+      "topic": "Official Practice Test",
+      "question_markdown": "For a real number $x, \\log (1+\\sin 2 \\pi x)$ is not a real number if and only if $x$ is",
+      "options": [
+        "an integer",
+        "nonpositive",
+        "equal to $\\frac{2 n-1}{2}$ for some integer $n$",
+        "equal to $\\frac{4 n-1}{4}$ for some integer $n$",
+        "any real number"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q40",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $x, y$, and $z$ are selected independently and at random from the interval $[0,1]$, then the probability that $x \\geq y z$ is",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{4}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q41",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $A=\\left(\\begin{array}{rr}1 & 2 \\\\ 0 & -1\\end{array}\\right)$, then the set of all vectors $X$ for which $A X=X$ is",
+      "options": [
+        "$\\left\\{\\left.\\binom{a}{b} \\right\\rvert\\, a=0\\right.$ and $b$ is arbitrary $\\}$",
+        "$\\left\\{\\left.\\binom{a}{b} \\right\\rvert\\, a\\right.$ is arbitrary and $\\left.b=0\\right\\}$",
+        "$\\left\\{\\left.\\binom{a}{b} \\right\\rvert\\, a=-b\\right.$ and $b$ is arbitrary $\\}$",
+        "$\\left\\{\\binom{0}{0}\\right\\}$",
+        "the empty set"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q42",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the greatest value of $b$ for which any real-valued function $f$ that satisfies the following properties must also satisfy $f(1)<5$ ?\n\n(i) $f$ is infinitely differentiable on the real numbers;\n\n(ii) $f(0)=1, f^{\\prime}(0)=1$, and $f^{\\prime \\prime}(0)=2$; and\n\n(iii) $\\left|f^{\\prime \\prime \\prime}(x)\\right|<b$ for all $x$ in $[0,1]$.",
+      "options": [
+        "1",
+        "2",
+        "6",
+        "12",
+        "24"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q43",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $n$ be an integer greater than 1. Which of the following conditions guarantee that the equation\n\n$x^{n}=\\sum_{i=0}^{n-1} a_{i} x^{i}$ has at least one root in the interval $(0,1)$ ?\n\nI. $a_{0}>0$ and $\\sum_{i=0}^{n-1} a_{i}<1$\n\nII. $a_{0}>0$ and $\\sum_{i=0}^{n-1} a_{i}>1$\n\nIII. $a_{0}<0$ and $\\sum_{i=0}^{n-1} a_{i}>1$",
+      "options": [
+        "None",
+        "I only",
+        "II only",
+        "III only",
+        "I and III"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q44",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $x$ is a real number and $P$ is a polynomial function, then $\\lim _{h \\rightarrow 0} \\frac{P(x+3 h)+P(x-3 h)-2 P(x)}{h^{2}}=$",
+      "options": [
+        "0",
+        "$6 P^{\\prime}(x)$",
+        "$3 P^{\\prime \\prime}(x)$",
+        "$9 P^{\\prime \\prime}(x)$",
+        "$\\infty$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q45",
+      "topic": "Official Practice Test",
+      "question_markdown": "Consider the system of equations\n\n$$\n\\begin{aligned}& a x^{2}+b y^{3}=c \\\\ & d x^{2}+e y^{3}=f\\end{aligned}\n$$\n\nwhere $a, b, c, d, e$, and $f$ are real constants and $a e \\neq b d$. The maximum possible number of real solutions $(x, y)$ of the system is",
+      "options": [
+        "none",
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q46",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $x^{3}-x+1=a_{0}+a_{1}(x-2)+a_{2}(x-2)^{2}+a_{3}(x-2)^{3}$ for all real numbers $x$, then $\\left(a_{0}, a_{1}, a_{2}, a_{3}\\right)$ is",
+      "options": [
+        "$\\left(1, \\frac{1}{2}, 0,-\\frac{1}{8}\\right)$",
+        "$(1,-1,0,1)$",
+        "$(7,6,10,1)$",
+        "$(7,11,12,6)$",
+        "$(7,11,6,1)$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q47",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $C$ be the ellipse with center $(0,0)$, major axis of length $2 a$, and minor axis of length $2 b$. The value of $\\oint_{C} x d y-y d x$ is",
+      "options": [
+        "$\\pi \\sqrt{a^{2}+b^{2}}$",
+        "$2 \\pi \\sqrt{a^{2}+b^{2}}$",
+        "$2 \\pi a b$",
+        "$\\pi a b$",
+        "$\\frac{\\pi a b}{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q48",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $G_{n}$ denote the cyclic group of order $n$. Which of the following direct products is NOT cyclic?",
+      "options": [
+        "$G_{17} \\times G_{11}$",
+        "$G_{17} \\times G_{11} \\times G_{5}$",
+        "$G_{17} \\times G_{33}$",
+        "$G_{22} \\times G_{33}$",
+        "$G_{49} \\times G_{121}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q49",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $X$ be a random variable with probability density function\n\n$$\nf(x)=\\left\\{\\begin{array}{cl}\\frac{3}{4}\\left(1-x^{2}\\right) & \\text { if }-1 \\leq x \\leq 1 \\\\ 0 & \\text { otherwise }\\end{array}\\right.\n$$\n\nWhat is the standard deviation of $X$ ?",
+      "options": [
+        "0",
+        "$\\frac{1}{5}$",
+        "$\\frac{\\sqrt{30}}{15}$",
+        "$\\frac{1}{\\sqrt{5}}$",
+        "1"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q50",
+      "topic": "Official Practice Test",
+      "question_markdown": "The set of all points $(x, y, z)$ in Euclidean 3-space such that\n\n$$\n\\left|\\begin{array}{llll}1 & x & y & z \\\\ 1 & 1 & 0 & 0 \\\\ 1 & 0 & 1 & 0 \\\\ 1 & 0 & 0 & 1\\end{array}\\right|=0\n$$\n\nis",
+      "options": [
+        "a plane containing the points $(1,0,0),(0,1,0)$, and $(0,0,1)$",
+        "a sphere with center at the origin and radius 1",
+        "a surface containing the point ( $1,1,1$ )",
+        "a vector space with basis $\\{(1,0,0),(0,1,0),(0,0,1)\\}$",
+        "none of the above"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q51",
+      "topic": "Official Practice Test",
+      "question_markdown": "An automorphism $\\phi$ of a field $\\boldsymbol{F}$ is a one-to-one mapping of $F$ onto itself such that $\\phi(a+b)=\\phi(a)+\\phi(b)$ and $\\phi(a b)=\\phi(a) \\phi(b)$ for all $a, b \\in F$. If $F$ is the field of rational numbers, then the number of distinct automorphisms of $F$ is",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4",
+        "infinite"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q52",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $T$ be the transformation of the $x y$-plane that reflects each vector through the $x$-axis and then doubles the vector's length. If $A$ is the $2 \\times 2$ matrix such that $T\\left(\\left[\\begin{array}{l}x \\\\ y\\end{array}\\right]\\right)=A\\left[\\begin{array}{l}x \\\\ y\\end{array}\\right]$ for each vector $\\left[\\begin{array}{l}x \\\\ y\\end{array}\\right]$, then $A=$",
+      "options": [
+        "$\\left[\\begin{array}{ll}0 & 2 \\\\ 2 & 0\\end{array}\\right]$",
+        "$\\left[\\begin{array}{cc}\\frac{\\sqrt{2}}{2} & 1 \\\\ 1 & \\frac{-\\sqrt{2}}{2}\\end{array}\\right]$",
+        "$\\left[\\begin{array}{ll}\\frac{\\sqrt{2}}{2} & \\frac{-\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{array}\\right]$",
+        "$\\left[\\begin{array}{rr}2 & 0 \\\\ 0 & -2\\end{array}\\right]$",
+        "$\\left[\\begin{array}{rr}0 & -2 \\\\ -2 & 0\\end{array}\\right]$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q53",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $r>0$ and let $C$ be the circle $|z|=r$ in the complex plane. If $P$ is a polynomial function, then $\\int_{C} P(z) d z=$",
+      "options": [
+        "0",
+        "$\\pi r^{2}$",
+        "$2 \\pi i$",
+        "$2 \\pi P(0) i$",
+        "$P(r)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q54",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f$ and $g$ are real-valued differentiable functions and if $f^{\\prime}(x) \\geq g^{\\prime}(x)$ for all $x$ in the closed interval $[0,1]$, which of the following must be true?",
+      "options": [
+        "$f(0) \\geq g(0)$",
+        "$f(1) \\geq g(1)$",
+        "$f(1)-g(1) \\geq f(0)-g(0)$",
+        "$f-g$ has no maximum on $[0,1]$.",
+        "$\\frac{f}{g}$ is a nondecreasing function on $[0,1]$."
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q55",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $p$ and $q$ be distinct primes. There is a proper subgroup $J$ of the additive group of integers which contains exactly three elements of the set $\\left\\{p, p+q, p q, p^{q}, q^{p}\\right\\}$. Which three elements are in $J$ ?",
+      "options": [
+        "$p q, p^{q}, q^{p}$",
+        "$p+q, p q, p^{q}$",
+        "$p, p+q, p q$",
+        "$p, p^{q}, q^{p}$",
+        "$p, p q, p^{q}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q56",
+      "topic": "Official Practice Test",
+      "question_markdown": "For a subset $S$ of a topological space $X$, let $\\mathrm{cl}(S)$ denote the closure of $S$ in $X$, and let $S^{\\prime}=\\{x: x \\in \\operatorname{cl}(S-\\{x\\})\\}$ denote the derived set of $S$. If $A$ and $B$ are subsets of $X$, which of the following statements are true?\n\nI. $(A \\cup B)^{\\prime}=A^{\\prime} \\cup B^{\\prime}$\n\nII. $(A \\cap B)^{\\prime}=A^{\\prime} \\cap B^{\\prime}$\n\nIII. If $A^{\\prime}$ is empty, then $A$ is closed in $X$.\n\nIV. If $A$ is open in $X$, then $A^{\\prime}$ is not empty.",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "II and IV only",
+        "I, II, and III only",
+        "I, II, III, and IV"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q57",
+      "topic": "Official Practice Test",
+      "question_markdown": "Consider the following procedure for determining whether a given name appears in an alphabetized list of $n$ names.\n\nStep 1. Choose the name at the middle of the list (if $n=2 k$, choose the $k$ th name); if that is the given name, you are done; if the list is only one name long, you are done. If you are not done, go to Step 2.\n\nStep 2. If the given name comes alphabetically before the name at the middle of the list, apply Step 1 to the first half of the list; otherwise, apply Step 1 to the second half of the list.\n\nIf $n$ is very large, the maximum number of steps required by this procedure is close to",
+      "options": [
+        "$n$",
+        "$n^{2}$",
+        "$\\log _{2} n$",
+        "$n \\log _{2} n$",
+        "$n^{2} \\log _{2} n$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q58",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following is an eigenvalue of the matrix\n\n$\\left(\\begin{array}{cc}2 & 1-i \\\\ 1+i & -2\\end{array}\\right)$\n\nover the complex numbers?",
+      "options": [
+        "0",
+        "1",
+        "$\\sqrt{6}$",
+        "$i$",
+        "$1+i$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q59",
+      "topic": "Official Practice Test",
+      "question_markdown": "Two subgroups $H$ and $K$ of a group $G$ have orders 12 and 30, respectively. Which of the following could NOT be the order of the subgroup of $G$ generated by $H$ and $K$ ?",
+      "options": [
+        "30",
+        "60",
+        "120",
+        "360",
+        "Countable infinity"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q60",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $A$ and $B$ be subsets of a set $M$ and let $S_{0}=\\{A, B\\}$. For $i \\geq 0$, define $S_{i+1}$ inductively to be the collection of subsets $X$ of $M$ that are of the form $C \\cup D, C \\cap D$, or $M-C$ (the complement of $C$ in $M$ ), where $C, D \\in S_{i}$ Let $S=\\bigcup_{i=0}^{\\infty} S_{i}$. What is the largest possible number of elements of $S$ ?",
+      "options": [
+        "4",
+        "8",
+        "15",
+        "16",
+        "$S$ may be infinite."
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q61",
+      "topic": "Official Practice Test",
+      "question_markdown": "A city has square city blocks formed by a grid of north-south and east-west streets. One automobile route from City Hall to the main firehouse is to go exactly 5 blocks east and 7 blocks north. How many different routes from City Hall to the main firehouse traverse exactly 12 city blocks?",
+      "options": [
+        "$5 \\cdot 7$",
+        "$\\frac{7!}{5!}$",
+        "$\\frac{12!}{7!5!}$",
+        "$2^{12}$",
+        "$7!5!$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q62",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $R$ be the set of real numbers with the topology generated by the basis $\\{[a, b): a<b$, where $a, b \\in R\\}$. If $X$ is the subset $[0,1]$ of $R$, which of the following must be true?\n\nI. $X$ is compact.\n\nII. $X$ is Hausdorff.\n\nIII. $X$ is connected.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II",
+        "II and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q63",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $R$ be the circular region of the $x y$-plane with center at the origin and radius 2 . Then $\\int_{R} \\int e^{-\\left(x^{2}+y^{2}\\right)} d x d y=$",
+      "options": [
+        "$4 \\pi$",
+        "$\\pi e^{-4}$",
+        "$4 \\pi e^{-4}$",
+        "$\\pi\\left(1-e^{-4}\\right)$",
+        "$4 \\pi\\left(e-e^{-4}\\right)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q64",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $V$ be the real vector space of real-valued functions defined on the real numbers and having derivatives of all orders. If $D$ is the mapping from $V$ into $V$ that maps every function in $V$ to its derivative, what are all the eigenvectors of $D$ ?",
+      "options": [
+        "All nonzero functions in $V$",
+        "All nonzero constant functions in $V$",
+        "All nonzero functions of the form $k e^{\\lambda x}$, where $k$ and $\\lambda$ are real numbers",
+        "All nonzero functions of the form $\\sum_{i=0}^{k} c_{i} x^{i}$, where $k>0$ and the $c_{i}$ 's are real numbers",
+        "There are no eigenvectors of $D$."
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q65",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f$ is a function defined by a complex power series expansion in $z-a$ which converges for $|z-a|<1$ and diverges for $|z-a|>1$, which of the following must be true?",
+      "options": [
+        "$f(z)$ is analytic in the open unit disk with center at $a$",
+        "The power series for $f(z+a)$ converges for $|z+a|<1$.",
+        "$f^{\\prime}(a)=0$",
+        "$\\int_{C} f(z) d z=0$ for any circle $C$ in the plane",
+        "$f(z)$ has a pole of order 1 at $z=a$."
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    },
+    {
+      "id": "ets-form-gr9367-q66",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $n$ be any positive integer and $1 \\leq x_{1}<x_{2}<\\ldots<x_{n+1} \\leq 2 n$, where each $x_{i}$ is an integer. Which of the following must be true?\n\nI. There is an $x_{i}$ that is the square of an integer.\n\nII. There is an $i$ such that $x_{i+1}=x_{i}+1$.\n\nIII. There is an $x_{i}$ that is prime.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II",
+        "I and III",
+        "II and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "ETS GRE Mathematics Test, Form GR9367",
+      "tags": [
+        "official",
+        "ets",
+        "form-gr9367"
+      ]
+    }
+  ]
+}

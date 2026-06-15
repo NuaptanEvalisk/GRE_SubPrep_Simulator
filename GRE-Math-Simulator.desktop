@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=GRE Math Subject Test Simulator
+Comment=Launch the local GRE math subject test simulator
+Exec=/home/felix/Documents/projects/GRE_SubPrep/launch-gre-simulator.sh
+Path=/home/felix/Documents/projects/GRE_SubPrep
+Icon=utilities-terminal
+Terminal=true
+Categories=Education;
+StartupNotify=true

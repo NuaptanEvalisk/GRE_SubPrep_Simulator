@@ -1,0 +1,35 @@
+{
+  "name": "gre-subprep",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "./launch-gre-simulator.sh",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "validate:questions": "node scripts/validate-question-bank.mjs",
+    "import:practice1": "node scripts/import-practice1-mathpix.mjs",
+    "import:practice2": "node scripts/import-practice2-mathpix.mjs",
+    "import:practice3": "node scripts/import-practice3-mathpix.mjs",
+    "import:practice-new": "node scripts/import-practice-new-mathpix.mjs",
+    "import:bootcamp": "node scripts/import-bootcamp-mathpix.mjs",
+    "import:revisit-problems": "node scripts/build-revisit-problems-bank.mjs"
+  },
+  "dependencies": {
+    "katex": "^0.16.22",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-markdown": "^10.1.0",
+    "rehype-katex": "^7.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.3"
+  }
+}

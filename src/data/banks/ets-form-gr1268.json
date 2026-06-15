@@ -1,0 +1,1393 @@
+{
+  "id": "ets-form-gr1268",
+  "title": "ETS GRE Mathematics Test Practice Form GR1268",
+  "description": "Imported from the official ETS GRE Mathematics Test Practice Book (Form GR1268).",
+  "questions": [
+    {
+      "id": "ets-form-gr1268-q01",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\lim _{x \\rightarrow 0} \\frac{\\cos (3 x)-1}{x^{2}}=$",
+      "options": [
+        "$\\frac{9}{2}$",
+        "$\\frac{3}{2}$",
+        "$-\\frac{2}{3}$",
+        "$-\\frac{3}{2}$",
+        "$-\\frac{9}{2}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q02",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the area of an equilateral triangle whose inscribed circle has radius 2 ?",
+      "options": [
+        "12",
+        "16",
+        "$12 \\sqrt{3}$",
+        "$16 \\sqrt{3}$",
+        "$4(3+2 \\sqrt{2})$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q03",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\int_{e^{-3}}^{e^{-2}} \\frac{1}{x \\log x} d x=$",
+      "options": [
+        "1",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{2}$",
+        "$  \\log \\left(\\frac{2}{3}\\right)$",
+        "$\\log \\left(\\frac{3}{2}\\right)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q04",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $V$ and $W$ be 4-dimensional subspaces of a 7-dimensional vector space $X$. Which of the following CANNOT be the dimension of the subspace $V \\cap W$ ?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q05",
+      "topic": "Official Practice Test",
+      "question_markdown": "Sofia and Tess will each randomly choose one of the 10 integers from 1 to 10 . What is the probability that neither integer chosen will be the square of the other?",
+      "options": [
+        "0.64",
+        "0.72",
+        "0.81",
+        "0.90",
+        "0.95"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q06",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following shows the numbers $2^{1 / 2}, 3^{1 / 3}$, and $6^{1 / 6}$ in increasing order?",
+      "options": [
+        "$2^{1 / 2}<3^{1 / 3}<6^{1 / 6}$",
+        "$6^{1 / 6}<3^{1 / 3}<2^{1 / 2}$",
+        "$6^{1 / 6}<2^{1 / 2}<3^{1 / 3}$",
+        "$3^{1 / 3}<2^{1 / 2}<6^{1 / 6}$",
+        "$3^{1 / 3}<6^{1 / 6}<2^{1 / 2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q07",
+      "topic": "Official Practice Test",
+      "question_markdown": "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-03_460_496_283_813.jpg)\n\nThe figure above shows the graph of the derivative $f^{\\prime}$ of a function $f$, where $f$ is continuous on the interval $[0,4]$ and differentiable on the interval $(0,4)$. Which of the following gives the correct ordering of the values $f(0), f(2)$, and $f(4)$ ?",
+      "options": [
+        "$f(0)<f(2)<f(4)$",
+        "$f(0)<f(4)=f(2)$",
+        "$f(0)<f(4)<f(2)$",
+        "$f(4)=f(2)<f(0)$",
+        "$f(4)<f(0)<f(2)$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q08",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following is NOT a group?",
+      "options": [
+        "The integers under addition",
+        "The nonzero integers under multiplication",
+        "The nonzero real numbers under multiplication",
+        "The complex numbers under addition",
+        "The nonzero complex numbers under multiplication"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q09",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $g$ be a continuous real-valued function defined on $\\mathbb{R}$ with the following properties.\n\n$$\n\\begin{gathered}g^{\\prime}(0)=0 \\\\ g^{\\prime \\prime}(-1)>0 \\\\ g^{\\prime \\prime}(x)<0 \\text { if } 0<x<2\\end{gathered}\n$$\n\nWhich of the following could be part of the graph of $g$ ?",
+      "options": [
+        "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-04_373_471_662_284.jpg)",
+        "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-04_369_462_662_863.jpg)",
+        "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-04_369_455_662_1430.jpg)",
+        "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-04_369_458_1128_292.jpg)",
+        "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-04_366_474_1128_863.jpg)"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q10",
+      "topic": "Official Practice Test",
+      "question_markdown": "$$\n\\sqrt{(x+3)^{2}+(y-2)^{2}}=\\sqrt{(x-3)^{2}+y^{2}}\n$$\n\nIn the $x y$-plane, the set of points whose coordinates satisfy the equation above is",
+      "options": [
+        "a line",
+        "a circle",
+        "an ellipse",
+        "a parabola",
+        "one branch of a hyperbola"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q11",
+      "topic": "Official Practice Test",
+      "question_markdown": "The region bounded by the curves $y=x$ and $y=x^{2}$ in the first quadrant of the $x y$-plane is rotated about the $y$-axis. The volume of the resulting solid of revolution is",
+      "options": [
+        "$\\frac{\\pi}{12}$",
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{2 \\pi}{3}$",
+        "$\\frac{3 \\pi}{2}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q12",
+      "topic": "Official Practice Test",
+      "question_markdown": "For which integers $n$ such that $3 \\leq n \\leq 11$ is there only one group of order $n$ (up to isomorphism)?",
+      "options": [
+        "For no such integer $n$",
+        "For 3, 5, 7, and 11 only",
+        "For 3, 5, 7, 9, and 11 only",
+        "For 4, 6, 8, and 10 only",
+        "For all such integers $n$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q13",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $f$ is a continuously differentiable real-valued function defined on the open interval ( $-1,4$ ) such that $f(3)=5$ and $f^{\\prime}(x) \\geq-1$ for all $x$, what is the greatest possible value of $f(0)$ ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "8",
+        "11"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q14",
+      "topic": "Official Practice Test",
+      "question_markdown": "Suppose $g$ is a continuous real-valued function such that $3 x^{5}+96=\\int_{c}^{x} g(t) d t$ for each $x \\in \\mathbb{R}$, where $c$ is a constant. What is the value of $c$ ?",
+      "options": [
+        "-96",
+        "-2",
+        "4",
+        "15",
+        "32"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q15",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $S, T$, and $U$ be nonempty sets, and let $f: S \\rightarrow T$ and $g: T \\rightarrow U$ be functions such that the function $g \\circ f: S \\rightarrow U$ is one-to-one (injective). Which of the following must be true?",
+      "options": [
+        "$f$ is one-to-one.",
+        "$f$ is onto.",
+        "$g$ is one-to-one.",
+        "$g$ is onto.",
+        "$g \\circ f$ is onto."
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q16",
+      "topic": "Official Practice Test",
+      "question_markdown": "Suppose $A, B$, and $C$ are statements such that $C$ is true if exactly one of $A$ and $B$ is true. If $C$ is false, which of the following statements must be true?",
+      "options": [
+        "If $A$ is true, then $B$ is false.",
+        "If $A$ is false, then $B$ is false.",
+        "If $A$ is false, then $B$ is true.",
+        "Both $A$ and $B$ are true.",
+        "Both $A$ and $B$ are false."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q17",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following equations has the greatest number of real solutions?",
+      "options": [
+        "$x^{3}=10-x$",
+        "$x^{2}+5 x-7=x+8$",
+        "$7 x+5=1-3 x$",
+        "$e^{x}=x$",
+        "$  \\sec x=e^{-x^{2}}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q18",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f$ be the function defined by $f(x)=\\sum_{n=1}^{\\infty} \\frac{x^{n}}{n}$ for all $x$ such that $-1<x<1$. Then $f^{\\prime}(x)=$",
+      "options": [
+        "$\\frac{1}{1-x}$",
+        "$\\frac{x}{1-x}$",
+        "$\\frac{1}{1+x}$",
+        "$\\frac{x}{1+x}$",
+        "0"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q19",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $z$ is a complex variable and $\\bar{z}$ denotes the complex conjugate of $z$, what is $\\lim _{z \\rightarrow 0} \\frac{(\\bar{z})^{2}}{z^{2}}$ ?",
+      "options": [
+        "0",
+        "1",
+        "$i$",
+        "$\\infty$",
+        "The limit does not exist."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q20",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $g$ be the function defined by $g(x)=e^{2 x+1}$ for all real $x$. Then $\\lim _{x \\rightarrow 0} \\frac{g(g(x))-g(e)}{x}=$",
+      "options": [
+        "$2 e$",
+        "$4 e^{2}$",
+        "$e^{2 e+1}$",
+        "$2 e^{2 e+1}$",
+        "$4 e^{2 e+2}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q21",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the value of $\\int_{-\\pi / 4}^{\\pi / 4}\\left(\\cos t+\\sqrt{1+t^{2}} \\sin ^{3} t \\cos ^{3} t\\right) d t$ ?",
+      "options": [
+        "0",
+        "$\\sqrt{2}$",
+        "$\\sqrt{2}-1$",
+        "$\\frac{\\sqrt{2}}{2}$",
+        "$\\frac{\\sqrt{2}-1}{2}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q22",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the volume of the solid in $x y z$-space bounded by the surfaces $y=x^{2}, y=2-x^{2}, z=0$, and $z=y+3$ ?",
+      "options": [
+        "$\\frac{8}{3}$",
+        "$\\frac{16}{3}$",
+        "$\\frac{32}{3}$",
+        "$\\frac{104}{105}$",
+        "$\\frac{208}{105}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q23",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $\\left(\\mathbb{Z}_{10},+, \\cdot\\right)$ be the ring of integers modulo 10 , and let $S$ be the subset of $\\mathbb{Z}_{10}$ represented by $\\{0,2,4,6,8\\}$. Which of the following statements is FALSE?",
+      "options": [
+        "$(S,+, \\cdot)$ is closed under addition modulo 10 .",
+        "$(S,+, \\cdot)$ is closed under multiplication modulo 10.",
+        "( $S,+, \\cdot$ ) has an identity under addition modulo 10 .",
+        "( $S,+, \\cdot$ ) has no identity under multiplication modulo 10 .",
+        "$(S,+, \\cdot)$ is commutative under addition modulo 10 ."
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q24",
+      "topic": "Official Practice Test",
+      "question_markdown": "Consider the system of linear equations\n\n$$\n\\begin{aligned}w+3 x+2 y+2 z & =0 \\\\ w+4 x+y & =0 \\\\ 3 w+5 x+10 y+14 z & =0 \\\\ 2 w+5 x+5 y+6 z & =0\\end{aligned}\n$$\n\nwith solutions of the form $(w, x, y, z)$, where $w, x, y$, and $z$ are real. Which of the following statements is FALSE?",
+      "options": [
+        "The system is consistent.",
+        "The system has infinitely many solutions.",
+        "The sum of any two solutions is a solution.",
+        "$(-5,1,1,0)$ is a solution.",
+        "Every solution is a scalar multiple of $(-5,1,1,0)$."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q25",
+      "topic": "Official Practice Test",
+      "question_markdown": "![](/question-assets/ets-form-gr1268/84d71dbd-4229-4b23-8e15-20daa363abf6-10_679_821_283_657.jpg)\n\nThe graph of the derivative $h^{\\prime}$ is shown above, where $h$ is a real-valued function. Which of the following open intervals contains a value $c$ for which the point ( $c, h(c)$ ) is an inflection point of $h$ ?",
+      "options": [
+        "$(-2,-1)$",
+        "$(-1,0)$",
+        "$(0,1)$",
+        "$(1,2)$",
+        "$(2,3)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q26",
+      "topic": "Official Practice Test",
+      "question_markdown": "$$\n\\begin{aligned}& 3 x \\equiv 5(\\bmod 11) \\\\ & 2 y \\equiv 7(\\bmod 11)\\end{aligned}\n$$\n\nIf $x$ and $y$ are integers that satisfy the congruences above, then $x+y$ is congruent modulo 11 to which of the following?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q27",
+      "topic": "Official Practice Test",
+      "question_markdown": "$(1+i)^{10}=$",
+      "options": [
+        "1",
+        "$i$",
+        "32",
+        "$32 i$",
+        "$32(i+1)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q28",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f$ be a one-to-one (injective), positive-valued function defined on $\\mathbb{R}$. Assume that $f$ is differentiable at $x=1$ and that in the $x y$-plane the line $y-4=3(x-1)$ is tangent to the graph of $f$ at $x=1$. Let $g$ be the function defined by $g(x)=\\sqrt{x}$ for $x \\geq 0$. Which of the following is FALSE?",
+      "options": [
+        "$f^{\\prime}(1)=3$",
+        "$\\left(f^{-1}\\right)^{\\prime}(4)=\\frac{1}{3}$",
+        "$(f g)^{\\prime}(1)=5$",
+        "$(g \\circ f)^{\\prime}(1)=\\frac{1}{2}$",
+        "$(g \\circ f)(1)=2$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q29",
+      "topic": "Official Practice Test",
+      "question_markdown": "A tree is a connected graph with no cycles. How many nonisomorphic trees with 5 vertices exist?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q30",
+      "topic": "Official Practice Test",
+      "question_markdown": "For what positive value of $c$ does the equation $\\log x=c x^{4}$ have exactly one real solution for $x$ ?",
+      "options": [
+        "$\\frac{1}{4 e}$",
+        "$\\frac{1}{4 e^{4}}$",
+        "$\\frac{e^{4}}{4}$",
+        "$\\frac{4}{e^{1 / 4}}$",
+        "$4 e^{1 / 4}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q31",
+      "topic": "Official Practice Test",
+      "question_markdown": "Of the numbers 2, 3, and 5, which are eigenvalues of the matrix $\\left(\\begin{array}{lll}3 & 5 & 3 \\\\ 1 & 7 & 3 \\\\ 1 & 2 & 8\\end{array}\\right)$ ?",
+      "options": [
+        "None",
+        "2 and 3 only",
+        "2 and 5 only",
+        "3 and 5 only",
+        "2, 3, and 5"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q32",
+      "topic": "Official Practice Test",
+      "question_markdown": "$\\frac{d}{d x} \\int_{x^{3}}^{x^{4}} e^{t^{2}} d t=$",
+      "options": [
+        "$e^{x^{6}}\\left(e^{x^{8}-x^{6}}-1\\right)$",
+        "$4 x^{3} e^{x^{8}}$",
+        "$\\frac{1}{\\sqrt{1-e^{x^{2}}}}$",
+        "$\\frac{e^{x^{2}}}{x^{2}}-1$",
+        "$x^{2} e^{x^{6}}\\left(4 x e^{x^{8}-x^{6}}-3\\right)$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q33",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the 19 th derivative of $\\frac{x-1}{e^{x}}$ ?",
+      "options": [
+        "$(18-x) e^{-x}$",
+        "$(19-x) e^{-x}$",
+        "$(20-x) e^{-x}$",
+        "$(x-19) e^{-x}$",
+        "$(x-20) e^{-x}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q34",
+      "topic": "Official Practice Test",
+      "question_markdown": "$$\nA=\\left(\\begin{array}{lllll}1 & 2 & 3 & 4 & 5 \\\\ 0 & 2 & 3 & 4 & 5 \\\\ 0 & 0 & 3 & 4 & 5 \\\\ 0 & 0 & 0 & 4 & 5 \\\\ 0 & 0 & 0 & 0 & 5\\end{array}\\right)\n$$\n\nWhich of the following statements about the real matrix shown above is FALSE?",
+      "options": [
+        "$A$ is invertible.",
+        "If $\\mathbf{x} \\in \\mathbb{R}^{5}$ and $A \\mathbf{x}=\\mathbf{x}$, then $\\mathbf{x}=\\mathbf{0}$.",
+        "The last row of $A^{2}$ is ( $\\left.\\begin{array}{lllll}0 & 0 & 0 & 0 & 25\\end{array}\\right)$.",
+        "$A$ can be transformed into the $5 \\times 5$ identity matrix by a sequence of elementary row operations.",
+        "$\\det(A)=120$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q35",
+      "topic": "Official Practice Test",
+      "question_markdown": "In $x y z$-space, what are the coordinates of the point on the plane $2 x+y+3 z=3$ that is closest to the origin?",
+      "options": [
+        "$(0,0,1)$",
+        "$\\left(\\frac{3}{7}, \\frac{3}{14}, \\frac{9}{14}\\right)$",
+        "$\\left(\\frac{7}{15}, \\frac{8}{15}, \\frac{1}{15}\\right)$",
+        "$\\left(\\frac{5}{6}, \\frac{1}{3}, \\frac{1}{3}\\right)$",
+        "$\\left(1,1, \\frac{1}{3}\\right)$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q36",
+      "topic": "Official Practice Test",
+      "question_markdown": "Suppose $S$ is a nonempty subset of $\\mathbb{R}$. Which of the following is necessarily true?",
+      "options": [
+        "For each $s, t \\in S$, there exists a continuous function $f$ mapping [ 0,1 ] into $S$ with $f(0)=s$ and $f(1)=t$.",
+        "For each $u \\notin S$, there exists an open subset $U$ of $\\mathbb{R}$ such that $u \\in U$ and $U \\cap S=\\varnothing$.",
+        "$\\{v \\in S$ : there exists an open subset $V$ of $\\mathbb{R}$ with $v \\in V \\subseteq S\\}$ is an open subset of $\\mathbb{R}$.",
+        "$\\{w \\notin S$ : there exists an open subset $W$ of $\\mathbb{R}$ with $w \\in W$ and $W \\cap S=\\varnothing\\}$ is a closed subset of $\\mathbb{R}$.",
+        "$S$ is the intersection of all closed subsets of $\\mathbb{R}$ that contain $S$."
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q37",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $V$ be a finite-dimensional real vector space and let $P$ be a linear transformation of $V$ such that $P^{2}=P$. Which of the following must be true?\n\nI. $P$ is invertible.\n\nII. $P$ is diagonalizable.\n\nIII. $P$ is either the identity transformation or the zero transformation.",
+      "options": [
+        "None",
+        "I only",
+        "II only",
+        "III only",
+        "II and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q38",
+      "topic": "Official Practice Test",
+      "question_markdown": "The maximum number of acute angles in a convex 10-gon in the Euclidean plane is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q39",
+      "topic": "Official Practice Test",
+      "question_markdown": "Consider the following algorithm, which takes an input integer $\\mathrm{n}>2$ and prints one or more integers.\n\n```\ninput(n)\nset $i=1$\nwhile i<n\n    begin\n        replace i by i+1\n        set $k=n$\n        while k $\\geq$ i\n    begin\n            if i=k then print(i)\n        replace k by $\\mathrm{k}-1$\n    end\n    end\n```\n\nIf the input integer is 88 , what integers will be printed?",
+      "options": [
+        "Only the integer 2",
+        "Only the integer 88",
+        "Only the divisors of 88 that are greater than 1",
+        "The integers from 2 to 88 in increasing order",
+        "The integers from 88 to 2 in decreasing order"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q40",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $S$ be the set of all functions $f: \\mathbb{R} \\rightarrow \\mathbb{R}$. Consider the two binary operations + and o on $S$ defined as pointwise addition and composition of functions, as follows.\n\n$$\n\\begin{aligned}(f+g)(x) & =f(x)+g(x) \\\\ (f \\circ g)(x) & =f(g(x))\\end{aligned}\n$$\n\nWhich of the following statements are true?\n\nI. ∘ is commutative.\n\nII. + and ∘ satisfy the left distributive law $f \\circ(g+h)=(f \\circ g)+(f \\circ h)$.\n\nIII. + and ∘ satisfy the right distributive law $(g+h) \\circ f=(g \\circ f)+(h \\circ f)$.",
+      "options": [
+        "None",
+        "II only",
+        "III only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q41",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $\\ell$ be the line that is the intersection of the planes $x+y+z=3$ and $x-y+z=5$ in $\\mathbb{R}^{3}$. An equation of the plane that contains $(0,0,0)$ and is perpendicular to $\\ell$ is",
+      "options": [
+        "$x-z=0$",
+        "$x+y+z=0$",
+        "$x-y-z=0$",
+        "$x+z=0$",
+        "$x+y-z=0$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q42",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $\\mathbb{Z}^{+}$be the set of positive integers and let $d$ be the metric on $\\mathbb{Z}^{+}$defined by\n\n$$\nd(m, n)= \\begin{cases}0 & \\text { if } m=n\n\n 1 & \\text { if } m \\neq n\\end{cases}\n$$\n\nfor all $m, n \\in \\mathbb{Z}^{+}$. Which of the following statements are true about the metric space $\\left(\\mathbb{Z}^{+}, d\\right)$ ?\n\nI. If $n \\in \\mathbb{Z}^{+}$, then $\\{n\\}$ is an open subset of $\\mathbb{Z}^{+}$.\n\nII. Every subset of $\\mathbb{Z}^{+}$is closed.\n\nIII. Every real-valued function defined on $\\mathbb{Z}^{+}$is continuous.",
+      "options": [
+        "None",
+        "I only",
+        "III only",
+        "I and II only",
+        "I, II, and III"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q43",
+      "topic": "Official Practice Test",
+      "question_markdown": "A curve in the $x y$-plane is given parametrically by\n\n$$\n\\begin{aligned}& x=t^{2}+2 t \\\\ & y=3 t^{4}+4 t^{3}\\end{aligned}\n$$\n\nfor all $t>0$. The value of $\\frac{d^{2} y}{d x^{2}}$ at the point $(8,80)$ is",
+      "options": [
+        "4",
+        "24",
+        "32",
+        "96",
+        "192"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q44",
+      "topic": "Official Practice Test",
+      "question_markdown": "$$\n\\begin{aligned}y^{\\prime}+x y & =x \\\\ y(0) & =-1\\end{aligned}\n$$\n\nIf $y$ is a real-valued function defined on the real line and satisfying the initial value problem above, then $\\lim _{x \\rightarrow-\\infty} y(x)=$",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "$\\infty$",
+        "$-\\infty$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q45",
+      "topic": "Official Practice Test",
+      "question_markdown": "How many positive numbers $x$ satisfy the equation $\\cos (97 x)=x$ ?",
+      "options": [
+        "1",
+        "15",
+        "31",
+        "49",
+        "96"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q46",
+      "topic": "Official Practice Test",
+      "question_markdown": "A ladder 9 meters in length is leaning against a vertical wall on level ground. As the bottom end of the ladder is moved away from the wall at a constant rate of 2 meters per second, the top end slides downward along the wall. How fast, in meters per second, will the top end of the ladder be sliding downward at the moment the top end is 3 meters above the ground?",
+      "options": [
+        "$12 \\sqrt{2}$",
+        "$6 \\sqrt{2}$",
+        "$4 \\sqrt{2}$",
+        "$\\frac{1}{2 \\sqrt{2}}$",
+        "$\\frac{2}{3}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q47",
+      "topic": "Official Practice Test",
+      "question_markdown": "The function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ is defined as follows.\n\n$$\nf(x)=\\left\\{\\begin{aligned}3 x^{2} & \\text { if } x \\in \\mathbb{Q} \\\\ -5 x^{2} & \\text { if } x \\notin \\mathbb{Q}\\end{aligned}\\right.\n$$\n\nWhich of the following is true?",
+      "options": [
+        "$f$ is discontinuous at all $x \\in \\mathbb{R}$.",
+        "$f$ is continuous only at $x=0$ and differentiable only at $x=0$.",
+        "$f$ is continuous only at $x=0$ and nondifferentiable at all $x \\in \\mathbb{R}$.",
+        "$f$ is continuous at all $x \\in \\mathbb{Q}$ and nondifferentiable at all $x \\in \\mathbb{R}$.",
+        "$f$ is continuous at all $x \\notin \\mathbb{Q}$ and nondifferentiable at all $x \\in \\mathbb{R}$."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q48",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $g$ be the function defined by $g(x, y, z)=3 x^{2} y+z$ for all real $x, y$, and $z$. Which of the following is the best approximation of the directional derivative of $g$ at the point $(0,0, \\pi)$ in the direction of the vector $\\mathbf{i}+2 \\mathbf{j}+3 \\mathbf{k}$ ? (Note: $\\mathbf{i}, \\mathbf{j}$, and $\\mathbf{k}$ are the standard basis vectors in $\\mathbb{R}^{3}$.)",
+      "options": [
+        "0.2",
+        "0.8",
+        "1.4",
+        "2.0",
+        "2.6"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q49",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the largest order of an element in the group of permutations of 5 objects?",
+      "options": [
+        "5",
+        "6",
+        "12",
+        "15",
+        "120"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q50",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $R$ be a ring and let $U$ and $V$ be (two-sided) ideals of $R$. Which of the following must also be ideals of $R$ ?\n\nI. $U+V=\\{u+v: u \\in U$ and $v \\in V\\}$\n\nII. $U \\cdot V=\\{u v: u \\in U$ and $v \\in V\\}$\n\nIII. $U \\cap V$",
+      "options": [
+        "II only",
+        "III only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q51",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following is an orthonormal basis for the column space of the real matrix $\\left(\\begin{array}{rrrr}1 & -1 & 2 & -3 \\\\ -1 & 1 & -3 & 2 \\\\ 2 & -2 & 5 & -5\\end{array}\\right)$ ?",
+      "options": [
+        "$\\left\\{\\left(\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right),\\left(\\begin{array}{l}0 \\\\ 1 \\\\ 0\\end{array}\\right)\\right\\}$",
+        "$\\left\\{\\left(\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right),\\left(\\begin{array}{l}0 \\\\ 1 \\\\ 0\\end{array}\\right),\\left(\\begin{array}{l}0 \\\\ 0 \\\\ 1\\end{array}\\right)\\right\\}$",
+        "$\\left\\{\\left(\\begin{array}{l}1 \\\\ 0 \\\\ 0\\end{array}\\right),\\left(\\begin{array}{c}\\frac{2}{\\sqrt{5}} \\\\ \\frac{1}{\\sqrt{5}} \\\\ 0\\end{array}\\right)\\right\\}$",
+        "$\\left\\{\\left(\\begin{array}{r}1 \\\\ -1 \\\\ 2\\end{array}\\right),\\left(\\begin{array}{r}2 \\\\ -3 \\\\ 5\\end{array}\\right)\\right\\}$",
+        "$\\left\\{\\left(\\begin{array}{c}\\frac{1}{\\sqrt{6}} \\\\ -\\frac{1}{\\sqrt{6}} \\\\ \\frac{2}{\\sqrt{6}}\\end{array}\\right),\\left(\\begin{array}{c}\\frac{1}{\\sqrt{2}} \\\\ \\frac{1}{\\sqrt{2}} \\\\ 0\\end{array}\\right)\\right\\}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q52",
+      "topic": "Official Practice Test",
+      "question_markdown": "A university's mathematics department has 10 professors and will offer 20 different courses next semester. Each professor will be assigned to teach exactly 2 of the courses, and each course will have exactly one professor assigned to teach it. If any professor can be assigned to teach any course, how many different complete assignments of the 10 professors to the 20 courses are possible?",
+      "options": [
+        "$\\frac{20!}{2^{10}}$",
+        "$\\frac{10!}{2^{9}}$",
+        "$10^{20}-2^{10}$",
+        "$10^{20}-100$",
+        "$\\frac{20!10!}{2^{10}}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q53",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $f$ and $g$ be functions of a real variable such that $g(x)=\\int_{0}^{x} f(y)(y-x) d y$ for all $x$. If $g$ is three times continuously differentiable, what is the greatest integer $n$ for which $f$ must be $n$ times continuously differentiable?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Official answer key: A. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q54",
+      "topic": "Official Practice Test",
+      "question_markdown": "If a real number $x$ is chosen at random in the interval $[0,3]$ and a real number $y$ is chosen at random in the interval $[0,4]$, what is the probability that $x<y$ ?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{7}{12}$",
+        "$\\frac{5}{8}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{4}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q55",
+      "topic": "Official Practice Test",
+      "question_markdown": "If $a$ and $b$ are positive numbers, what is the value of $\\int_{0}^{\\infty} \\frac{e^{a x}-e^{b x}}{\\left(1+e^{a x}\\right)\\left(1+e^{b x}\\right)} d x$ ?",
+      "options": [
+        "0",
+        "1",
+        "$a-b$",
+        "$(a-b) \\log 2$",
+        "$\\frac{a-b}{a b} \\log 2$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q56",
+      "topic": "Official Practice Test",
+      "question_markdown": "Which of the following statements are true?\n\nI. There exists a constant $C$ such that $\\log x \\leq C \\sqrt{x}$ for all $x \\geq 1$.\n\nII. There exists a constant $C$ such that $\\sum_{k=1}^{n} k^{2} \\leq C n^{2}$ for all integers $n \\geq 1$.\n\nIII. There exists a constant $C$ such that $|\\sin x-x| \\leq C\\left|x^{3}\\right|$ for all real $x$.",
+      "options": [
+        "None",
+        "I only",
+        "III only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q57",
+      "topic": "Official Practice Test",
+      "question_markdown": "For each positive integer $n$, let $x_{n}$ be a real number in the open interval $\\left(0, \\frac{1}{n}\\right)$. Which of the following statements must be true?\n\nI. $\\lim _{n \\rightarrow \\infty} x_{n}=0$\n\nII. If $f$ is a continuous real-valued function defined on $(0,1)$, then $\\left\\{f\\left(x_{n}\\right)\\right\\}_{n=1}^{\\infty}$ is a Cauchy sequence.\n\nIII. If $g$ is a uniformly continuous real-valued function defined on $(0,1)$, then $\\lim _{n \\rightarrow \\infty} g\\left(x_{n}\\right)$ exists.",
+      "options": [
+        "I only",
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q58",
+      "topic": "Official Practice Test",
+      "question_markdown": "A circular helix in $x y z$-space has the following parametric equations, where $\\theta \\in \\mathbb{R}$.\n\n$$\n\\begin{aligned}& x(\\theta)=5 \\cos \\theta \\\\ & y(\\theta)=5 \\sin \\theta \\\\ & z(\\theta)=\\theta\\end{aligned}\n$$\n\nLet $L(\\theta)$ be the arc length of the helix from the point $P(\\theta)=(x(\\theta), y(\\theta), z(\\theta))$ to the point (5,0,0), and let $D(\\theta)$ be the distance between $P(\\theta)$ and the origin. If $L\\left(\\theta_{0}\\right)=26$, then $D\\left(\\theta_{0}\\right)=$",
+      "options": [
+        "6",
+        "$\\sqrt{51}$",
+        "$\\sqrt{52}$",
+        "$14 \\sqrt{3}$",
+        "$15 \\sqrt{3}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q59",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $A$ be a real $3 \\times 3$ matrix. Which of the following conditions does NOT imply that $A$ is invertible?",
+      "options": [
+        "$-A$ is invertible.",
+        "There exists a positive integer $k$ such that $\\det\\left(A^{k}\\right) \\neq 0$.",
+        "There exists a positive integer $k$ such that $(I-A)^{k}=0$, where $I$ is the $3 \\times 3$ identity matrix.",
+        "The set of all vectors of the form $A \\mathbf{v}$, where $\\mathbf{v} \\in \\mathbb{R}^{3}$, is $\\mathbb{R}^{3}$.",
+        "There exist 3 linearly independent vectors $\\mathbf{v}_{1}, \\mathbf{v}_{2}, \\mathbf{v}_{3} \\in \\mathbb{R}^{3}$ such that $A \\mathbf{v}_{i} \\neq \\mathbf{0}$ for each $i$."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q60",
+      "topic": "Official Practice Test",
+      "question_markdown": "A real-valued function $f$ defined on $\\mathbb{R}$ has the following property.\n\nFor every positive number $\\epsilon$, there exists a positive number $\\delta$ such that\n\n$$\n|f(x)-f(1)| \\geq \\epsilon \\text { whenever }|x-1| \\geq \\delta\n$$\n\nThis property is equivalent to which of the following statements about $f$ ?",
+      "options": [
+        "$f$ is continuous at $x=1$.",
+        "$f$ is discontinuous at $x=1$.",
+        "$f$ is unbounded.",
+        "$\\lim _{|x| \\rightarrow \\infty}|f(x)|=\\infty$",
+        "$\\int_{0}^{\\infty}|f(x)| d x=\\infty$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Official answer key: D. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q61",
+      "topic": "Official Practice Test",
+      "question_markdown": "A tank initially contains a salt solution of 3 grams of salt dissolved in 100 liters of water. A salt solution containing 0.02 grams of salt per liter of water is sprayed into the tank at a rate of 4 liters per minute. The sprayed solution is continually mixed with the salt solution in the tank, and the mixture flows out of the tank at a rate of 4 liters per minute. If the mixing is instantaneous, how many grams of salt are in the tank after 100 minutes have elapsed?",
+      "options": [
+        "2",
+        "$2-e^{-2}$",
+        "$2+e^{-2}$",
+        "$2-e^{-4}$",
+        "$2+e^{-4}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q62",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $S$ be the subset of $\\mathbb{R}^{2}$ consisting of all points $(x, y)$ in the unit square $[0,1] \\times[0,1]$ for which $x$ or $y$, or both, are irrational. With respect to the standard topology on $\\mathbb{R}^{2}, S$ is",
+      "options": [
+        "closed",
+        "open",
+        "connected",
+        "totally disconnected",
+        "compact"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Official answer key: C. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q63",
+      "topic": "Official Practice Test",
+      "question_markdown": "For any nonempty sets $A$ and $B$ of real numbers, let $A \\cdot B$ be the set defined by\n\n$$\nA \\cdot B=\\{x y: x \\in A \\text { and } y \\in B\\} .\n$$\n\nIf $A$ and $B$ are nonempty bounded sets of real numbers and if $\\sup (A)>\\sup (B)$, then $\\sup (A \\cdot B)=$",
+      "options": [
+        "$\\sup (A) \\sup (B)$",
+        "$\\sup (A) \\inf (B)$",
+        "$\\max \\{\\sup (A) \\sup (B), \\inf (A) \\inf (B)\\}$",
+        "$\\max \\{\\sup (A) \\sup (B), \\sup (A) \\inf (B)\\}$",
+        "$\\max \\{\\sup (A) \\sup (B), \\inf (A) \\sup (B), \\inf (A) \\inf (B)\\}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q64",
+      "topic": "Official Practice Test",
+      "question_markdown": "What is the value of the flux of the vector field $\\mathbf{F}$, defined on $\\mathbb{R}^{3}$ by $\\mathbf{F}(x, y, z)=x \\mathbf{i}+y \\mathbf{j}+z \\mathbf{k}$, through the surface $z=\\sqrt{1-x^{2}-y^{2}}$ oriented with upward-pointing normal vector field? (Note: $\\mathbf{i}, \\mathbf{j}$, and $\\mathbf{k}$ are the standard basis vectors in $\\mathbb{R}^{3}$.)",
+      "options": [
+        "0",
+        "$\\frac{2 \\pi}{3}$",
+        "$\\pi$",
+        "$\\frac{4 \\pi}{3}$",
+        "$2 \\pi$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q65",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $g$ be a differentiable function of two real variables, and let $f$ be the function of a complex variable $z$ defined by\n\n$$\nf(z)=e^{x} \\sin y+i g(x, y)\n$$\n\nwhere $x$ and $y$ are the real and imaginary parts of $z$, respectively. If $f$ is an analytic function on the complex plane, then $g(3,2)-g(1,2)=$",
+      "options": [
+        "$e^{2}$",
+        "$e^{2}(\\sin 3-\\sin 1)$",
+        "$e^{2}(\\cos 3-\\cos 1)$",
+        "$e-e^{3} \\sin 2$",
+        "$\\left(e-e^{3}\\right) \\cos 2$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Official answer key: E. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    },
+    {
+      "id": "ets-form-gr1268-q66",
+      "topic": "Official Practice Test",
+      "question_markdown": "Let $\\mathbb{Z}_{17}$ be the ring of integers modulo 17 , and let $\\mathbb{Z}_{17}{ }^{\\times}$be the group of units of $\\mathbb{Z}_{17}$ under multiplication. Which of the following are generators of $\\mathbb{Z}_{17}{ }^{\\times}$?\n\nI. 5\n\nII. 8\n\nIII. 16",
+      "options": [
+        "None",
+        "I only",
+        "II only",
+        "III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Official answer key: B. Worked solutions are not included in the source practice book.",
+      "source_note": "ETS GRE Mathematics Test Practice Book, Form GR1268",
+      "tags": [
+        "official",
+        "ets",
+        "practice-book",
+        "form-gr1268"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3919 @@
+{
+  "id": "bootcamp-problem-sets",
+  "title": "GRE Math Bootcamp Problem Sets",
+  "description": "Imported from a large GRE math bootcamp problem-set packet with topic-grouped questions, mixed multiple-choice formats, and one ungraded open-response item.",
+  "questions": [
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q01",
+      "topic": "Problem Set #1",
+      "question_markdown": "Evaluate $\\int_{-2}^{-1} \\frac{d x}{\\sqrt{-x^{2}-6 x}}$.",
+      "options": [
+        "$\\arcsin (2 / 3)-\\arcsin (1 / 3)$",
+        "$\\arccos (2 / 3)-\\arccos (1 / 3)$",
+        "$\\arctan (2 / 3)-\\arctan (2 / 3)$",
+        "$\\arctan (2 / 3)+\\arctan (2 / 3)$",
+        "$\\arccos (2 / 3)+\\arccos (1 / 3)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "The key is to notice that the integrand can be rewritten as:\n\n$$\n\\frac{\\frac{1}{3}}{\\sqrt{1-\\left(\\left(\\frac{x-3}{3}\\right)^{2}\\right.}}\n$$\n\nThen, we have that the antiderivative of $\\arcsin (u)$ where $u=(x-3) / 3$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q02",
+      "topic": "Problem Set #1",
+      "question_markdown": "Let $f(x)=x^{3}+6 x^{2}-32$. Define $T_{c, f}(x)=\\sum_{n=0}^{\\infty} a_{n}(x-c)^{n}$ to be the Taylor series centered at $c$ of $f$. For what values of $c$ does $a_{0}=0$ ?",
+      "options": [
+        "$c=3,2$",
+        "$c=-3,2,-2$",
+        "$c=4,2$",
+        "$c=-4,2,-2$",
+        "$c=-4,2$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Recall $a_{0}=f(c)$. Hence, we must find the roots of $f$. Note that the roots must divide 32 because the polynomial is monic.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q03",
+      "topic": "Problem Set #1",
+      "question_markdown": "Suppose that $X$ and $Y$ are independent random variables with standard deviations $\\sigma_{X}$ and $\\sigma_{Y}$, respectively. If $Z=X+Y$, then $\\sigma_{Z}=$",
+      "options": [
+        "$\\sigma_{X}+\\sigma_{Y}$",
+        "$\\sigma_{X}^{2}+\\sigma_{Y}^{2}$",
+        "$\\left(\\sigma_{X}^{2}+\\sigma_{Y}^{2}\\right)^{1 / 2}$",
+        "$2 \\sigma_{X}+2 \\sigma_{Y}$",
+        "$\\sigma_{X} \\sigma_{Y}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Since $X$ and $Y$ are independent the variance is additive:\n\n$$\n\\sigma_{Z}^{2}=\\operatorname{Var}(X+Y)=\\operatorname{Var}(X)+\\operatorname{Var}(Y)=\\sigma_{X}^{2}+\\sigma_{Y}^{2}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q04",
+      "topic": "Problem Set #1",
+      "question_markdown": "Let $S=\\{a, b, c, d\\}$ and $X=\\{f: S \\rightarrow S \\mid f$ is bijective and $f(x) \\neq x$ for each $x \\in S\\}$. Then $|X|=$",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "18",
+        "20"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "The number of bijective functions is $4!$. Using the inclusion-exclusion principle, we have that:\n\n$$\n4!-\\binom{4}{1} \\cdot 3!+\\binom{4}{2} 2!-\\binom{4}{3} \\cdot 1!+1=9\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q05",
+      "topic": "Problem Set #1",
+      "question_markdown": "$\\int_{0}^{1} \\sqrt{e^{2 x}+e^{-2 x}+2}=$",
+      "options": [
+        "$e-\\frac{1}{e}$",
+        "$e+\\frac{1}{e}$",
+        "$e-\\frac{1}{e}+1$",
+        "$e+\\frac{1}{e}-1$",
+        "$2 e$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "The integrand is $e^{x}+e^{-x}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q06",
+      "topic": "Problem Set #1",
+      "question_markdown": "Which of the following graphs has two connected components?",
+      "options": [
+        "$\\frac{x^{2}}{5}+y^{2}-\\frac{z^{2}}{2}=1$",
+        "$\\frac{x^{2}}{5}-\\frac{y^{2}}{5}-\\frac{z^{2}}{5}=1$",
+        "$x^{2}-2 x+y^{2}+z^{2}=1$",
+        "$x=y^{2}-z^{2}$",
+        "$z=x-y+2$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "(a) is hyperbolloid of one sheets, (b) is a hyperbolloid of two sheets, (c) is a sphere, (d) is a saddle, (e) is a plane. What you should look for is a plane that divides your surface into two distinct parts. in this case, it's the $y z$-plane (i.e when $x=0$ ). Note there are no solutions there!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q07",
+      "topic": "Problem Set #1",
+      "question_markdown": "The function\n\n$$\nf(x, y)= \\begin{cases}\\frac{x^{2} y}{x^{4}+y^{2}} & (x, y) \\neq(0,0) \\\\ 0 & (x, y)=(0,0)\\end{cases}\n$$\n\nWhich of the following is true?\n\n(I) $f$ is not continuous at $(0,0)$.\n\n(II) $f$ is differentiable everywhere\n\n(III) $f$ as a well defined partial derivatives everywhere (i.e. $\\frac{\\partial f}{\\partial x}, \\frac{\\partial f}{\\partial y}$ are both defined)\n\n(IV) $f$ is continuous at $(0,0)$ but not differentiable at $(0,0)$.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "IV only",
+        "I and III only"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "I can be shown to be true by looking at the function along $y=x^{2}$. Along this curve, $f=1 / 2$. III is true away from the origin and is true at the origin to since $f=0$ along the $x$ - and $y$-axes.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q08",
+      "topic": "Problem Set #1",
+      "question_markdown": "Evaluate the limit: $\\lim _{n \\rightarrow \\infty}\\left(3^{n}+5^{n}\\right)^{2 / n}$.",
+      "options": [
+        "0",
+        "1",
+        "9",
+        "16",
+        "25"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "$5^{2}=\\left(5^{n}\\right)^{2 / n} \\leq\\left(3^{n}+5^{n}\\right)^{2 / n} \\leq\\left(2 \\cdot 5^{n}\\right)^{2 / n}$. Then apply the sandwich theorem.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q09",
+      "topic": "Problem Set #1",
+      "question_markdown": "Let $T$ be a linear operator on $\\mathbb{R}^{3}$ equipped with the standard inner product. Which of the following must be true?\n\n(I) If $W$ is subspace such that $T(W) \\subset W$, then $W^{\\perp}=\\{v \\in V \\mid\\langle w, v\\rangle=0, v \\in W\\}$ also has the property that $T\\left(W^{\\perp}\\right) \\subset W^{\\perp}$.\n\n(II) If $T$ is self-adjoint, then $T^{-1}$ exists and is diagonalizable.\n\n(III) If $T=\\left(\\begin{array}{ccc}1 & 1 & -1 \\\\ 1 & 5 & 3 \\\\ -1 & 3 & -1\\end{array}\\right)$, then $\\mathbb{R}^{3}$ has an orthonormal basis of eigenvectors for $T$.\n\n(IV) If $T^{2}$ is diagonalizable, so is $T$.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "III and IV",
+        "None are true"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "I is false when $T=\\left(\\begin{array}{ll}1 & 1 \\\\ 0 & 1\\end{array}\\right)$. II is false because the zero matrix is diagonalizable so $T^{-1}$ doesn't exist. III is true by the spectral theorem. IV is false as $\\left(\\begin{array}{ll}0 & 1 \\\\ 0 & 0\\end{array}\\right)$ (this matrix is in Jordan form; but you could also check that it's not diagonalizable by hand).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-1-q10",
+      "topic": "Problem Set #1",
+      "question_markdown": "Evaluate: $\\int_{0}^{\\pi / 2} \\frac{1}{1+\\tan x} d x$ (TRICKS INVOLVED!)",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi^{2}}{2}$",
+        "$\\frac{\\pi^{2}}{4}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "The first trick is to rewrite ths integral as:\n\n$$\nI_{1}=\\int_{0}^{\\pi / 2} \\frac{\\cos x}{\\sin x+\\sin x} d x\n$$\n\nNext consider\n\n$$\nI_{2}=\\int_{0}^{\\pi / 2} \\frac{\\sin x}{\\sin x+\\sin x} d x\n$$\n\nAdd and subtract these two integrals from each other to get integrals you can actually do. For instance,\n\n$$\nI_{2}-I_{1}=\\int_{0}^{\\pi / 2} \\frac{\\sin x-\\cos x}{\\sin x+\\sin x} d x=\\left.\\ln (\\sin x+\\cos x)\\right|_{x=0} ^{\\pi / 2}=0\n$$\n\nEasily, $I_{1}+I_{2}=\\pi / 2$. From here we see $2 I_{2}=\\pi / 2$ and then get our answer.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q01",
+      "topic": "Problem Set #2",
+      "question_markdown": "The series $1-1 / 3+1 / 5-1 / 7+1 / 9-1 / 11+\\ldots=$\n\n(Hint: Start playing around with $\\frac{1}{1-x}=\\sum_{n=0}^{\\infty} x^{n}$ ).",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{5}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi^{2}}{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "The series is the arctan(1). Might be a good idea to be able to derive this from the geometric series without worrying about convergence.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q02",
+      "topic": "Problem Set #2",
+      "question_markdown": "Which of the following are true of a continuous function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ such that $f(x+1)=f(x)$ for all $x$.\n\n(I) $f$ achieves it's maximum and minimum\n\n(II) $f$ is uniformly continuous.\n\n(III) There is a $x_{0}$ such that $f\\left(x_{0}+\\pi\\right)=f\\left(x_{0}\\right)$\n\n(IV) There is a $x_{1}$ such that $f\\left(x_{1}+\\frac{1}{2}\\right)=f\\left(x_{1}\\right)$.",
+      "options": [
+        "I only",
+        "I, II only",
+        "I, II, III only",
+        "I, II, III, IV"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Restricting f to $[0,1]$, we see that $f$ must attain its min and max. We want to apply the theorem that a continuous function on a compact domain is uniformly continuous. We can't just use $[0,1]$ because we don't know how .99 and .01 compare. So, we just enlarge our space of consideration, namely to $[0,2]$ and apply the theorem.\n\nTo get III and IV, use the auxiliary function $g(x)=f(x)-f(x+\\pi)$. This is continuous and since $f$ attains maximum and minimum values, call them $x$ and $y$, respectively. then $g(x) \\geq 0$ and $g(y) \\leq 0$. To finish, apply the IVT.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q03",
+      "topic": "Problem Set #2",
+      "question_markdown": "Let $S$ be a set with $|S| \\geq 3$. How many non-surjective functions from $S \\rightarrow\\{1,2,3\\}$ are there?",
+      "options": [
+        "$3 \\cdot 2^{|S|}$",
+        "$3 \\cdot 2^{|S|}-3$",
+        "$3^{|S|}-3$",
+        "$|S|^{3}$",
+        "$2|S|^{2}-3$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "You could let $|S|=3$ and count the number of non-surjective functions, which is 21 . B is the only answer choice that works. Alternatively, you could note that what we want to do is first choose 2 elements of the 3 that will be \"hit\" and then count the number of functions into a two element. However, we have overcounted by 3 the number of functions in which all elements are sent to a single element in $\\{1,2,3\\}$.\n\n$$\n\\binom{3}{2} 2^{|S|}-3\n$$\n\nAlternatively, use the inclusion-exclusion principle:\n\n$$\n2^{|S|}-\\left(2^{|S|}-\\binom{3}{1} 2^{|S|-1}+3\\right)\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q04",
+      "topic": "Problem Set #2",
+      "question_markdown": "Let $X$ and $Y$ be random variables. Which of the following is always true?\n\n(I) $E(X+Y)=E(X)+E(Y)$\n\n(II) $\\operatorname{Var}(X)=\\operatorname{Var}(-X)$\n\n(III) $P(\\max (X, Y)<2)=P(X<2) P(Y<2)$\n\n(IV) $\\operatorname{var}(X+Y)>\\operatorname{Var}(X)+\\operatorname{Var}(Y)$",
+      "options": [
+        "I only",
+        "I and II only",
+        "I, II, and III only",
+        "I and IV only",
+        "None are true."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "It's a good idea to be able to go through the definitions and prove I and II. Also, III is false, but true when $X, Y$ are independent because if $\\max (X, Y)<2$, then both $X<2$ AND $Y<2$. Then apply the definition of independence. However, if $X=Y$, then $\\max (X, Y)=X$ and the statement is false. IV is false because if $Y=-X$ where $X$ is your favorite Random Variable (work this out!).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q05",
+      "topic": "Problem Set #2",
+      "question_markdown": "Which of the following exist:\n\n(I) $f_{1}:[0,1] \\rightarrow(0,1)$ continuous and surjective.\n\n(II) $f_{2}:(0,1) \\rightarrow[0,1]$ continuous and surjective\n\n(III) $f_{3}:(0,1) \\rightarrow[0,1]$ continuous and bijective",
+      "options": [
+        "I only",
+        "II only",
+        "II and III only",
+        "III only",
+        "None exist."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "The image of a compact set must be compact, so I can't happen. II can happen (draw a picture to convince yourself). III can't happen because $f_{3}$ attains it's maximum value on the interior, then it cannot be injective!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q06",
+      "topic": "Problem Set #2",
+      "question_markdown": "The angle between the tangent plane $x^{2}+y^{2}+2 z^{2}=4$ at ( $1,1,1$ ) and the $x y$-plane is:",
+      "options": [
+        "$\\arccos \\left(\\frac{\\sqrt{6}}{6}\\right)$",
+        "$\\arccos \\left(\\frac{\\sqrt{6}}{2}\\right)$",
+        "$\\arccos \\left(\\frac{\\sqrt{6}}{3}\\right)$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "It amounts to finding the angle between the two normals of the planes, namely ( $2,2,4$ ) and $(0,0,1)$. This is done by the formula $\\theta=\\arccos \\left(\\frac{(2,2,4) \\cdot(0,0,1)}{\\|(2,2,4)\\| \\cdot\\|(0,0,1)\\|}\\right)$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q07",
+      "topic": "Problem Set #2",
+      "question_markdown": "Which of the following are subrings of polynomials with coefficients in $\\mathbb{Z}$ ?\n\n(I) Even degree polynomials.\n\n(II) Polynomials of degree less than or equal to 3 .\n\n(III) Polynomials all of whose coefficients are even.",
+      "options": [
+        "I, II, and III",
+        "I and III only",
+        "II only",
+        "III only",
+        "None of the above"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "We have to verify the following properties:\n\nProposition. Let $S$ be a commutative ring, and let $R$ be a subset of $S$. Then $R$ is a subring of $S$ if and only if:\n\n(i) $R$ is closed under addition and multiplication\n\n(ii) if $a \\in R$, then $-a \\in R$ (this implies that we have the additive identity in $S$ )\n\n(iii) $R$ contains the multiplicative identity of $S$.\n\nNote that I fails (i) because $x^{2}+x$ and $x^{2}$ are both even degree but their difference is odd degree. II fails (ii) because $x^{3} x^{3}$ has degree bigger than 3 . III fails (iii) because the identity has an odd coefficients. III is an ideal, though, meaning it satisfies the first two properties, but not the last.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q08",
+      "topic": "Problem Set #2",
+      "question_markdown": "Consider the graph $y=e^{x}$. Rotating this graph about the $x$-axis for $1 \\leq x \\leq 2$, what is the area of this surface of revolution? (WARNING: pretty long computation)",
+      "options": [
+        "$\\pi \\cdot\\left[e^{2} \\sqrt{1+e^{4}}-e \\sqrt{1+e^{2}}+\\ln \\left(\\frac{\\sqrt{e^{4}+1}+e^{2}}{\\sqrt{e^{2}+1}+e}\\right)\\right]$.",
+        "$\\pi \\cdot\\left[e^{2} \\sqrt{1+e^{4}}-e \\sqrt{1+e^{2}}-\\ln \\left(\\frac{\\sqrt{e^{4}+1}+e^{2}}{\\sqrt{e^{2}+1}+e}\\right)\\right]$",
+        "$\\pi \\cdot\\left[e \\sqrt{1+e^{2}}-\\sqrt{1+e}-\\ln \\left(\\frac{\\sqrt{e^{2}+1}+e}{\\sqrt{e^{2}+1}+1}\\right)\\right]$",
+        "$2 \\pi \\sqrt{2}$",
+        "$\\pi \\cdot\\left[e \\sqrt{1+e^{2}}-\\sqrt{1+e}+\\ln \\left(\\frac{\\sqrt{e^{2}+1}+e}{\\sqrt{e^{2}+1}+1}\\right)\\right]$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "It's long. The integral is $\\int_{1}^{2} 2 \\pi e^{x} \\sqrt{1+e^{2 x}} d x$. It requires first a $u$-sub, then a trig. sub, and then to compute $\\int \\sec ^{3}$ you need to perform integration by parts and know $\\int$ sec. It's involved.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q09",
+      "topic": "Problem Set #2",
+      "question_markdown": "For how many values of the parameter $k$, will the following system have no solutions?\n\n$$\n\\begin{array}{r}k x+y+z=1 \\\\ x+k y+z=k \\\\ x+y+k z=k^{2}\\end{array}\n$$",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4",
+        "Infinitely many"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "The left is linear and the determinant in terms of $k$ should be $(k+2)(k-1)^{2}$. For $k=1$, there are infinitely many solutions, while for $k=2$ there none since adding the last two equations yields $2 x-y-z=-2$, which is inconsistent with the first. Lots of computations here!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-2-q10",
+      "topic": "Problem Set #2",
+      "question_markdown": "Evaluate $\\int_{0}^{\\pi / 2} \\frac{1}{1+(\\tan x)^{e}} d x$",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi^{2}}{2}$",
+        "$\\frac{\\pi^{2}}{4}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Similar to the previous $\\# 10$. Rewrite the integral as:\n\n$$\nI_{1}=\\int_{0}^{\\pi / 2} \\frac{\\cos ^{e} x}{\\sin ^{e} x+\\sin ^{e} x} d x\n$$\n\nUse the substitution $u=\\pi / 2-x$. Then note this integral becomes:\n\n$$\nI_{2}=\\int_{0}^{\\pi / 2} \\frac{\\sin ^{e} x}{\\sin ^{e} x+\\sin ^{e} x} d x\n$$\n\nHence, $I_{1}=I_{2}$. So, we find $I_{1}+I_{2}=\\pi / 4=2 I_{1}$. We could have replaced the $e$ with any real number!!!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q01",
+      "topic": "Problem Set #3",
+      "question_markdown": "Which of the following are compact sets?\n\n(I) $G L(2, \\mathbb{R}) \\subset \\mathbb{R}^{4}$, the set of invertible $2 \\times 2$ matrices over $\\mathbb{R}$.\n\n(II) $S L(2, \\mathbb{R}) \\subset \\mathbb{R}^{4}$, the set of $2 \\times 2$ matrices over $\\mathbb{R}$ with determinant 1 .\n\n(III) $O(2, \\mathbb{R}) \\subset \\mathbb{R}^{4}$, the set of orthonormal $2 \\times 2$ matrices over $\\mathbb{R}$",
+      "options": [
+        "I, II, III",
+        "I only",
+        "II only",
+        "III only",
+        "II and III only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "III is closed and bounded. Bounded is easy because each of the columns have norm less than 1 (might want to expand what it means to be bounded and make sure you can prove this). Closed is straight forward because if $A$ is an orthonormal matrix with columns $\\vec{x}, \\vec{y}$, then consider the continuous function $g(A)=\\langle\\vec{x}, \\vec{y}\\rangle$. Using properties of continuity, we see that if $\\left\\{A_{n}\\right\\}$ is some sequence of orthogonal matrices with limit $B$, then $B$ must have orthogonal columns. Similar, arguments work for the norm of each column.\n\nTo see that I and II are not compact use:\n\n$$\nA_{n}=\\left(\\begin{array}{ll}1 & n \\\\ 0 & 1\\end{array}\\right)\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q02",
+      "topic": "Problem Set #3",
+      "question_markdown": "For which values of $a$ does $\\sum_{n=1}^{\\infty} \\frac{(\\ln n)^{2014}}{n^{a}}$ does the series converge?",
+      "options": [
+        "$a=-2014$",
+        "$1>a>0$",
+        "$a>1$",
+        "$a \\neq 1$ and $a>0$",
+        "For no values of $a$ does the series converge."
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Need that $\\ln n<n^{l}$ for any $l>0$ for sufficiently large $n$; that is there is some $N$ depending on $l$ for which $n>N$ implies the inequality holds (prove this using L'Hospital's rule if you like). Then go far enough out in the series (details!).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q03",
+      "topic": "Problem Set #3",
+      "question_markdown": "Which set does not have the same cardinality as the others?",
+      "options": [
+        "$\\{f: \\mathbb{N} \\rightarrow \\mathbb{N}\\}$",
+        "$\\mathbb{R}$",
+        "$\\{f:\\{0,1, \\ldots, 100\\} \\rightarrow \\mathbb{R}\\}$",
+        "$\\{$ solutions to polynomial equations with coefficients in $\\mathbb{Z}\\}$.",
+        "$\\{f: \\mathbb{Z} \\rightarrow\\{0,1\\}\\}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Some relevant facts:\n\n  -  The finite cartesian product of countable sets is countable.\n  -  Similarly, a finite cartesian product set of infinite sets each of the same cardinality has the same cardinality.\n  -  The countable union of countable sets is countable.\n  -  The countable cartesian product of countable is uncountable (Canter's diagonal argument)\n\nAll the sets are uncountable except for (d), which is the countable union of countable sets.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q04",
+      "topic": "Problem Set #3",
+      "question_markdown": "The series $\\sum_{n \\geq 1}(-1)^{n} \\sin \\left(\\frac{\\pi}{n}\\right)$ :",
+      "options": [
+        "converges absolutely.",
+        "converges conditionally.",
+        "diverges to infinity.",
+        "does not approach any value in the extended real number system."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Use the Limit Comparison Test to see $\\sin (\\pi / n) \\sim 1 / n$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q05",
+      "topic": "Problem Set #3",
+      "question_markdown": "$\\int \\ln (\\sqrt[3]{x}) d x=$",
+      "options": [
+        "$\\frac{x}{3} \\ln x+\\frac{x}{3}+C$",
+        "$\\frac{x}{3} \\ln x-\\frac{x}{3}+C$",
+        "$\\frac{x}{3} \\ln x+\\frac{x}{2}+C$",
+        "$x^{3} \\ln x-x+C$",
+        "$x^{3} \\ln x-\\frac{x}{3}+C$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Make the sub $u=\\sqrt[3]{x}$, then do integration by parts. Or just integrate the answers!!!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q06",
+      "topic": "Problem Set #3",
+      "question_markdown": "Suppose that $\\vec{r}: \\mathbb{R} \\rightarrow \\mathbb{R}^{3}$ is a curve given by $t \\mapsto \\vec{r}(t)$ and the dot product of the curve with its derivative is greater than zero (i.e. $\\vec{r} \\cdot \\vec{r}^{\\prime}>0$ ). Which of the following can we conclude?",
+      "options": [
+        "$|\\vec{r}|$ is increasing in $t$.",
+        "$\\left|\\vec{r}^{\\prime}\\right|$ is increasing in $t$.",
+        "$\\left|\\vec{r}^{\\prime \\prime}\\right|$ is increasing in $t$.",
+        "None of the above"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Differentiate $f(t)=\\langle\\vec{r}(t), \\vec{r}(t)\\rangle$ and note it is bigger than 0 .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q07",
+      "topic": "Problem Set #3",
+      "question_markdown": "Let $f(x)=x^{5}+3 x^{3}-1$. Which of the following is true?",
+      "options": [
+        "$f$ has two real zeros.",
+        "$\\lim _{x \\rightarrow \\infty}\\left(f^{-1}\\right)(x)=\\infty$",
+        "$f$ has only rational roots",
+        "$f$ has a local minimum",
+        "All of the above"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Check the derivative and note its an increasing function so bijective.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q08",
+      "topic": "Problem Set #3",
+      "question_markdown": "Evaluate the following limit:\n\n$$\n\\lim _{x \\rightarrow 0}\\left[\\frac{1}{x^{2}} \\int_{0}^{x} \\frac{t+t^{2}}{1+\\sin t} d t\\right]\n$$",
+      "options": [
+        "1",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$",
+        "$-\\frac{1}{2}$",
+        "-1"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "L'Hospital's rule and the fundamental theorem of calculus.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q09",
+      "topic": "Problem Set #3",
+      "question_markdown": "Let $S=\\{1,2,3,4\\}$ and $X=\\{f: S \\rightarrow S \\mid x<y \\Longrightarrow f(x) \\leq f(y)\\} .|X|=$",
+      "options": [
+        "18",
+        "20",
+        "24",
+        "35",
+        "40"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Stars and Bars: $\\binom{7}{3}=35$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-3-q10",
+      "topic": "Problem Set #3",
+      "question_markdown": "Suppose $y_{n}$ and $x_{n}$ satisfy:\n\n$$\n\\binom{x_{n}}{y_{n}}=\\left(\\begin{array}{ll}2 & 1 \\\\ 1 & 1\\end{array}\\right)\\binom{x_{n-1}}{y_{n-1}}\n$$\n\nwith $x_{0}=y_{0}=1$. What is $\\lim _{n \\rightarrow \\infty} \\frac{x_{n}}{y_{n}}$ assuming this limit exists?",
+      "options": [
+        "$\\infty$",
+        "$1-\\sqrt{2}$",
+        "$1+\\sqrt{2}$",
+        "$\\frac{1+\\sqrt{5}}{2}$",
+        "$\\frac{1-\\sqrt{5}}{2}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Right as a fraction and then note that $L=\\lim _{n \\rightarrow \\infty} x_{n-1} / y_{n-1}$ and so divide numerator and denominator by $y_{n-1}$ and use the standard trick.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-3",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q01",
+      "topic": "Problem Set #4",
+      "question_markdown": "Let $G$ be a finite group. Which of the following never happen?\n\n(I) A subgroup of $G$ with index 2 that is not normal.\n\n(II) All the conjugacy classes of $G$ have size 1 .\n\n(III) G has no proper subgroups other than the subgroup containing only the identity.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "I and III only"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "A subgroup of index 2 is always normal. Let $H$ be a subgroup of index 2 . The left- and right-multiples of H partition $G$. A set of index two means there are only two subgroups in each partition: $\\{H, a H\\}$ and $\\{H, H a\\}$. Hence, $H a=a H$ and $H$. Hence $I$ cannot happen. II happens when $G$ is abelian. III happens when $G=\\mathbb{Z} / 7 \\mathbb{Z}$, say.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q02",
+      "topic": "Problem Set #4",
+      "question_markdown": "Let $(x(t), y(t))$ be a parametric curve in $\\mathbb{R}^{2}$ be given by:\n\n$$\n\\begin{aligned}x(t) & =e^{t} \\\\ y(t) & =\\sin (t)\\end{aligned}\n$$\n\nWhat is $\\frac{d^{2} y}{d x^{2}}$ as a function of $t$ ?",
+      "options": [
+        "$\\frac{-\\sin t}{e^{t}}$",
+        "$\\frac{\\cos t-e^{t} \\sin t}{e^{t}}$",
+        "$\\frac{-\\sin t-\\cos t}{e^{t}}$",
+        "$\\frac{\\sin t+\\cos t}{e^{2 t}}$",
+        "$\\frac{-\\sin t-\\cos t}{e^{2 t}}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Lots of different ways. One way is to use the chain rule:\n\n$$\n\\frac{d^{2} y}{d t^{2}}=\\frac{d^{2} y}{d x^{2}}\\left(\\frac{d x}{d t}\\right)^{2}+\\frac{d y}{d x} \\frac{d^{2} x}{d t^{2}}\n$$\n\nand we know $\\frac{d y}{d x}=\\left(\\frac{d y}{d t}\\right) / \\frac{d y}{d t}$. So:\n\n$$\n\\Longrightarrow \\frac{d^{2} y}{d x^{2}}=\\frac{\\frac{d^{2} y}{d t^{2}}-\\frac{d y}{d x} \\frac{d^{2} x}{d t^{2}}}{\\left(\\frac{d x}{d t}\\right)^{2}}\n$$\n\nand\n\n$$\n\\frac{-\\sin t-\\cos t}{e^{2 t}}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q03",
+      "topic": "Problem Set #4",
+      "question_markdown": "Which of the following are true about subgroups of $(\\mathbb{Q},+)$\n\n(I) If a subgroup is finitely generated, then it is cyclic.\n\n(II) There non-cyclic subgroups.\n\n(III) There are no finite subgroups other than the trivial one.",
+      "options": [
+        "I only",
+        "II only",
+        "II and III only",
+        "I and III only",
+        "All are true"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Write everything over a common denominator say $n$ and note any subgroup $H$ looks like $H=\\frac{1}{n} \\cdot \\widetilde{H}$, where $\\widetilde{H}$ is a subgroup of $\\mathbb{Z}$. Since $\\mathbb{Z}$ is a PID (aka every subgroup is cyclic), we have $\\frac{m}{n} \\mathbb{Z}=\\widetilde{H}$. II is true as $G=\\left\\{m / 2^{n}: m, n \\in \\mathbb{Z}\\right\\}$. III is true since every element has infinite order.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q04",
+      "topic": "Problem Set #4",
+      "question_markdown": "Suppose $y(t)=y$ solves $y^{\\prime}=\\left(y^{2}-1\\right) e^{2012 y-1}$ with initial condition $y(0)=0$, then which of the following are true?",
+      "options": [
+        "$\\lim _{t \\rightarrow \\infty} y(t)=\\infty$",
+        "$\\lim _{t \\rightarrow \\infty} y(t)=1$",
+        "$\\lim _{t \\rightarrow \\infty} y(t)=-1$",
+        "$-1<y(t)<1$ for all $t$",
+        "Both C and D"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Note the equilibrium points are $y \\equiv \\pm 1$, so by uniqueness theorems must stay in between them. Second. Note that the derivative of the left side is negative, so -1 is a stable equilibrium point.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q05",
+      "topic": "Problem Set #4",
+      "question_markdown": "Evaluate $\\sum_{n=1}^{\\infty} \\frac{2}{n^{2}+n}$ converge:",
+      "options": [
+        "1",
+        "$\\frac{3}{2}$",
+        "2",
+        "$\\frac{5}{2}$",
+        "3"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Partial fractions produce a telescoping sum.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q06",
+      "topic": "Problem Set #4",
+      "question_markdown": "Suppose $y_{1}$ and $y_{2}$ are solutions to the differential equation\n\n$$\ny^{\\prime \\prime}-2 y^{\\prime}+y=f(t)\n$$\n\nWhich of the following is true:\n\n(I) If $y_{1}(0)=y_{2}(0)$, then $y_{1} \\equiv y_{2}$\n\n(II) If $a+b=1$, then $a y_{1}+b y_{2}$ is another solution to the differential equation.\n\n(III) If $f(t)=0$, then the general solutions is $C_{1} e^{t}+C_{2} t e^{t}$",
+      "options": [
+        "I, II, III",
+        "III only",
+        "II only",
+        "II and III only",
+        "I and III only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "I is false because you need the first derivatives to be equal, too.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q07",
+      "topic": "Problem Set #4",
+      "question_markdown": "A tank contains 50 gal of pure water. Starting at time zero, a salt-water solution containing 0.4 $\\mathrm{lb} / \\mathrm{gal}$ of salt enters the tank at a rate of $2 \\mathrm{gal} / \\mathrm{min}$. At the same time a drain is opened at the bottom of the tank allowing the salt solution to leave at a rate of $2 \\mathrm{gal} / \\mathrm{min}$. Assume that the solution is kept perfectly mixed at all times. How long will it take for the amount of salt (in lbs) in the tank to reach 10 lbs ? Leave your answer in exact form (in terms of logarithms).",
+      "options": [
+        "$2 \\ln 25$",
+        "$-2 \\ln \\left(\\frac{1}{2}\\right)$",
+        "$25 \\ln \\left(\\frac{1}{2}\\right)$",
+        "$25 \\ln 2$",
+        "$25 \\ln 10$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "$\\mathrm{D} y^{\\prime}=.4 \\cdot 2-\\frac{y}{50} \\cdot 2 \\Longrightarrow S^{\\prime}+y / 25=.8$. Hence the solution can be solved by an integration factor $e^{t / 25}$ and you get $20+C e^{-t / 25}$. Since $S(0)=20$, we have:\n\n$$\ny=20-20 e^{-t / 25}\n$$\n\nSetting $y=10$ and solving gives the answer.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q08",
+      "topic": "Problem Set #4",
+      "question_markdown": "Evaluate $\\int_{0}^{2 \\pi} e^{e^{i \\theta}} d \\theta$.",
+      "options": [
+        "$2 \\pi i$",
+        "$2 \\pi$",
+        "$4 \\pi i$",
+        "$4 \\pi e$",
+        "$-2 \\pi i$."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Pretty hard, but if you have taken complex analysis, you might think this looks a lot like $\\int_{|z|=1} \\frac{e^{z}}{z} d z$ and hence by the Cauchy Integral Formula is $2 \\pi i e^{0}$. The key is to draw the picture in the complex plane and then figure out a complex integral for it. The parameterization $\\phi(\\theta)=e^{i \\theta}$, so $d z=i e^{i \\theta} d \\theta$ and:\n\n$$\n\\int_{|z|=1} \\frac{e^{z}}{z} d z=\\int_{0}^{2 \\pi} \\frac{e^{e^{i \\theta}}}{e^{i \\theta}}\\left(i e^{i \\theta} d \\theta\\right)\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q09",
+      "topic": "Problem Set #4",
+      "question_markdown": "Let $F: \\mathbb{R}_{>0} \\rightarrow \\mathbb{R}$ be given by $F(t)=\\int_{-\\infty}^{\\infty} e^{-t x^{2}} d x$. Given $\\int_{-\\infty}^{\\infty} e^{-x^{2}} d x=\\sqrt{\\pi}$, then $F^{\\prime}(t)=$",
+      "options": [
+        "$\\frac{\\sqrt{\\pi}}{2 t^{3 / 2}}$",
+        "$-\\frac{\\sqrt{\\pi}}{t^{3 / 2}}$",
+        "$-\\frac{\\sqrt{\\pi}}{t^{1 / 2}}$",
+        "$-\\frac{\\sqrt{\\pi}}{2 t^{3 / 2}}$",
+        "$\\frac{\\sqrt{\\pi}}{t^{1 / 2}}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Make the substitution $y / \\sqrt{t}=x$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-4-q10",
+      "topic": "Problem Set #4",
+      "question_markdown": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be differentiable, then:\n\n$$\n\\lim _{\\varepsilon \\rightarrow 0} \\frac{3}{\\varepsilon^{3}} \\int_{-\\varepsilon}^{\\varepsilon} t f(x+t) d t=\n$$",
+      "options": [
+        "$\\frac{1}{3} f(x)$",
+        "$\\frac{1}{2} f^{\\prime}(x)$",
+        "$\\frac{1}{2} f^{\\prime \\prime}(x)$",
+        "$2 f^{\\prime}(x)$",
+        "$3 f^{\\prime \\prime}(x)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "One can use taylor expansion of $f(x+t)$ around $x$ or simply apply $f(u)=x$, then:\n\n$$\n\\begin{aligned}\\lim _{\\varepsilon \\rightarrow 0} \\frac{3}{\\varepsilon^{3}} \\int_{-\\varepsilon}^{\\varepsilon} t(x+t) d t & =\\lim _{\\varepsilon \\rightarrow 0} \\frac{3}{\\varepsilon^{3}} \\int_{-\\varepsilon}^{\\varepsilon} x t^{2}+t d t \\\\ & =\\lim _{\\varepsilon \\rightarrow 0} \\frac{3}{\\varepsilon^{3}}\\left[\\frac{x t^{3}}{3}+\\left.\\frac{t^{2}}{2}\\right|_{-\\varepsilon} ^{\\varepsilon}\\right] \\\\ & =2 x\\end{aligned}\n$$\n\nWell, $f^{\\prime}(x)=x$ and so the answer should be $2 f^{\\prime}(x)$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-4",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q01",
+      "topic": "Problem Set #5",
+      "question_markdown": "Let $A=\\left(\\begin{array}{ll}1 & 1 \\\\ 0 & 1\\end{array}\\right)$ and define $\\|A\\|_{o p}:=\\sup _{\\|v\\|_{\\mathbb{R}^{2}}=1}\\left\\{\\|A v\\|_{\\mathbb{R}^{2}}\\right\\}$. There is a vector $v$ such that $\\|A\\|_{o p}= \\|A v\\|_{\\mathbb{R}^{2}}$. Also, note that once we find one $v$ that maximizes the norm $\\|*\\|_{o p},-v$ also does. Find the angle $v$ makes with the positive $x$-axis assuming $v$ is to the right of the $y$-axis:",
+      "options": [
+        "$\\operatorname{Arctan} 2$",
+        "$\\frac{\\operatorname{Arctan} 2}{2}$",
+        "$\\frac{3 \\pi}{4}$",
+        "$\\frac{\\pi}{4}$",
+        "$-\\frac{\\pi}{4}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Have to maximize the function $f(\\theta)=\\cos ^{2} \\theta+2 \\sin \\theta \\cos \\theta+2 \\sin ^{2} \\theta=1+\\sin 2 \\theta+\\sin ^{2} \\theta$ and so setting the first derivative to be zero: $0=f^{\\prime}(\\theta)=2 \\cos 2 \\theta+2 \\sin \\theta \\cos \\theta=2 \\cos 2 \\theta+\\sin 2 \\theta$. That is $\\tan 2 \\theta=2$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q02",
+      "topic": "Problem Set #5",
+      "question_markdown": "Which of the following is the largest:",
+      "options": [
+        "$e^{\\pi}$",
+        "$\\pi^{e}$",
+        "$3^{\\pi}$",
+        "Not enough information."
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Use $f(x)=(\\ln x) / x$ and maximize.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q03",
+      "topic": "Problem Set #5",
+      "question_markdown": "Let $F(x)=\\int_{\\sin x}^{\\cos x} e^{t^{2}+x t} d t . F^{\\prime}(0)=$",
+      "options": [
+        "$e \\cos 1-2$",
+        "$-2+e$",
+        "$\\frac{e}{2}-\\frac{3}{2}$",
+        "$\\frac{e}{2}+\\frac{1}{2}$",
+        "$\\frac{e}{2}-\\frac{1}{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Set $G(a, b, c)=\\int_{b}^{a} e^{t^{2}+c t} d t$. Then $F(x)=G(\\cos x, \\sin x, x)$ and apply the chain rule to get:\n\n$$\nF^{\\prime}(x)=e^{\\cos ^{2} x+x \\cos x}(-\\sin x)-e^{\\sin ^{2} x+x \\sin x}(\\cos x)+\\int_{\\sin x}^{\\cos x} t e^{t^{2}+x t} d t\n$$\n\nand\n\n$$\nF^{\\prime}(0)=-1+\\int_{0}^{1} t e^{t^{2}}=-1+\\frac{e}{2}-\\frac{1}{2}=\\frac{1}{2}(e-3)\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q04",
+      "topic": "Problem Set #5",
+      "question_markdown": "Which functions are entire:\n\n(I) $f(z)=2^{z^{2}}$\n\n(II) $g(z)=z^{2 z} \\sin z$\n\n(III) $h(z)=\\sum_{i=0}^{\\infty} z^{i}$",
+      "options": [
+        "I, II only",
+        "I only",
+        "I and III only",
+        "II only",
+        "II and III only"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "II requires some branch of the In and III only converges on the interior of a unit disk.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q05",
+      "topic": "Problem Set #5",
+      "question_markdown": "Which of the following holmorphic functions must be constant functions:\n\n(I) An entire function with positive real part.\n\n(II) An entire function whose image does not intersect a line $L \\subset \\mathbb{C}$.\n\n(III) An entire function such that $f(0)=0$ and $f(z) / z \\rightarrow 0$ as $|z| \\rightarrow \\infty$. (Hint: $f(z) / z$ has a removeable singularity at 0 , so can be extended to an entire function).\n\n(IV) A holomorphic function whose range misses two points.",
+      "options": [
+        "I, II, III, IV only",
+        "II, III, IV only",
+        "I, II only",
+        "III only",
+        "I, II, III only"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "For I, an entire function with positive real part mean that $e^{-f}$ is bounded. For II, by adjusting $f$ so that $L$ is imaginary axis, i.e. $\\alpha f+\\beta$, we can assume the image of $f$ has positive real part or negative real part as in I.\n\nCould also use Picard's theorem, which says that entire functions can only miss at most a single point in their image (for instance $e^{z}$ misses 0 ).\n\nFor III, by the maximum modulus principle we know that $|f(z) / z|$ takes its maximum on the boundary of disk. Couple this that its getting closer to zero shows $f(z) / z=0$. Hence, $f(z)=0$. IV is easily nonconstant because we don't assume the function is entire. If it was, apply Picard's theorem.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q06",
+      "topic": "Problem Set #5",
+      "question_markdown": "A basketball player decides to practice his free throws in a gym by promising to not stop until he makes 20 free throws (not necessarily consecutively). If his free-throw percentage is 80 percent. What's the probability that he needs exactly 50 tries to complete his goal?",
+      "options": [
+        "$\\binom{50}{20}(.8)^{20}(.2)^{30}$",
+        "$(.8)^{20}(.2)^{30}$",
+        "$\\binom{50}{20}(20 \\cdot .8)(30 \\cdot .2)$",
+        "$\\binom{49}{19}(.8)^{20}(.2)^{30}$",
+        "$(20 \\cdot .8)(30 \\cdot .2)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "He must make the last free throw!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q07",
+      "topic": "Problem Set #5",
+      "question_markdown": "Let $R$ be a ring. Which of the following are always true?\n\n(I) The set of idempotents $\\left\\{x \\in R \\mid x^{2}=x\\right\\}$ is a subring.\n\n(II) If $x^{2}=x$ for all $x \\in R$, then $R$ is commutative.\n\n(III) The only idempotents of an integral domain $R$ are 0 and 1 .",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "II and III only",
+        "None are ture."
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "I is false; take $R=\\mathbb{Z}$. II is true as $(a b)^{2}=a b=a^{2} b^{2}$. Yes, since $a^{2}=a$ implies $a=1$ by cancellation.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q08",
+      "topic": "Problem Set #5",
+      "question_markdown": "What is the characteristic polynomial of an $n \\times n$ matrix all of whose entries are 1 ?",
+      "options": [
+        "$x(x-1)(x-2) \\ldots(x-n)$",
+        "$x^{n-1}(x-n)$",
+        "$x^{n-1}(x-1)$",
+        "$x(x+1)(x+2) \\ldots(x+n)$",
+        "$x^{n-2}(x-1)(x+1)$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "It clearly has an $n-1$ dimensional kernel and an eigenvalue $n$. One could inspect the case $n=2$ and compute the characteristic polynomial explicitly.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q09",
+      "topic": "Problem Set #5",
+      "question_markdown": "$$\n\\lim _{n \\rightarrow \\infty}\\left(\\frac{1}{n+1}+\\ldots+\\frac{1}{2 n}\\right)=\n$$",
+      "options": [
+        "1",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$",
+        "$\\ln 2$",
+        "$\\ln 3$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Divide top and bottom by $1 / n$ and notice it is a Riemann sum.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-5-q10",
+      "topic": "Problem Set #5",
+      "question_markdown": "How many times do the hands of a analog clock (i.e. one with a hour and minute hand) form perpendicular angles in a 24 hour time cycle?",
+      "options": [
+        "48",
+        "47",
+        "46",
+        "45",
+        "44"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "The key to this problem is picking the right \"reference frame\". Let's look at the frame of the hour hand, i.e. we are sitting there and watch the minute hand go around. Every revolution in this reference frame corresponds to two right angles. In a 12-hour period, the clock makes one revolution and the minute hand makes 12 , but end up at the same original positions. That means 11 revolutions with respect to our special reference frame were made. Thus, 22 right angles in a 12 -hour period. In a 24 hour period, 44 angles are obtained.\n\nEven more formally, let $\\theta(t):=$ the total radians the minute hand travels in the reference frame $t$ hours after 12 o'clock. Specifically, $\\theta(0)=0$. To count the revolutions in this reference frame is to calculate $\\theta(24) / 2 \\pi$. We note that $d \\theta / d t=m$, where $m$ is constant (this follows since both minute and hour hand move at constant rates). So, $\\theta(t)=m t$. Now, $m$ must be calculated. Well, $\\theta(1)=(11 / 12) \\cdot 2 \\pi=11 \\pi / 6=m$ (this is one o'clock). So,\n\n$$\n\\begin{aligned}& \\theta(24)=m t=\\frac{11 \\pi}{6} \\cdot 24=44 \\pi \\\\ & \\frac{\\theta(24)}{2 \\pi}=22\\end{aligned}\n$$\n\nThe number of right angles is thus 44 , which we came up with.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-5",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q01",
+      "topic": "Problem Set #6",
+      "question_markdown": "![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-13_485_732_1647_358.jpg)\n\nThe horizontal line $y=c$ intersects the curve $y=2 x-3 x^{3}$ in the first quadrant as in the figure. Find $c$ so that the the area of the two shaded regions are equal.",
+      "options": [
+        "$\\frac{2}{9}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{4}{9}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{5}{9}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Let $(b, c)$ be the point where the parabola hits the line a second time. The shaded area is then $\\int_{0}^{b}\\left(\\left(2 x-3 x^{3}\\right)-c\\right) d x=0$. Also, use that $c=2 b-3 b^{3}$. Then do some algebra.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q02",
+      "topic": "Problem Set #6",
+      "question_markdown": "Determine which of the following statements are true:\n\n(I) There is a function $f: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}$ such that:\n\n$$\n\\operatorname{grad} f=\\langle y, x+z \\cos y, \\sin y\\rangle\n$$\n\n(II) There is a vector field $\\vec{F}: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}^{3}$ such that:\n\n$$\n\\operatorname{curl} F=\\langle z, y, x\\rangle\n$$\n\n(III) If $u, v: \\mathbb{R} \\rightarrow \\mathbb{R}^{3}$ satisfy\n\n$$\n\\begin{aligned}u^{\\prime} & =v-u \\\\ v^{\\prime} & =v+u\\end{aligned}\n$$\n\nthen $u \\times v$ is constant.",
+      "options": [
+        "I, II, and III",
+        "II and III only",
+        "I and III only",
+        "II and III only",
+        "I only"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "I is true, since curl $\\operatorname{grad} f=0$. II s false since $\\operatorname{div} \\operatorname{curl} \\vec{F} \\neq 0$. III is true just take the time derivative and check.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q03",
+      "topic": "Problem Set #6",
+      "question_markdown": "Suppose that $A$ and $B$ are $3 \\times 3$ invertible matrices. Which of the following are always true?\n\n(I) The eigenvalues of $A B$ are the same as $B A$.\n\n(II) The eigenvectors of $A B$ are the same as $B A$.\n\n(III) If $A$ and $B$ both only have 3 as an eigenvalue, then they are similar.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and III only",
+        "None of them are true"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "I is true as similar matrices have the same eigenvalues and $A^{-1} A B A=B A$. II is false. I don't have a good example except to say that you should go on wolfram alpha and convince yourself this is not the case (plug in two symmetric matrices). So, even though $A B$ and $B A$ will have the same eigenvalues, there eigenvectors will be distinct in general. III is false (use jordan blocks of varying size corresponding to eigenvalue 3 ).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q04",
+      "topic": "Problem Set #6",
+      "question_markdown": "Find the volume exclosed by $\\left(x^{2}+y^{2}+z^{2}\\right)^{2}=2 z\\left(x^{2}+y^{2}\\right)$.",
+      "options": [
+        "$\\frac{\\pi}{40}$",
+        "$\\frac{3 \\pi}{40}$",
+        "$\\frac{\\pi}{15}$",
+        "$\\frac{2 \\pi}{15}$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Use spherical coordinates and that $z$ must be positive to deduce that $r^{4}=2 r^{3} \\cos \\phi \\sin ^{2} \\phi$ and:\n\n$$\n\\begin{aligned}\\int_{0}^{2 \\pi} \\int_{0}^{\\pi / 2} \\int_{0}^{2 \\cos \\phi \\sin ^{2} \\phi} r^{2} \\sin \\phi d \\theta & =\\frac{16 \\pi}{3} \\int_{0}^{\\pi / 2} \\underbrace{\\sin ^{7} \\phi \\cos ^{3} \\phi}_{\\left(\\sin ^{7} \\phi-\\sin ^{9} \\phi\\right) \\cos \\phi} d \\phi \\\\ & =\\frac{2 \\pi}{15}\\end{aligned}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q05",
+      "topic": "Problem Set #6",
+      "question_markdown": "Suppose you have two cards: one is painted black on both sides and the other is painted black on one side and orange on the other You select a card at random and view one side. You notice it is black. What is the probability the other side is orange?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{5}$",
+        "1"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Conditional probability",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q06",
+      "topic": "Problem Set #6",
+      "question_markdown": "Let $A$ is an $m \\times m$ matrix over $\\mathbb{C}$ and $m>1$. Suppose that $A^{n}=\\operatorname{Id}$ for some $n>0$ and Id is the $m \\times m$ identity matrix. Which of the following are true:\n\n(I) $A$ can be diagonilized\n\n(II) If $\\lambda$ is an eigenvalue that is not real, then $1+\\lambda+\\ldots+\\lambda^{n-1}=0$.\n\n(III) The characteristic polynomial has coefficients in $\\mathbb{R}$.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "I, II, and III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "The characteristic polynomial has no repeated roots, and so the matrix is diagonalizable. Since $x^{n}-1=(x-1)\\left(x^{n-1}+x^{n-2}+\\ldots+1\\right)$, we have that if $\\lambda$ is a not a real eigenvalue, then the right factor vanishes. For III, just take a $2 \\times 2$ diagonal matrix with $i$ along diagonal.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q07",
+      "topic": "Problem Set #6",
+      "question_markdown": "For a continuously differentiable vector field $\\vec{F}: D \\subset \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{2}$, which of the following are true?",
+      "options": [
+        "curl $\\vec{F}=0$ implies $\\vec{F}$ is conservative.",
+        "curl $\\vec{F}=\\overrightarrow{0}$ and $\\operatorname{div} F=0$ implies $\\vec{F}$ is conservative",
+        "curl $\\vec{F}=\\overrightarrow{0}$ and $D$ is simply connected imply $\\vec{F}$ is conservative.",
+        "$\\operatorname{div} \\vec{F}=\\overrightarrow{0}$ and $D$ is simply connected imply $\\vec{F}$ is conservative.",
+        "No statement is correct"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "The theorem: If $D$ is simply connected (in $\\mathbb{R}^{2}$ or $\\mathbb{R}^{3}$ ) and $\\vec{X}$ a vector field on $D$, then $\\vec{X}$ is conservative if and only if curl $X=0$ if and only if $\\vec{X}=\\operatorname{grad} f$ for some function $f: D \\rightarrow \\mathbb{R}$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q08",
+      "topic": "Problem Set #6",
+      "question_markdown": "A right circular cone has a base of radius 1 and height 3 . A cube is inscribed in the cone so that one face is contained in the base. What is the length of the cube? (Hint: Cut the cone along the diagonal of the cube and look at the planar figure)",
+      "options": [
+        "2",
+        "$\\frac{3 \\sqrt{2}-5}{7}$",
+        "$\\frac{3 \\sqrt{2}-5}{7}$",
+        "$\\frac{9 \\sqrt{2}-6}{7}$",
+        "$\\frac{9 \\sqrt{2}+6}{7}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Let $s$ be the side length of the cube: $\\frac{s \\sqrt{2}}{2}=\\frac{3-s}{3}$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q09",
+      "topic": "Problem Set #6",
+      "question_markdown": "Assume $b>a>0$. Calculate the integral:\n\n$$\n\\int_{0}^{\\infty} \\frac{e^{-a x}-e^{-b x}}{x} d x\n$$\n\n(Hint: Write the integrand as an integral from $a$ to $b$ )",
+      "options": [
+        "$\\ln a-\\ln b^{2}$",
+        "$\\ln b-\\ln a^{2}$",
+        "$\\ln a^{2}-\\ln b^{2}$",
+        "$\\ln a-\\ln b$",
+        "$\\ln b-\\ln a$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Note we have:\n\n$$\n\\int_{0}^{\\infty} \\int_{a}^{b} e^{-x y} d y d x\n$$\n\nThen apply Fubbini.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-6-q10",
+      "topic": "Problem Set #6",
+      "question_markdown": "100 people have bought tickets for the sold-out showing of Casablanca playing at the NuArt. The theater has precisely the right amount of seats for this size audience, and so to prevent any confusion, has assigned each person a seat. The people arrive one by one and respectfully sit in the seat they have been assigned. One complication: the first person to arrive is a drunkard who has lost his ticket and does not know his assigned seat. He randomly chooses one. As the 99 other people arrive, they may face the uncomfortable fact that their assigned seat is already filled. If it is, they avoid confrontation and randomly select an open seat. Finally the last person arrives. What is the probability he sits in his assigned seat?",
+      "options": [
+        "$1 / 100$",
+        "$2 / 77$",
+        "$1 / 2$",
+        "$99 / 100$",
+        "$3 / 4$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "There are two possible empty seats when the last person arrives: the drunkard's or the last person to arrive. The number of arrangements in each scenario is equal (a explicit bijection is formed by switching people between the two aforementioned seats). Thus, the probability is $1 / 2$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-6",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q01",
+      "topic": "Problem Set #7",
+      "question_markdown": "Which of the following apply to the vector field $\\vec{F}=\\left\\langle\\left(x^{2}-y^{2}\\right),-2 x y, z^{2}\\right\\rangle$ defined on all of $\\mathbb{R}^{2}$.",
+      "options": [
+        "$\\operatorname{div} \\vec{F}=0$",
+        "Conservative and curl vanishes.",
+        "Conservative, but curl does not vanish",
+        "Curl vanishes, but not conservative"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Check the curl vanishes.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q02",
+      "topic": "Problem Set #7",
+      "question_markdown": "Suppose you wish to make a boquet of 10 flowers and give them to Professor Bertozzi. You go to the flower store and there are 4 types of flowers you think fit would fit her personality. How many bouquets can you make using only these flowers?",
+      "options": [
+        "$4^{10}$",
+        "40",
+        "$\\binom{9}{4}^{10}$",
+        "$\\binom{13}{3}$",
+        "$\\binom{13}{9}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Stars and bars.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q03",
+      "topic": "Problem Set #7",
+      "question_markdown": "Which of the following matrices is not diagonlizable over $\\mathbb{C}$ ?",
+      "options": [
+        "$\\left(\\begin{array}{cc}0 & -1 \\\\ 1 & 0\\end{array}\\right)$",
+        "$\\left(\\begin{array}{cc}1 & 2 \\\\ -2 & 1\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}5 & 4 \\\\ 2 & 3\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}4 & 1 \\\\ 0 & 4\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}4 & 1 \\\\ 0 & 1\\end{array}\\right)$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "It's easiest to find a matrix that is not diagonalizable by looking at Jordan normal form. The other matrices are easily seen to be. Note the eigenvalues occur along the diagonal and if a matrix has two distinct eigenvalues, then it is diagonalizable.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q04",
+      "topic": "Problem Set #7",
+      "question_markdown": "Suppose that $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ is a smooth function and that $u$ is related to $t$ and $x$ by the equation:\n\n$$\nu=f(x-u t)\n$$\n\nWhich of the following differential equations does $u$ satisfy?",
+      "options": [
+        "$u_{t}-u u_{x}=0$",
+        "$u_{x}-u^{2} u_{t}=0$",
+        "$u_{x}+t u_{t}=0$",
+        "$u_{t}+u_{x}\\left(u_{t}\\right)^{2}=0$",
+        "$u_{t}+u u_{x}=0$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "$u_{x}=f^{\\prime}(x-u t)\\left(1-t u_{x}\\right) \\Longrightarrow u_{x}=f^{\\prime} /(1+t), u_{t}=-f^{\\prime}(x-u t) \\cdot\\left(u+t u_{t}\\right) \\Longrightarrow u_{t}=f^{\\prime} u /(1+t)$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q05",
+      "topic": "Problem Set #7",
+      "question_markdown": "Find the point on the plane $x+2 y+3 z=14$ closest to the origin.",
+      "options": [
+        "$(7,2,1)$",
+        "$\\left(2,2, \\frac{8}{3}\\right)$",
+        "$(-3,-2,7)$",
+        "$(14,0,0)$",
+        "$(1,2,3)$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Lagrange multipliers.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q06",
+      "topic": "Problem Set #7",
+      "question_markdown": "A bead slides down the curve $x y=1$ in the first quadrant. Find the bead's horizontal velocity at time $t=4$ if its height at time $t$ seconds is $y=18-t^{2}$.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Related Rates",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q07",
+      "topic": "Problem Set #7",
+      "question_markdown": "Inscribe a rectangle and isoscoleces triangle as shown below in a circle of radius one. For what values of $h$ do the triangle and rectangle have the same area?\n\n![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-18_451_448_904_331.jpg)",
+      "options": [
+        "$\\frac{1}{5}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{5}$",
+        "1"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "$\\frac{1}{2} b(1-h / 2)=b h$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q08",
+      "topic": "Problem Set #7",
+      "question_markdown": "What is the last digit of $12^{12^{12^{12}}}$ ?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "0"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "The only possible digits are $2,4,8,6$ and cycle in that order upon each multiplication of 12 . In fact, $12^{4 n} \\equiv 2$ for any $n$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q09",
+      "topic": "Problem Set #7",
+      "question_markdown": "Evaluate the integral $\\int_{0}^{1} \\int_{0}^{1} e^{\\max \\left(x^{2}, y^{2}\\right)} d x d y$ where the \"max\" of two real numbers is their maximum.",
+      "options": [
+        "$\\frac{1}{2}(e+1)$",
+        "$e+1$",
+        "$1-e$",
+        "$\\frac{1}{2}(e-1)$",
+        "$e-1$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Look below line $y=x$ and get $\\int_{0}^{1} \\int_{0}^{x} e^{x^{2}} d y d x$, then multiply by 2 .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-7-q10",
+      "topic": "Problem Set #7",
+      "question_markdown": "Let\n\n$$\nf(x)=g(x)= \\begin{cases}2 e^{-2 x} & x>0 \\\\ 0 & x \\leq 0\\end{cases}\n$$\n\nand\n\n$$\nh(y)=\\int_{-\\infty}^{\\infty} f(y-x) g(x) d x\n$$\n\nIf $y<0$, then $h(y)=$",
+      "options": [
+        "$4 y e^{-2 y}$",
+        "$4 y^{2} e^{-2 y}$",
+        "$2 y^{2} e^{-2 y}$",
+        "$2 y e^{-2 y}$",
+        "0"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "If $y>0$, the answer is A (try it). This is a convolution of two exponential random variables with $\\lambda=2$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-7",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q01",
+      "topic": "Problem Set #8",
+      "question_markdown": "Let $u, v, w \\in \\mathbb{R}^{3}$ such that:\n\n(i) $u \\times v \\neq 0$\n\n(ii) $u \\times w \\neq 0$\n\n(iii) $(u \\times v) \\cdot(u \\times w)=0$\n\nWhich of the following is true?",
+      "options": [
+        "$v \\perp w$",
+        "$u \\perp w$ and $u \\perp v$",
+        "$u, v$, and $w$ lie in the same plane",
+        "The plane spanned by $u$ and $v$ is orthogonal to the plane spanned by $u$ and $w$",
+        "None of the above."
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "The normals of the planes are orthogonal",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q02",
+      "topic": "Problem Set #8",
+      "question_markdown": "If $x^{2}+x=3$, then $x^{4}+x=$",
+      "options": [
+        "$x^{3}+3$",
+        "$4(3-x)$",
+        "$3(x-1)$",
+        "$6(2-x)$",
+        "$3 x$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Substitute $x^{2}=3-x$ into the equation twice.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q03",
+      "topic": "Problem Set #8",
+      "question_markdown": "$\\left.\\frac{d}{d x}\\right|_{x=e} \\ln \\left(\\ln x^{x^{2}+x}\\right)=$",
+      "options": [
+        "$\\frac{3 e-1}{e^{2}+e}$",
+        "$\\frac{3 e+2}{e^{2}}$",
+        "$\\frac{2 e+1}{e^{2}+e}$",
+        "$\\frac{e+2}{e^{2}+e}$",
+        "$\\frac{3 e+2}{e^{2}+e}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "E\n\n$$\n\\begin{aligned}\\frac{d}{d x} \\ln \\left(\\ln x^{x^{2}+x}\\right) & =\\frac{d}{d x} \\ln \\left(\\left(x^{2}+x\\right) \\cdot \\ln x\\right) \\\\ & =\\frac{(2 x+1) \\ln x+(x+1)}{\\left(x^{2}+x\\right) \\ln x}\\end{aligned}\n$$\n\nSetting $x=e$ we get:\n\n$$\n\\frac{3 e+2}{e^{2}+e}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q04",
+      "topic": "Problem Set #8",
+      "question_markdown": "At how many points does the graph $y=x^{5}+x^{3}+x-2000$ cross the $x$-axis.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "It's an increasing function.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q05",
+      "topic": "Problem Set #8",
+      "question_markdown": "Let $C$ be the circle in the $y z$-plane whose equation is $(y-3)^{2}+z^{2}=1$. If $C$ is revolved around the $z$-axis, the surface generated is a torus. What is the equation of the torus.",
+      "options": [
+        "$x^{2}+y^{2}+z^{2}=6 y$",
+        "$\\left(x^{2}+y^{2}+z^{2}\\right)^{2}=8+36\\left(x^{2}+z^{2}\\right)$",
+        "$\\left(x^{2}+y^{2}+z^{2}+8\\right)^{2}=36\\left(x^{2}+z^{2}\\right)$",
+        "$\\left(x^{2}+y^{2}+z^{2}+8\\right)^{2}=36\\left(x^{2}+y^{2}\\right)$",
+        "$\\left(x^{2}+y^{2}+z^{2}+8\\right)^{2}=36\\left(y^{2}+z^{2}\\right)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Replace $y$ with $\\sqrt{y^{2}+x^{2}}$. Alternatively (thanks, Ben!), find points like ( $0,2,0$ ) and ( $2,0,0$ ) on the torus and plug in. Note (a) can't be right either because it contains the origin.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q06",
+      "topic": "Problem Set #8",
+      "question_markdown": "How many distinct abelian groups have order 96 ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "$96=3 \\cdot 2^{5}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q07",
+      "topic": "Problem Set #8",
+      "question_markdown": "If $x$ is a real number and $P$ is a polynomial function, then\n\n$$\n\\lim _{h \\rightarrow 0} \\frac{P(x+3 h)+P(x-3 h)-2 P(x)}{h^{2}}=\n$$",
+      "options": [
+        "0",
+        "$6 P^{\\prime}(x)$",
+        "$3 P^{\\prime \\prime}(x)$",
+        "$9 P^{\\prime \\prime}(x)$",
+        "$\\infty$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Surefire way is to let $P(x)=x^{2}$ and then substitute. Alternatively, we can write the quotient as:\n\n$$\n\\lim _{h \\rightarrow 0} \\frac{\\frac{P(x+h)-P(x)}{h}-\\frac{P(x)-P(x-h)}{h}}{h}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q08",
+      "topic": "Problem Set #8",
+      "question_markdown": "If $C$ is the circle in the complex plane whose equation is $|z|=\\pi$, oriented counterclockwise, find the value of the integral:\n\n$$\n\\oint_{C}\\left(\\cos z-z \\cos \\frac{1}{z}\\right) d z\n$$",
+      "options": [
+        "$-2 \\pi i$",
+        "$-\\pi i$",
+        "0",
+        "$\\pi i$",
+        "$2 \\pi i$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "The integral is $=2 \\pi i$ (residue); where the residue is the coefficient of $1 / z$. Note the first function is holomorphic and the second function we substitute $1 / z$ into the power series for the cosine function.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q09",
+      "topic": "Problem Set #8",
+      "question_markdown": "Let $R$ be the rectangle bounded by $x-y=0, x-y=2, x+y=0$ and $x+y=3$. Evaluate\n\n$$\n\\iint_{R}(x+y) e^{x^{2}-y^{2}} d A\n$$",
+      "options": [
+        "$e^{6}-7$",
+        "$e^{6}+7$",
+        "$\\frac{1}{2}\\left(e^{6}-7\\right)$",
+        "$\\frac{1}{4}\\left(e^{6}-7\\right)$",
+        "$\\frac{1}{2}\\left(e^{6}+7\\right)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "This is a change of variables:\n\n$$\n\\int_{U} f(\\phi(\\vec{x}))=\\int_{\\phi^{-1}(U)} f(\\vec{y}) \\det\\left(D \\phi^{-1}\\right)\n$$\n\nwhere $\\phi: \\mathbb{R}^{2} \\rightarrow \\mathbb{R}^{2}$ is a diffeomorphism. $\\phi(x, y)=(x+y, x-y)=(u, v)$ and then our integrand becomes $u e^{u v}$. We see that $\\det(D \\phi)=2$, so $\\det\\left(D\\left(\\phi^{-1}\\right)\\right)=\\det\\left((D \\phi)^{-1}\\right)=\\frac{1}{2}$ and the integral becomes:\n\n$$\n\\frac{1}{2} \\int_{0}^{3} \\int_{0}^{2} u e^{u v} d v d u=\\frac{1}{2} \\int_{0}^{3}\\left(e^{2 u}-1\\right)=\\frac{1}{2}\\left(\\frac{e^{6}}{2}-\\frac{1}{2}-3\\right)\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-8-q10",
+      "topic": "Problem Set #8",
+      "question_markdown": "How many binary digits are between 101110 and 11 (inclusive of the endpoints)?",
+      "options": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "$101110-11=101011$ and this is 43 . We are missing an endpoint, so this means the number of digits is 44.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-8",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q01",
+      "topic": "Problem Set #9",
+      "question_markdown": "The function $f(x, y)=x^{2}+3 x y+y^{2}+y^{4}$ :",
+      "options": [
+        "has a global minimum at $(0,0)$",
+        "has a local minimum at ( 0,0 ), but not a global minimum",
+        "has a local max at $(0,0)$",
+        "has a saddle at $(0,0)$",
+        "has countably many local minima"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "$\\nabla f=\\left(2 x+3 y, 3 x+2 y+4 y^{3}\\right)$ and clearly $(0,0)$ is a critical point. It has another pair of critical points setting $x=-\\frac{3 x}{2}$ and getting $y= \\pm \\frac{\\sqrt{10}}{2}$. Now,\n\n$$\nH_{f}=\\left(\\begin{array}{cc}2 & 3 \\\\ 3 & 2+12 y^{2}\\end{array}\\right)\n$$\n\nAt $y=x=0,\\left|H_{f}\\right|=-5<0$ and hence is a saddle (negative eigenvalue and positive eigenvalue).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q02",
+      "topic": "Problem Set #9",
+      "question_markdown": "Find the smallest degree polynomial $p(x)$ such that:\n\n$$\n\\begin{aligned}p(0) & =-1 \\\\ p(-1) & =-2 \\\\ p(1) & =4\\end{aligned}\n$$",
+      "options": [
+        "$p(x)=x-1$",
+        "$p(x)=3 x+1$",
+        "$p(x)=2 x^{2}-3 x-1$",
+        "$p(x)=-2 x^{2}+3 x-1$",
+        "$p(x)=2 x^{2}+3 x-1$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Could use Lagrange interpolation, but probably easier just to plug in.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q03",
+      "topic": "Problem Set #9",
+      "question_markdown": "Let $C$ be the boundary, oriented counterclowise, of the triangle in the ( $x, y$ )-plane whose vertices are $(0,1),(1,1)$ and $(1,3)$. What is the value of the following integral?\n\n$$\n\\oint_{C}(\\sqrt{2 x+1}-y) d x+\\left(2 x+\\sqrt{y^{2}-y}\\right) d y\n$$",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "$2 \\sqrt{2}-3$",
+        "$2(\\sqrt{2}-1)$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Use stokes and integrand becomes 3 and then just need to find area of the triangle.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q04",
+      "topic": "Problem Set #9",
+      "question_markdown": "Which of the following statements are true about sequences of functions $\\left\\{f_{n}\\right\\}$ and $\\left\\{g_{n}\\right\\}$ that converge uniformly on a set $E$ ?\n\n(I) $\\left\\{f_{n}+g_{n}\\right\\}$ converge uniformly on $E$\n\n(II) $\\left\\{f_{n} g_{n}\\right\\}$ converge uniformly on $E$\n\n(III) $\\left\\{\\sin f_{n}\\right\\}$ converge uniformly on $E$",
+      "options": [
+        "I only",
+        "I and III only",
+        "II and III only",
+        "I and II only",
+        "II and III only"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "II is false by inspecting $f_{n}=g_{n}=x+\\frac{1}{n}$. III is true since the sine function is uniformly continuous. IV is clearly",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q05",
+      "topic": "Problem Set #9",
+      "question_markdown": "Find the smallest positive $a \\in \\mathbb{N}$ such that there is a $b \\in \\mathbb{Z}$ with $13 a+35 b=1$.",
+      "options": [
+        "8",
+        "3",
+        "27",
+        "22",
+        "10"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "$\\mathrm{C}(27) 13+(-10) 35$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q06",
+      "topic": "Problem Set #9",
+      "question_markdown": "If $w=f(x, y)$ is a solution of the partial differential equation:\n\n$$\n2 \\frac{\\partial w}{\\partial x}-3 \\frac{\\partial w}{\\partial y}=0\n$$\n\nthen $w$ could equal:",
+      "options": [
+        "$\\log (\\log (2 x-3 y))^{6}$",
+        "$\\sin (3 x-2 y)$",
+        "$e^{\\arctan (3 x+2 y)}$",
+        "$(\\arccos (2 y-3 x))^{2}$",
+        "$\\sqrt{2 x+3 y}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "So this mean $\\nabla w \\cdot(2,-3)=0$. But $\\nabla w \\perp$ level curves of $w$, that is when $w(x, y)=c$. Hence ( $2,-3$ ) is parallel to curves $w(x, y)=c$ for all such $x, y$ ! This means that $2 x+3 y=$ constant should BE level curves of $w$. Clearly, $D$ is the only thing that works.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q07",
+      "topic": "Problem Set #9",
+      "question_markdown": "Up to isomorphism, how many additive abelian groups $G$ of order 16 have the property that $x+x+x+x=0$ for each $x \\in G$ ?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "$\\mathbb{Z}_{4} \\times \\mathbb{Z}_{4}, \\mathbb{Z}_{4} \\times \\mathbb{Z}_{2} \\times \\mathbb{Z}_{2},\\left(\\mathbb{Z}_{2}\\right)^{4}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q08",
+      "topic": "Problem Set #9",
+      "question_markdown": "$\\sum_{n=1}^{\\infty}(-1)^{n}\\left(1-\\cos \\left(\\frac{1}{n}\\right)\\right)$ is $\\mathrm{a}(\\mathrm{n})$",
+      "options": [
+        "conditionally convergent series",
+        "absolutely convergent series",
+        "divergent series",
+        "cannot be determined"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Compare with $1 / n^{2}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q09",
+      "topic": "Problem Set #9",
+      "question_markdown": "Suppose that $f$ is differentiable function such that $f(x) \\geq 0$ and $\\int_{0}^{\\infty} f(x)<\\infty$. Which of the following statements must always be true?",
+      "options": [
+        "$\\lim _{x \\rightarrow \\infty} f(x)=0$",
+        "$\\lim _{x \\rightarrow \\infty} f^{\\prime}(x)=0$",
+        "For every $\\varepsilon>0$, there is an $M$ such that $\\int_{x>M} f(x) d x<\\varepsilon$",
+        "$f$ is bounded",
+        "A, C, and D"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Use functions that have thinner and thinner width with the increasing height as $x \\rightarrow \\infty$. Heuristically, the function should have humps at each $n \\in \\mathbb{N}$ with width $(1 / 4)^{n}$ at each height $2^{n}$. Smooth this out.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-9-q10",
+      "topic": "Problem Set #9",
+      "question_markdown": "Evaluate $\\sum_{n=1}^{\\infty} \\arctan \\left(\\frac{1}{n^{2}+n+1}\\right)$",
+      "options": [
+        "$\\pi / 4$",
+        "$\\pi / 3$",
+        "$\\pi / 2$",
+        "$3 \\pi / 3$",
+        "$\\frac{\\sqrt{2}}{2}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "$\\arctan \\left(\\frac{n+1-(n)}{1+(n)(n+1)}\\right)=\\arctan \\left(\\tan \\left(\\theta_{n+1}-\\theta_{n}\\right)=\\theta_{n+1}-\\theta_{n}=\\arctan (n+1)-\\arctan (n)\\right.$\n\nSo, partial sums are $\\arctan (n)-\\pi / 4$ and the result follows since the series is telescoping!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-9",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q01",
+      "topic": "Problem Set #10",
+      "question_markdown": "Which of the following statements are false?\n\n(I) The set of holomorphic functions are dense in the set of continuous on $D=\\left\\{\\vec{x} \\in \\mathbb{R}^{2} \\| \\vec{x} \\mid \\leq 1\\right\\}$ functions with respect to the metric $d(f, g)=\\sup _{\\vec{x} \\in D}|f(\\vec{x})-g(\\vec{x})|$.\n\n(II) Let $\\left\\{f_{n}\\right\\}$ be a sequence of functions on the unit disk $\\{z:|z| \\leq 1\\}$ in the complex plane. If the sequence of functions converge pointwise, then they also converges uniformly.\n\n(III) Let $\\left\\{f_{n}\\right\\}$ be a sequence of infinitely differentiable functions on $[0,1]$. If there is a function $g$ such that $f_{n}^{\\prime} \\rightarrow g$ uniformly and $f_{n}(0)=1$, then there is a function $G$ such that $G(0)=1$ and $f_{n} \\rightarrow G$ uniformly.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and III only",
+        "II and III only"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Morera's theorem implies the \"I\" if false because if holomorphic functions converge to another continuous function under this metric (i.e. converge uniformly), then the continuous function must have integral zero (uniform convergence implies limits and integration commute). Clearly, there are continuous functions that have non-zero path integral. II is false ( $f_{n}(x)=x^{n}$ ). It is false even when it converges to a a continuous function! (take the disappearing hump). III is true simply by writing out the fundamental theorem of caluculus. The complete details can be found for instance in Strichartz, Way of Analysis pg. 262 or Tao, Analysis II pg. 464",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q02",
+      "topic": "Problem Set #10",
+      "question_markdown": "Let $A$ be a real $2 \\times 2$ matrix. Which of the following statements must be true?\n\n(I) All of the entries of $A^{2}$ are nonnegative\n\n(II) The determinant of $A^{2}$ is nonnegative\n\n(III) If $A$ has two distinct eigenvalues, then $A^{2}$ has two distinct eigenvalues.",
+      "options": [
+        "I, II, and III",
+        "II and III only",
+        "III only",
+        "II only",
+        "I and II only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "I is false whe $A=\\left(\\begin{array}{cc}0 & -1 \\\\ 1 & 1\\end{array}\\right)$. II is true by multiplicativity of the determinant. III is false when $A=\\left(\\begin{array}{cc}1 & 0 \\\\ 0 & -1\\end{array}\\right)$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q03",
+      "topic": "Problem Set #10",
+      "question_markdown": "Consider the intial value problem:\n\n$$\n\\left\\{\\begin{array}{l}y^{\\prime}=y^{1 / 2} \\\\ y(0)=a\\end{array}\\right.\n$$\n\nwhere $a$ is a constant. Which of the following is true?\n\n(I) If $a=0$, the unique solution to the above is $y(t)=0$.\n\n(II) If $a=0$, there are exactly 2 solutions.\n\n(III) If $a=0$, there are infinitely many solutions.\n\n(IV) If $a \\neq 0$, there is a unique solution.",
+      "options": [
+        "I and IV only",
+        "II and IV only",
+        "III and IV only",
+        "III only",
+        "I only"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "The relevant theorem is:\n\nTheorem. If $y^{\\prime}=f(t, y)$ is differential equation with initial condition $y\\left(t_{0}\\right)=y_{0}$, then there exists a solution a solution if $f$ is continuous in the ty-plane in a neighborhood of $\\left(t_{0}, y_{0}\\right)$. Uniqueness is obtained if $f$ is lipschitz in the $y$ variable in a neighborhood of $\\left(t_{0}, y_{0}\\right)$ (easier to just check if $\\frac{\\partial f}{\\partial y}$ is continuous).\n\nLet's suppose $a=0$. Note that $y=0$ and $y=\\frac{t^{2}}{4}$ is a solution. We can actually amalgmate these solutions. For $C \\geq 0$ we have solutions:\n\n$$\ny_{C}(t)= \\begin{cases}0 & x \\leq C \\\\ \\frac{1}{4}(x-C)^{2} & x \\geq C\\end{cases}\n$$\n\nHowever, for $a \\neq 0$, the theorem above holds.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q04",
+      "topic": "Problem Set #10",
+      "question_markdown": "Evaluate:\n\n$$\n\\sum_{n=0}^{\\infty} \\frac{(-1)^{n} \\cdot 2^{2 n}}{(2 n+1)!}\n$$",
+      "options": [
+        "$\\frac{1}{2} \\cos 2$",
+        "$\\sin ^{2} 1$",
+        "$\\frac{1}{2} \\sin 1$",
+        "$\\sin 2$",
+        "$\\cos 1 \\sin 1$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Note the power series is $\\frac{1}{2} \\cos 2=\\sin 1 \\cos 1$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q05",
+      "topic": "Problem Set #10",
+      "question_markdown": "Let $C_{1}, C_{2}$ be the circles of radius 1 centered at ( 1,0 ) and ( 0,1 ) respectively. Find the area on which the interiors of the circles overlap.",
+      "options": [
+        "$4-2 \\sqrt{2}$",
+        "$\\frac{\\pi+1}{2}$",
+        "$\\frac{2-\\pi}{2}$",
+        "$\\frac{\\pi+8}{2}$",
+        "$\\frac{\\pi+2}{4}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Use polar coordinates. The first circle is $r=2 \\cos \\theta$ and the second is $r=2 \\sin \\theta$. The area is then easiest split in half from $\\theta=\\pi / 4$ to $\\pi / 2$ and from $\\pi / 4$ to $\\pi / 2$. These have the same area by symmetry:\n\n$$\n2 \\int_{\\pi / 4}^{\\pi / 2} \\int_{0}^{2 \\cos \\theta}(r d r d \\theta)=-\\int_{\\pi / 4}^{\\pi / 2} 4 \\cos ^{2} \\theta d \\theta=\\left.(2+\\sin 2 x)\\right|_{x=\\pi / 4} ^{\\pi / 2}=\\pi / 2-1\n$$\n\nYet another way (thanks Devin), is to use basic geometry and symmetry. Essentially cut out a quarter circle with the square. Key point is the circles intersect at $(1,1)$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q06",
+      "topic": "Problem Set #10",
+      "question_markdown": "Consider a hemisphere of radius $R$. Consider the portion of sphere that lies height $h$ above it's center. What is the surface area of this portion?",
+      "options": [
+        "$2 \\pi R^{1 / 2}(R-h)^{3 / 2}$",
+        "$2 \\pi R(R-h)$",
+        "$2 \\pi R\\left(R^{2}-h^{2}\\right)^{1 / 2}$",
+        "$3 \\pi R h$",
+        "$\\pi R(R-h)$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "View this part of the sphere as rotation about the top of the $y$-axis from the viewpoint of the $x y$-plane. So, $2 \\pi \\int_{h}^{R} \\underbrace{\\sqrt{R^{2}-y^{2}}}_{y} \\cdot \\underbrace{\\sqrt{1+\\frac{y^{2}}{R^{2}-y^{2}}} d y}_{d s}=2 \\pi R(R-h)$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q07",
+      "topic": "Problem Set #10",
+      "question_markdown": "Let $X$ and $Y$ be independent uniformly distributed random variables on [0,1]. $P\\left(X^{2} \\leq Y\\right)=$",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{4}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "We are finding the area in the square $[0,1] \\times[0,1]$ underneath the parabola $y=x^{2}$ which is precisely $1-1 / 3$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q08",
+      "topic": "Problem Set #10",
+      "question_markdown": "Evaluate: $\\lim _{x \\rightarrow 0^{+}}\\left(\\frac{\\sin x}{x}\\right)^{1 / x^{2}}$.",
+      "options": [
+        "Does not exist",
+        "$\\frac{1}{3}$",
+        "$\\frac{e}{2}$",
+        "$e^{-\\frac{1}{3}}$",
+        "$e^{-\\frac{1}{6}}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Take the $l n$ and then apply L'Hospital's rule a bunch. An easier approach (thanks John), is to taylor expand $\\sin x / x$ and then do the same trick only things work out much simpler.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q09",
+      "topic": "Problem Set #10",
+      "question_markdown": "The radius of convergence of $\\sum_{n=0}^{\\infty} \\frac{n!}{2^{n^{2}}} x^{n}$ is:",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "$e^{2}$",
+        "$\\infty$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Use the root test on:\n\n$$\n\\frac{n!}{2^{n^{2}}} \\leq \\frac{n^{n}}{\\left(2^{n}\\right)^{n}}=\\left(\\frac{n}{2^{n}}\\right)^{n}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-problem-set-10-q10",
+      "topic": "Problem Set #10",
+      "question_markdown": "How many zeros does the function $f(x)=3 \\sin (100 x)+1$ have on $[0,1]$ ?",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "$\\lfloor 100 / \\pi\\rfloor=31$. Let $\\pi=22 / 7$. Can you do this with cosine?",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "problem-set-10",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q01",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "If the matrices\n\n$$\n\\left(\\begin{array}{lll}3 & -2 & -2 \\\\ 1 & -1 & -1 \\\\ 3 & -1 & -2\\end{array}\\right) \\text { and }\\left(\\begin{array}{ccc}1 & a & 0 \\\\ -1 & b & 1 \\\\ 2 & c & -1\\end{array}\\right)\n$$\n\nare inverses of each other, what is the value of $c$ ?",
+      "options": [
+        "-3",
+        "-2",
+        "0",
+        "2",
+        "3"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Multiply the left matrix by the right matrix to simplify calculations: $6+c-3=0$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q02",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "If $A$ is a square matrix of order $n \\geq 4$, and $a_{i j}=i+j$ represents the entry in row $i$ and column $j$, then the rank of $A$ is always",
+      "options": [
+        "1",
+        "2",
+        "$n-2$",
+        "$n-1$",
+        "$n$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Get the first two rows of the matrix in the form:\n\n$$\n\\left(\\begin{array}{lll}2 & 3 & 4 \\ldots \\\\ 1 & 1 & 1 \\ldots\\end{array}\\right)\n$$\n\nand these two rows span all the others.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q03",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "Let $A$ be a 2 by 2 matrix with characteristic polynomial $p(x)=x^{2}+2 x+1$, which of the following must be true:\n\n(I) $A$ has an eigenvalue.\n\n(II) If $A$ is diagonalizable, then $A$ is the identity matrix.\n\n(III) $A$ is invertible",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and III only",
+        "I, II, III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "It has eigenvalue -1 , but no zero eigenvalue. Hence, $I I$ is false, but the others are true.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q04",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "A square $n \\times n$ matrix $A$ is said to be skew symmetric if $A=-A^{T}$. The vector space of antisymmetric matrices has dimension:",
+      "options": [
+        "$\\frac{n(n+1)}{2}$",
+        "$n^{2}-1$",
+        "$\\frac{n^{2}}{2}$",
+        "$\\frac{n^{2}+1}{2}$",
+        "$\\frac{n(n-1)}{2}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "The diagonal must be zero, and the entries above the diagonal determine those below. Count these: $\\sum_{i=1}^{n-1} i=\\frac{n(n-1)}{2}$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q05",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "Fow what value of $x$ will the following matrix be non-invertible?\n\n$$\n\\left(\\begin{array}{llll}7 & 6 & 0 & 1 \\\\ 5 & 4 & x & 0 \\\\ 8 & 7 & 0 & 1 \\\\ 0 & 0 & 1 & 1\\end{array}\\right)\n$$",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "3",
+        "9"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Take the determinant OR (thanks Devin) just notice that $7-6+1=0,5-4=x, 8-7+1=0 1=1$. That is the first column minus the second column plus the fourth column is the third.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q06",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "What is the Jordan form of the transformation $T: \\mathbb{C}^{2} \\rightarrow \\mathbb{C}^{2}$ given by $(w, z) \\mapsto(-z, w)$ ?",
+      "options": [
+        "$\\left(\\begin{array}{cc}i & 1 \\\\ 0 & -i\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}i & 1 \\\\ 0 & i\\end{array}\\right)$",
+        "$\\left(\\begin{array}{cc}i & 0 \\\\ 0 & -i\\end{array}\\right)$",
+        "$\\left(\\begin{array}{cc}-i & 1 \\\\ 0 & -i\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}i & 0 \\\\ 0 & i\\end{array}\\right)$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "The matrix is diagonalizable over $\\mathbb{C}$ because it has two distinct eigenvalues: $\\pm i$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q07",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "What is the Jordan form of the transformation $T: \\mathbb{C}^{2} \\rightarrow \\mathbb{C}^{2}$ given by $T(x, y)=(4 x+y,-x+2 y)$ ?",
+      "options": [
+        "$\\left(\\begin{array}{ll}3 & 0 \\\\ 0 & 3\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}3 & 0 \\\\ 0 & 2\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}1 & 1 \\\\ 0 & 1\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}3 & 1 \\\\ 0 & 3\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}2 & 1 \\\\ 0 & 2\\end{array}\\right)$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "The characteristic polynomial is $x^{2}-6 x+9$. Since the eigenspace is 1 dimensional, we see the answer must be D.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q08",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "A square matrix is said to be nilpotent if $A^{n}=0$ for some $n \\in \\mathbb{N}$. Which of the following are true?\n\n(I) $A$ is nilpotent implies the only eigenvalue of $A$ is 0 .\n\n(II) If $A$ is nilpotent and normal, then $A$ is the zero matrix.\n\n(III) If $A$ and $B$ commute, then $A$ is nilpotent if and only if $B$ is\n\n(IV) If $S T$ is nilpotent, then so is $T S$.",
+      "options": [
+        "I only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III only",
+        "I, II, and IV only"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "I is true by Cayley Hamilton (note: the roots of the minimal polynomial and the characteristic polynomial are the same only with different multiplicity). II is by the spectral theorem and I. III is false (use the zero matrix). IV is true as if $S T^{n}=0$, then $T S^{n+1}$ is too.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q09",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "Let $V$ be the vector space of all polynomials of degree at most 3 with coefficients in $\\mathbb{R}$. Let $W$ be subspace of $V$ such that $p(0)=p(-1)=p(1)=0$. Then $\\operatorname{dim} V+\\operatorname{dim} W=$",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "$V=\\operatorname{span}\\left(1, x, x^{2}, x^{3}\\right)$ and $W=\\operatorname{span}(x(x-1)(x+1))$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-1-q10",
+      "topic": "Linear Algebra #1",
+      "question_markdown": "Let $V$ be the set of polynomials $p(x)$ with coefficients in $\\mathbb{R}$. Define linear operators $T$ and $S$ by:\n\n$$\n\\begin{aligned}& T(p(x))=x p(x) \\\\ & S(p(x))=p^{\\prime}(x)=\\frac{d}{d x}[p(x)]\\end{aligned}\n$$\n\nWe denote $S T$ and $T S$ as the expected composition. Which of the following is true",
+      "options": [
+        "$S T=0$",
+        "$S T=T$",
+        "$S T=T S$",
+        "$S T-T S$ is the idenity map of $V$",
+        "$S T+T S$ is the identity map of $V$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Product rule!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-1",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q01",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Which of the following are true for square matrices $A$ and $B$ ?\n\n(I) If $A B$ is invertible, then $A$ and $B$ are.\n\n(II) If $A$ has characteristic polynomial $x^{3}-x-1$, then $A$ is invertible.\n\n(III) If $A$ has eigenvalue $\\lambda$, then $3 A^{2}-\\lambda A$ has eigenvalue $2 \\lambda^{2}$.",
+      "options": [
+        "I only",
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Use $\\det(A B)=\\det(A) \\det(B)$ to see I. To see II, note that 0 is not a root of the characteristic polynomial. III is true by direct computation of the operator $3 A^{2}-\\lambda A$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q02",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "If $A=\\left(\\begin{array}{cc}t & 1-t \\\\ 1 & 2 t\\end{array}\\right)$ has 1 as an eigenvalue, then another eigenvalue could be:",
+      "options": [
+        "-3",
+        "-2",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Should get $t=0,1$. Get two choices for $A$ and then just inspect.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q03",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Which of the following sets are dense in the set of square $n \\times n$ square matrices over $\\mathbb{C}$ ?\n\n(I) Invertible matrices\n\n(II) Unitary Matrices Matrices\n\n(III) Symmetric Matrices\n\n(IV) Diagonalizable Matrices",
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and IV only",
+        "III and IV only",
+        "IV only"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Remember we view $n \\times n$ matrices as $\\mathbb{R}^{n^{2}}$. We use that all complex matrices have a basis in which they are upper triangular. Perturb the diagonal entries so that they are either nonzero (I) or all distinct (II). The others are not true. For II, if $\\det A \\neq 1$, then there is an open set $U \\subset \\mathbb{R}$ such taht $\\det A \\in U$ and $1 \\notin U$. Hence, $\\det^{-1}(U)$ is an open set which excludes unitary matrices around $A$. Symmetric matrices are clearly not dense.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q04",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Let $A$ be an $n \\times n$ matrix all of whose diagonal entries are 1 and whose other entries are $b$, with $b>1$. Which of the following are true:\n\n(I) $A$ has eigenvalue $n b-b-1$\n\n(II) $A$ has eigenvalue $n b-b+1$\n\n(III) $A$ has an eigenvalue $1-b$ with multiplicity $n-1$.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "II and III only"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Note by inspection $(1, \\ldots, 1)$ is an eigenvector for $n b-b+1$. Similarly, $(1,-1,0, \\ldots 0)$ and $(1,0,-1,0, \\ldots, 0)$, etc. are eigenvectors for $b-1$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q05",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Describe the following matrix transformation geometrically:\n\n$$\n\\left(\\begin{array}{ccc}\\frac{\\sqrt{2}}{2} & 0 & \\frac{\\sqrt{2}}{2} \\\\ 0 & -1 & 0 \\\\ -\\frac{\\sqrt{2}}{2} & 0 & \\frac{\\sqrt{2}}{2}\\end{array}\\right)\n$$",
+      "options": [
+        "A reflection through the plane $x=y$ plane followed by a rotation through the same plane by 45 degrees",
+        "A rotation through the $x z$-plane by 135 degrees followed by a reflection through the same plane.",
+        "A rotation in the $y z$-plane by 45 degrees followed by reflection through the same plane",
+        "A rotation in the $x y$-plane by 135 degrees followed by a reflection through the same plane"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Need to know what rotation matrices look like in 3 -space.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q06",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Let $f: \\mathbb{R}^{3} \\rightarrow \\mathbb{R}^{3}$ be the funciton defined by the equation $f(\\vec{x})=A \\vec{x}$, where:\n\n$$\nA=\\left(\\begin{array}{lll}1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9\\end{array}\\right)\n$$\n\nThe range of $f$ is:",
+      "options": [
+        "A point",
+        "A line through the origin",
+        "A plane through the origin",
+        "all of $\\mathbb{R}^{3}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "We already know the rank is 2 (see Linear Algebra $\\# 1$ problem 2).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q07",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Let $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ be a continuous function such that $f(a x)=a f(x)$ for every $a \\in \\mathbb{R}$ and $x \\in \\mathbb{R}$. Which of the following are true?",
+      "options": [
+        "$f$ is linear.",
+        "$f(x)=0$ if and only if $x=0$.",
+        "If $f(m)+f(n)=f(m+n)$ for $m, n \\in \\mathbb{Z}$, then $f$ is surjective precisely when $f$ is non-zero.",
+        "All of the above",
+        "A and C"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "If $f(x)=\\sqrt[3]{x}^{3}$, then $f$ is not additive. If $f=0$, then $f(1)=0$, too. C is true because $f$ is linear and hence must be surjective. To see this, $f(m+n)=(m+n) f(1)=m f(1)+n f(1)=f(m+n)$ when $m, n \\in \\mathbb{Z}$. Then for rational points, assume a common denominator: $f(m / n+p / n)= \\frac{1}{n} \\cdot f(m+p)=\\frac{1}{n} f(m)+\\frac{1}{n} f(p)=f(m / n)+f(p / n)$. Since $f$ is continuous, this extends to all real numbers by taking limits.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-linear-algebra-2-q08",
+      "topic": "Linear Algebra #2",
+      "question_markdown": "Which of the following are subspaces?\n\n(I) $\\left\\{\\left(x_{1}, x_{2}, x_{3}\\right) \\in \\mathbb{C}^{3}: x_{1}+i x_{2}+3 x_{3}=0\\right\\}$\n\n(II) $\\left\\{\\left(x_{1}, x_{2}, x_{3}\\right) \\in \\mathbb{C}^{3}: x_{1}+2 x_{2}+3 x_{3}=4-5 i\\right\\}$\n\n(III) $\\left\\{\\left(x_{1}, x_{2}, x_{3}\\right) \\in \\mathbb{C}^{3}: x_{1} x_{2} x_{3}=0\\right\\}$\n\n(IV) $\\left\\{\\left(x_{1}, x_{2}, x_{3}\\right) \\in \\mathbb{C}^{3}: x_{1}=10 x_{3}\\right\\}$",
+      "options": [
+        "All the above",
+        "I and IV only",
+        "I, III, and IV only",
+        "I, II, and III only",
+        "I, II, IV only"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Use:\n\nProposition. Let $V$ be a vector space over a field $F$. A subset $U \\subset V$ is a subspace if the following conditions are satisfied:\n\n(a) (Additive Identity) $\\overrightarrow{0} \\in U$\n\n(b) (Closure under Addition) $\\vec{u}, \\vec{v} \\in U$ implies $\\vec{u}+\\vec{v} \\in U$\n\n(c) (Closed under scalar multiplication) $a \\in F$ and $\\vec{u} \\in U$ implies $a \\vec{u} \\in U$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "linear-algebra-2",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q01",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Two subgroups $H$ and $K$ of a group $G$ have orders 12 and 30 respectively. Which of the following could not be the order of the subgroup of $G$ generated by $H$ and $K$ ?",
+      "options": [
+        "30",
+        "60",
+        "120",
+        "360",
+        "Countably infinite"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "All you need to know is that the order of a subgroup divides the larger group. In this case if we call $L$ the subgroup generated by $H$ and $K$, then $|L| \\leq 360$. Note that $H$ and $K$ must be contained in $L$, so 12 must divide $|L|$ and doesn't divide $A$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q02",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Let $G_{n}$ denote the cyclic group of order $n$. Which of the following are not cyclic?",
+      "options": [
+        "$G_{11} \\times G_{7}$",
+        "$G_{24} \\times G_{17}$",
+        "$G_{11} \\times G_{3} \\times G_{8}$",
+        "$G_{33} \\times G_{11}$",
+        "$G_{49} \\times G_{121}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "The two numbers are not relatively prime.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q03",
+      "topic": "Abstract Algebra",
+      "question_markdown": "A group such that $(a b)^{2}=a^{2} b^{2}$ :",
+      "options": [
+        "Finite",
+        "Cyclic",
+        "of order",
+        "Abelian",
+        "None of the above"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Need two know $(a b)^{2}=a^{2} b^{2} \\Longrightarrow a b=b a$. This is similar to the proof that also comes up a lot: If $G$ is a group such that every element has order 2 , then the group is commutative. To prove this: $(a b)^{2}=a b=a^{2} b^{2}$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q04",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Let $G$ be a group and $f: G \\rightarrow G$ be given by $f(x)=a x a^{2}$. $a$ is a homomorphism if and only if:",
+      "options": [
+        "$G$ is abelian",
+        "$G=\\{e\\}$",
+        "$a=e$",
+        "$a^{2}=a$",
+        "$a^{3}=e$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Need $f(e)=e$, so $a^{3}=e$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q05",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Let $G$ be a group of order 9 , and let $e$ denote the identity of $G$. Which one of the statements about $G$ cannot be true:",
+      "options": [
+        "There exists an element $x$ in $G$ such that $x \\neq e$ and $x^{-1}=x$",
+        "There exists an element $x$ in $G$ such that $x, y \\neq e$ and $\\langle x\\rangle \\cap\\langle y\\rangle=\\{e\\}$",
+        "There exists an element $x \\in G$ such that $\\langle x\\rangle$ has order 3 .",
+        "$G$ is cyclic",
+        "$G$ is Abelian."
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Use $\\mathbb{Z} / 9 \\mathbb{Z}$ and $\\mathbb{Z} / 3 \\mathbb{Z} \\oplus \\mathbb{Z} / 3 \\mathbb{Z}$ for examples. A is false because it means $\\langle x\\rangle$ has size 2 , which is impossible since 2 does not divide 9 .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q06",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Which of the following subsets are subrings of the ring of real numbers?\n\n(I) $\\left\\{\\left.a+b \\sqrt{\\frac{2}{3}} \\right\\rvert\\, a, b \\in \\mathbb{Q}\\right\\}$\n\n(II) $\\{a+b \\sqrt{2} \\mid a, b \\in \\mathbb{Q}\\}$\n\n(III) $\\left\\{\\left.\\frac{n}{3^{m}} \\right\\rvert\\, n \\in \\mathbb{Z}\\right.$ and $\\left.m \\in \\mathbb{Z}_{\\geq 0}\\right\\}$\n\n(IV) $\\left\\{a+b \\sqrt{5} \\mid a, b \\in \\mathbb{R}\\right.$ such that $\\left.a^{2}+b^{2} \\leq 1\\right\\}$",
+      "options": [
+        "I only",
+        "I and II only",
+        "III, IV only",
+        "II, III, IV",
+        "I, II, III"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "You chould check or note that I and II are fields (really just adjoining roots-this is basic field theory). III is a subring by inspection. IV is not closed under addition.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q07",
+      "topic": "Abstract Algebra",
+      "question_markdown": "If the finite group $G$ contains a subgroup of order seven but no element other than the identity is its own inverse, then the order of $G$ could be:",
+      "options": [
+        "27",
+        "28",
+        "35",
+        "37",
+        "42"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Could actually use the answers. Know the group is divisible by 7 and cannot be even because counting shows that groups of even order have elements that are their own inverse.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q08",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Let $p$ and $q$ be distinct primes. How many mutually non-isomorphic Abelian groups are there of order $p^{2} q^{4}$ ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "For $p^{2}$ there are two: $\\mathbb{Z}_{p^{2}}$ and $\\mathbb{Z}_{p} \\times \\mathbb{Z}_{p}$. For $q^{4}$, there are 5: $\\mathbb{Z}_{q^{4}}, \\mathbb{Z}_{q^{3}} \\times \\mathbb{Z}_{q}, \\mathbb{Z}_{q^{2}} \\times \\mathbb{Z}_{q^{2}}, \\mathbb{Z}_{q^{2}} \\times \\mathbb{Z}_{q} \\times \\mathbb{Z}_{q}, \\mathbb{Z}_{q} \\times \\mathbb{Z}_{q} \\times \\mathbb{Z}_{q} \\times \\mathbb{Z}_{q}$. Then the answer is multiplying them.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q09",
+      "topic": "Abstract Algebra",
+      "question_markdown": "Let $R$ be a ring with multiplicative identity. If $U$ is an additive subgroup of $R$ such that $u r \\in U$ for all $u \\in U$ and for all $r \\in R$, then $U$ is said to be a right ideal of $R$. If $R$ has a exactly two right ideals, which of the following must be true?\n\n(I) $R$ is commutative\n\n(II) $R$ is a division ring (every nonzero element has an inverse)\n\n(III) $R$ is infinite",
+      "options": [
+        "I only",
+        "I, II only",
+        "II, III only",
+        "II only",
+        "III only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Use the quarternions to see $I$ is false (it's like a the vector space $\\mathbb{R}^{3}$ except multiplication is defined using the cross product; look it up though). Use $\\mathbb{Z} / 7 \\mathbb{Z}$ to see why III is false.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-abstract-algebra-q10",
+      "topic": "Abstract Algebra",
+      "question_markdown": "If $S$ is a ring with the property that $s=s^{2}$ for each $s \\in S$, which of the following must be true?\n\n(I) $s+s=0$ for each $s \\in S$\n\n(II) $(s+t)^{2}=s^{2}+t^{2}$ for each $s, t \\in S$\n\n(III) $S$ is commutative (i.e. multiplication is commutative)",
+      "options": [
+        "III only",
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Note the ring must have characteristic 2 because if we look at the homomorphism $\\varphi: \\mathbb{Z} \\hookrightarrow S$ that sends $1_{\\mathbb{Z}}$ to $1_{S}$, we know that $\\left(1_{S}+1_{S}\\right)=\\left(1_{S}+1_{S}\\right)^{2}$. That means that $2 \\in \\operatorname{ker} \\varphi$. This easily tells us I. II and III are intimately related because:\n\n$$\ns^{2}+t s+s t+t^{2}=(s+t)^{2}=s+t=s^{2}+t^{2}\n$$\n\nhence, $s t=-t s$, but we have characteristic 2 . Hence, II and III are true.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "abstract-algebra",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q01",
+      "topic": "Number Theory",
+      "question_markdown": "How many generators does the group $\\mathbb{Z}_{24}$ have?",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Need to count relatively prime integers $\\phi(24)=\\phi(3) \\phi\\left(2^{3}\\right)=(3-1)\\left(2^{2}\\right)(2-1)=8$, where $\\phi$ is the Euler-totient function.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q02",
+      "topic": "Number Theory",
+      "question_markdown": "Let $p$ and $q$ be distinct primes. There is a proper subgroup $J$ of the additive group of integers which contains exatly three elements of the set: $\\left\\{p, p+q, p q, p^{q}, q^{p}\\right\\}$. Which three elements are in $J$ ?",
+      "options": [
+        "$p q, p^{q}, q^{p}$",
+        "$p+q, p q, p^{q}$",
+        "$p, p+q, p q$",
+        "$p, p^{q}, q^{p}$",
+        "$p, p q, p^{q}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Without doing any serious computations recall the important fact that if $(a, b)=d$, then there are integers $m, n \\in \\mathbb{Z}$ such that $m a+n b=d$. That instantly excludes $\\mathrm{a}, \\mathrm{b}, \\mathrm{c}, \\mathrm{d}$. Also e is the cyclic grou generated by $p$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q03",
+      "topic": "Number Theory",
+      "question_markdown": "Let $H$ be the set of all group homomorphisms $\\phi: \\mathbb{Z}_{3} \\rightarrow \\mathbb{Z}_{6}$. How many functions does $H$ contain?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "1 must go to 0 or an element of order 3 .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q04",
+      "topic": "Number Theory",
+      "question_markdown": "Let $x$ and $y$ be positive integers such that $3 x+7 y$ is divisible by 11 . Which of the following is also divisible by 11 ?",
+      "options": [
+        "$4 x+6 y$",
+        "$x+y+5$",
+        "$9 x+4 y$",
+        "$4 x-9 y$",
+        "$x+y-1$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "$x=5, y=1$ works and then plug in.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q05",
+      "topic": "Number Theory",
+      "question_markdown": "What is the units digit in $7^{25}$ ?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "$7^{25} \\equiv 7^{1} \\equiv 7 \\bmod 10$ because $\\phi(10)=(5-1)(2-1)=4$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q06",
+      "topic": "Number Theory",
+      "question_markdown": "Let $P_{1}$ be the set of all primes $\\{2,3,5,7, \\ldots\\}$ and for each $n$, define $P_{n}$ to be the set of all prime multiples of $n$, i.e. $\\{2 n, 3 n, 5 n, 7 n, \\ldots\\}$. Which of the following interesections is non-empty?",
+      "options": [
+        "$P_{1} \\cap P_{23}$",
+        "$P_{7} \\cap P_{21}$",
+        "$P_{12} \\cap P_{20}$",
+        "$P_{20} \\cap P_{24}$",
+        "$P_{5} \\cap P_{25}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Count the number of prime factors. $P_{1}$ will always have exactly one while $P_{23}$ will always have two, etc.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-number-theory-q07",
+      "topic": "Number Theory",
+      "question_markdown": "For how many positive integers $k$ does the ordinary decimal representation of the integer $k!$ end in exactly 99 zeros?",
+      "options": [
+        "None",
+        "One",
+        "Four",
+        "Five",
+        "Twenty Four"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "It's a debate between 0 and 5. 100! has $10 * 2+1+1=22$. So, 400 ! has 88 . Need to add 11 more zeros to this. However at 450 ! we get $2 * 5+1$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "number-theory",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-real-analysis-and-advanced-calculus-q01",
+      "topic": "Real Analysis and Advanced Calculus",
+      "question_markdown": "Let $K$ be a nonempty subset of $\\mathbb{R}^{n}$, where $n>1$. Which of the following statements must be true?\n\n(I) If $K$ is compact, then every continuous real valued-function defined on $K$ is bounded.\n\n(II) If every contionuous real valued function defined on $K$ is bounded, then $K$ is compact.\n\n(III) If $K$ is compact, then $K$ is connected.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "I, II, and III only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "To see II, if II is not compact consider $f(x)=1 /|x-y|$, where $y$ is a limit point not in $K$. III is clearly false (two disjoint boxes) and I is true because it's one of the most fundamental theorems in real analysis!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "real-analysis-and-advanced-calculus",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-real-analysis-and-advanced-calculus-q02",
+      "topic": "Real Analysis and Advanced Calculus",
+      "question_markdown": "For each positive integer $n$, let $f_{n}$ be the function defined on $[0,1]$ by\n\n$$\nf_{n}(x)=\\frac{x^{n}}{1+x^{n}}\n$$\n\nWhich of the following statements are true?\n\n(I) The sequence $\\left\\{f_{n}\\right\\}$ converges pointwise to a limit function $f$.\n\n(II) The sequence $\\left\\{f_{n}\\right\\}$ converges uniformly to a limit function $f$.\n\n(III) $\\lim _{n \\rightarrow \\infty} \\int_{0}^{1} f_{n}(x) d x=\\int_{0}^{1}\\left(\\lim _{n \\rightarrow \\infty} f_{n}(x)\\right) d x$.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I and III only",
+        "II and III only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "We see that $f_{n} \\rightarrow 0$ on $[0,1)$ and $1 / 2$ for $x=1$. Therefore II must be false. III is true inspite of II because:\n\n$$\n\\frac{1}{2(n+1)} \\leq \\int_{0}^{1} f_{n}(x) d x \\leq \\frac{1}{n+1}\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "real-analysis-and-advanced-calculus",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-real-analysis-and-advanced-calculus-q03",
+      "topic": "Real Analysis and Advanced Calculus",
+      "question_markdown": "The set of real numbers for which the series $\\sum_{n=1}^{\\infty} \\frac{n!x^{2 n}}{n^{n}\\left(1+x^{2 n}\\right)}$ converges is:",
+      "options": [
+        "$\\{0\\}$",
+        "$\\{x:-1<x<1\\}$",
+        "$\\{x:-1 \\leq x \\leq 1\\}$",
+        "$\\{x:|x| \\leq \\sqrt{e}\\}$",
+        "$\\mathbb{R}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Just note that $n!/ n^{n} \\leq 2 / n^{2}$ and then apply the ratio test.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "real-analysis-and-advanced-calculus",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-real-analysis-and-advanced-calculus-q04",
+      "topic": "Real Analysis and Advanced Calculus",
+      "question_markdown": "Let $n$ be an integer greater than 1 . Which of the following guarantee that the equation $x^{n}= \\sum_{i=0}^{n-1} a_{i} x^{i}$ has at least one root in the interval $(0,1)$ ?\n\n(I) $a_{0}>0$ and $\\sum_{i=0}^{n-1} a_{i}<1$\n\n(II) $a_{0}>0$ and $\\sum_{i=0}^{n-1} a_{i}>1$\n\n(III) $a_{0}<0$ and $\\sum_{i=0}^{n-1} a_{i}>1$",
+      "options": [
+        "None",
+        "I only",
+        "II only",
+        "III only",
+        "I and III only"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Use the intermediate value theorem $x=0$ and $x=1$. II doesn't work because $x^{2}+2$. Note it's on $(0,1)$ !",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "real-analysis-and-advanced-calculus",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-real-analysis-and-advanced-calculus-q05",
+      "topic": "Real Analysis and Advanced Calculus",
+      "question_markdown": "Let $f$ be a continuous, strictly decreasing, real valued function such that $\\int_{0}^{+\\infty} f(x) d x$ is finite. In terms of $f^{-1}$ (the inverse function of $f$ ), $\\int_{0}^{\\infty} f(x) d x$ is:",
+      "options": [
+        "Less than $\\int_{1}^{\\infty} f^{-1}(y) d y$",
+        "Greater than $\\int_{0}^{1} f^{-1}(y) d y$",
+        "Equal to $\\int_{1}^{\\infty} f^{-1}(y) d y$",
+        "Equal to $\\int_{0}^{1} f^{-1}(y) d y$",
+        "Euqal to $\\int_{0}^{\\infty} f^{-1}(y) d y$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Have to draw the picture!",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "real-analysis-and-advanced-calculus",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-real-analysis-and-advanced-calculus-q06",
+      "topic": "Real Analysis and Advanced Calculus",
+      "question_markdown": "If $f$ and $g$ are real valued differentiable functions and if $f^{\\prime}(x) \\geq g^{\\prime}(x)$ for all $x \\in[0,1]$, which of the following must be true?",
+      "options": [
+        "$f(0) \\geq g(0)$",
+        "$f(1) \\geq g(1)$",
+        "$f(1)-g(1) \\geq f(0)-g(0)$",
+        "$f-g$ has no maximum on $[0,1]$",
+        "$\\frac{f}{g}$ is a non-decreasing function on $[0,1]$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Let $F(x)=g(x)-f(x)$ and therefore $F$ is non-decreasing.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "real-analysis-and-advanced-calculus",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q01",
+      "topic": "Topology",
+      "question_markdown": "How many topologies are possible on a set of 2 points?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Has to be closed under unions and finite intersections (look up the definition of a Topological space). The power set and $\\{\\{a, b\\}, \\emptyset\\}$ are two. $\\{\\{a, b\\}, \\emptyset,\\{a\\}\\},\\{\\{a, b\\}, \\emptyset,\\{b\\}\\}$ are two more.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q02",
+      "topic": "Topology",
+      "question_markdown": "Let $X=\\{a, b, c\\}$. Which of the following classes of subsets of $X$ do not form a topology?",
+      "options": [
+        "$\\{X, \\emptyset\\}$",
+        "$\\{X, \\emptyset,\\{a\\}\\}$",
+        "$\\{X, \\emptyset,\\{a\\},\\{b\\},\\{a, b\\}\\}$",
+        "$\\{X, \\emptyset,\\{a, b\\},\\{a, c\\},\\{b, c\\}\\}$",
+        "$P(X)$, the power set of $X$."
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Intersections are singeltons and hence does not satisfy the conditions for a topology.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q03",
+      "topic": "Topology",
+      "question_markdown": "Which of the following does NOT define a metric on the set of real numbers?",
+      "options": [
+        "$\\delta(x, y)= \\begin{cases}0 & \\text { if } x=y \\\\ 2 & \\text { if } x \\neq y\\end{cases}$",
+        "$\\rho(x, y)=\\min \\{|x-y|, 1\\}$",
+        "$\\sigma(x, y)=\\frac{1}{3} \\cdot|x-y|$",
+        "$\\tau(x, y)=\\frac{|x-y|}{|x-y|+1}$",
+        "$\\omega(x, y)=(x-y)^{2}$."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "$\\omega(0,1 / 2)+\\omega(1 / 2,1)=1 / 2<1=\\omega(0,1)$. Good exercise to prove the other are especially III. The way to do this is to set $a=d(x, y), b=d(y, z)$ and $c=d(x, z)$ and use that we know $a+b>c$ to show the desire metric satisfies the triangle inequality.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q04",
+      "topic": "Topology",
+      "question_markdown": "An ordinary polyhedron with 12 faces and 17 edges has how many vertices?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Euler characteristic of genus $g$ is $2-2 g$. Here $g=0$, so $\\xi(P)=F-E+V=12-17+7$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q05",
+      "topic": "Topology",
+      "question_markdown": "Suppose $X$ is a compact and $Y$ is Hausdorff such that $f: X \\rightarrow Y$ is a continuous bijection. Which of the following are true?\n\n(I) $f$ is open.\n\n(II) $f$ is a local homeomorphism.\n\n(III) $f^{-1}$ is continuous.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "II and III only",
+        "All of them"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Closed subsets of compact spaces are compact (open covers union the complement). Need to show that $f$ is open. Can show it's closed (not true in general, but since $f$ is bijective we can do this). See the website:\n\n\\href{http://www.proofwiki.org/wiki/Continuous_Bijection_from_Compact}{http://www.proofwiki.org/wiki/Continuous\\_Bijection\\_from\\_Compact}\n\n\\_to\\_Hausdorff\\_is\\_Homeomorphism\n\nIt's a great exercise to make sure you understand the proof of this. It uses fundamental definitions from point-set topology. It's a rite of passage.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q06",
+      "topic": "Topology",
+      "question_markdown": "If $A$ is a subset of the real line $\\mathbb{R}$ and $A$ contains each rational number, which of the following must be true?",
+      "options": [
+        "If $A$ is open, then $A=\\mathbb{R}$.",
+        "If $A$ is closed, then $A=\\mathbb{R}$.",
+        "If $A$ is uncountable, then $A=\\mathbb{R}$",
+        "If $A$ is uncountable, then $A$ is open.",
+        "If $A$ is countable, then $A$ is closed."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "If it has all it's limit points, then it is $\\mathbb{R}$ as $\\mathbb{Q}$ is dense.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q07",
+      "topic": "Topology",
+      "question_markdown": "Let $S$ be a compact topological space, let $T$ be a topological space, and let $f$ be a function from $S$ onto $T$. Which of the following conditions on $f$ is the weakest sufficient condition to guarantee compactness of $T$.",
+      "options": [
+        "$f$ is a homeomorphism",
+        "$f$ is continuous and injective",
+        "$f$ is continuous",
+        "$f$ is injective",
+        "$f$ is bounded"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Again, all they want you to know is that continuous maps take compact sets to compact sets.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q08",
+      "topic": "Topology",
+      "question_markdown": "Let $R$ be the set of real numbers with the topology generated by the basis $\\{[a, b): a<b, a, b \\in R\\}$. If $X$ is the subset $[0,1]$ of $R$, which of the following must be true?\n\n(I) $X$ is compact\n\n(II) $X$ is Hausdorff\n\n(III) $X$ is connected",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "II and III only"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "$X=\\cup_{n \\in \\mathbb{N}}[0,1-1 / n) \\bigcup\\{1\\}=[0,1 / 2) \\cup[1 / 2,2]$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-topology-q09",
+      "topic": "Topology",
+      "question_markdown": "Which of the following are equivalent to continuity?\n\n(I) $f^{-1}\\left(A^{o}\\right)=\\left(f^{-1}(A)\\right)^{o}$ where $S^{o}$ denotes interior of a set $S$\n\n(II) $f^{-1}(\\bar{A})=\\overline{\\left(f^{-1}(A)\\right)}$\n\n(III) $f^{-1}\\left(A^{c}\\right)=\\left(f^{-1}(A)\\right)^{c}$",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "II and III only",
+        "None"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Let's show why I fails. If $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ is given by $x \\mapsto x^{2}$ and $A=[0,1]$, then $f^{-1}\\left(A^{0}\\right)= f^{-1}((0,1))=(-1,0) \\cup(0,1)$, whereas $\\left(f^{-1}(A)\\right)^{0}=(-1,1)$. For II, let $f:[-1,2]$ be given by $f(x)=x^{2}$. When $A=(1,4)$, then $f^{-1}(\\bar{A})=\\{1\\} \\cup[1,2]$, wherease $\\overline{f^{-1}(A)}=[1,2]$. III is false because it holds for ALL functions, not just continuous ones.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "topology",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q01",
+      "topic": "Combinatorics",
+      "question_markdown": "Sixteen players participated in a round-robin tennis tournament. Each of them won a different number of games. How many games did the player finishing sixth win?",
+      "options": [
+        "14",
+        "13",
+        "12",
+        "9",
+        "10"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Each player must wina different number of games.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q02",
+      "topic": "Combinatorics",
+      "question_markdown": "A circular region is divided by 5 radii into five equal area sectors. Twenty one points are chosen in the circular region none along the circular radii that divide each region. Which of the following statements are true?\n\n(I) Some sector contains at least 5 points\n\n(II) Some sector contains at most 3 points\n\n(III) Some pair of adjacent sectors contains a total of at least 9 of the points.",
+      "options": [
+        "I only",
+        "III only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III only"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Direct pigeon hole application for I. For II, place all points in one region to see fallacy. For III. Suppose $n$ is the number of balls in one sector, then $8-n$ are the balls in adjacent sectors and the remaining balls in the two adjacent sectors not accounted for is $21-2(8-n)-n=5+n$. If we choose $n \\geq 5$ (and obviously smaller than 9 ), then the remaining two places can have 9 points.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q03",
+      "topic": "Combinatorics",
+      "question_markdown": "From the set of integers $\\{1,2, \\ldots, 9\\}$, how many nonempty subset sum to an even integer?",
+      "options": [
+        "512",
+        "255",
+        "$\\frac{9!}{2!\\cdot 7!}$",
+        "$\\frac{9!}{2!}$",
+        "None of the above"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "There are two ways to do this. The first is to directly count by noticing that we have to have an even number of odds chosen:\n\n$$\n2^{4}\\left(\\binom{5}{0}+\\binom{5}{2}+\\binom{5}{4}\\right)-1\n$$\n\nwhere we have omitted the emptyset. Alternatively, we can show there is a bijection between sets that sum to even and odd numbers simply by mapping a set to another by removing or adding 1 to the set depending on whether 1 is already a member. This shows the bijection, but since this maps $\\{1\\} \\rightarrow \\emptyset$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q04",
+      "topic": "Combinatorics",
+      "question_markdown": "$\\sum_{k=0}^{n}\\binom{n}{k} 4^{k}(-1)^{n-k}=$",
+      "options": [
+        "$\\binom{2 n}{n}$",
+        "$\\binom{n^{2}}{n}$",
+        "$3^{n}$",
+        "$2^{n}$",
+        "$4^{n}\\binom{2 n}{n}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Binomial theorem! The sum is $(4-1)^{n}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q05",
+      "topic": "Combinatorics",
+      "question_markdown": "A city has square blocks formed by a grid of north-south and east-west streets. One possible way to get from City Hall to the Main Fire House is first travel 5 blocks east and then 7 blocks north. How many different routes from City Hall to the main firehouse that travel exactly 12 city blocks?",
+      "options": [
+        "$5 \\cdot 7$",
+        "$\\frac{7!}{5!}$",
+        "$\\frac{12!}{7!5!}$",
+        "$2^{12}$",
+        "$7!5!$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "It is a string of 12 letters ( 7 N 's and and 5 E 's).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q06",
+      "topic": "Combinatorics",
+      "question_markdown": "Same question as 5 only now we must avoid the car accident that occured 3 blocks east and 5 blocks north from City Hall. This will not be a multiple choice question because it would give the previous one away!",
+      "options": [],
+      "correct_answer": null,
+      "solution_markdown": "$\\binom{12}{5}-\\binom{8}{3}\\binom{4}{2}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "open-response"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q07",
+      "topic": "Combinatorics",
+      "question_markdown": "How many trees are there with 5 vertices? A tree is a graph with no cycles.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "You need to write them all down. We are assuming the trees are unlabeled and equivalent with respect to graph isomorphism.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q08",
+      "topic": "Combinatorics",
+      "question_markdown": "Alan and Barbara play a game in which they take turns filling entries of an initially enpty $10 \\times 10$ array. Alan plays first. At each turn, a player chooses a real numebr and places it in a vacant entry. The game ends when all the entries are filled. Alan wins if the determinant of the resulting matrix is nonzero; Barbara wins if it is zero. Which player has a winning strategy?",
+      "options": [
+        "Barbara",
+        "Alan",
+        "Neither"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Whatever Alan plays, Barbara mirrors his moves on a column (say we have paired off columns at the beginning).",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q09",
+      "topic": "Combinatorics",
+      "question_markdown": "For each $n \\in \\mathbb{N}$, we let $[n]$ denote the set $\\{1, \\ldots, n\\}$. How many injective functions are there from $[n] \\rightarrow[n+k]$ where $k \\geq 0$ ?",
+      "options": [
+        "$\\binom{n}{k} k!$",
+        "$\\binom{n+k}{k} k!$",
+        "$\\binom{n+k}{n-k} k!$",
+        "$(n-k)$ !",
+        "$\\binom{n+k}{k} n$ !"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "First choose $k$ spots in the domain and then order up the way $k$ points in the domain can match them.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-combinatorics-q10",
+      "topic": "Combinatorics",
+      "question_markdown": "4 distinct positive integers are randomly chosen between 1 and 101 , inclusive. What is the probability that some pair of these integers has a difference that is a multiple of 3 ?",
+      "options": [
+        "$1 / 5$",
+        "$1 / 4$",
+        "$1 / 2$",
+        "$3 / 4$",
+        "1"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "There are 3 possible remainders $0,1,2$. There are $\\binom{4}{2}=6$ possible differences. By the pigeon hole principle, there always is at least one n .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "combinatorics",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q01",
+      "topic": "Probability",
+      "question_markdown": "Two people play Russian Roullette with a six shooter spinning with one bullet in the chamber. They spin the chamber each time before they pull the trigger. The probability the first person dies is:",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{7}$",
+        "$\\frac{6}{11}$",
+        "$\\frac{7}{13}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "It's a geometric series that looks like: $1 / 6+(5 / 6)^{2}(1 / 6)+(5 / 6)^{4}(1 / 6)+\\ldots$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q02",
+      "topic": "Probability",
+      "question_markdown": "Suppose $X$ is a discrete random variable on the set of positive integers such that for each positive integer $n$, the probability that $X=n$ is $\\frac{1}{2^{n}}$. If Y is a random variable with the same distribution and $X$ and $Y$ are independent, what is the probability that the value of at least one of the variables $X$ and $Y$ is greater than 3?",
+      "options": [
+        "$1 / 64$",
+        "$15 / 64$",
+        "$1 / 4$",
+        "$3 / 4$",
+        "$3 / 8$",
+        "$4 / 9$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "$1-(1 / 2+1 / 4+1 / 8)^{2}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q03",
+      "topic": "Probability",
+      "question_markdown": "A fair coin is to be tossed 100 times, with each toss resulting in a head or a tail. If $H$ is the number of heads and $T$ is the number of tails, which of the following events has the greatest probability?",
+      "options": [
+        "$H=50$",
+        "$T \\geq 60$",
+        "$51 \\leq H \\leq 55$",
+        "$H \\geq 48$ and $T \\geq 48$",
+        "$H \\leq 5$ or $H \\geq 95$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Obviously between C and D . Note that $D$ can be written as $P(48 \\leq H \\leq 52)$ and hence is more concentrated about the mean.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q04",
+      "topic": "Probability",
+      "question_markdown": "Let $X$ be a random variable with probability density function:\n\n$$\nf(x)= \\begin{cases}\\frac{3}{4}\\left(1-x^{2}\\right) & \\text { if }-1 \\leq x \\leq 1 \\\\ 0 & \\text { otherwise }\\end{cases}\n$$\n\nWhat is the standard deviation of $X$ ?",
+      "options": [
+        "0",
+        "$\\frac{1}{5}$",
+        "$\\frac{\\sqrt{30}}{15}$",
+        "$\\frac{\\sqrt{5}}{5}$",
+        "1"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Get mean: $\\int_{-1}^{1} \\frac{3}{4}\\left(x-x^{3}\\right)=0$ and hence the variance is:\n\n$$\n\\int_{-1}^{1} \\frac{3}{4}\\left(x^{2}-x^{4}\\right)=(3 / 2)[(1 / 3)-1 / 5)=1 / 5\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q05",
+      "topic": "Probability",
+      "question_markdown": "Let $X$ and $Y$ be uniformly distributed random variables on $[0,1]$. Find $P\\left(|X-Y|<\\frac{1}{2}\\right)$.",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{5}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "It's the region in a 1 by 1 square in the xy-plane such that $|x-y|<1 / 2$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q06",
+      "topic": "Probability",
+      "question_markdown": "Suppose you answer quiz questions until you get one wrong. If you answer $99 \\%$ of the questions correctly, how many questions on average do you expect to answer?",
+      "options": [
+        "99",
+        "100",
+        "80",
+        "$100 / 3$",
+        "110"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "This is a geometric distribution so $1 /(1 / 100)$ where $1 / 100$ is the probability of termination/ending the process. To derive easily: $X=$ length of the game and $E(X)$ is the expectation, then $E(X)$ satisfies: $E(X)=p(1)+(1-p)(E(X))$ where $p$ is the probability of termination/ending the process (in our case $p=1 / 100$ as said); then solve for $E(X)$ to get $1 / p$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-probability-q07",
+      "topic": "Probability",
+      "question_markdown": "Suppose you flip a coin until you get two consecutive heads. How many times to you expect to flip until you stop?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Similarly, we see that $E(X)$ satisfies:\n\n$$\nE(X)=1 / 4(2)+1 / 2(E(X)+1)+1 / 4(E(X)+2)\n$$\n\nand then solve for $E(X)$. The first term in the sum is when we roll two heads. The second term in the sum is when we first flip a heads, and the last term represents the scenario when we flip a heads and then a tails.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "probability",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-complex-analysis-q01",
+      "topic": "Complex Analysis",
+      "question_markdown": "Let $r>0$ and let $C$ be the circle $|z|=r$ in the complex plane. If $P$ is a polynomial function, then $\\int_{C} P(z) d z=$",
+      "options": [
+        "0",
+        "$\\pi r^{2}$",
+        "$2 \\pi i$",
+        "$2 \\pi P(0) i$",
+        "$P(r)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Polynomials are holomorphic.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "complex-analysis",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-complex-analysis-q02",
+      "topic": "Complex Analysis",
+      "question_markdown": "Let $G$ be the solutions to $x^{4}-1 . G$ is a group. Which of the following is true?\n\n(I) $z \\mapsto \\bar{z}$ defines a homomorphism, where $\\bar{z}$ is the complex conjugate\n\n(II) $z \\mapsto z^{2}$ defines a homorphism\n\n(III) For every homomorphism, there is an integer $k$ such that the homomorphism has the form $z \\mapsto z^{k}$.",
+      "options": [
+        "I only",
+        "I and II only",
+        "I, II, and III",
+        "II and III only",
+        "III only"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "This is standard for roots of unity question. Note that if $\\left\\{z \\mid z^{n}-1\\right\\}$, then this is a group under multiplication and it is cyclic generated by $e^{2 \\pi i / n}=g$. Easily, $\\overline{g^{k}}=g^{-k}$ and all homorphisms are determined where they send $g$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "complex-analysis",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-complex-analysis-q03",
+      "topic": "Complex Analysis",
+      "question_markdown": "If $f$ is a function defined by a complex power series expansion in $z-a$ which converges for $|z-a|<1$ and diverges for $|z-a|>1$, which of the following must be true?",
+      "options": [
+        "$f(z)$ is analytic in the open unit disk with center at $a$",
+        "The power series for $f(z+a)$ converges for $|z+a|<1$",
+        "$f^{\\prime}(a)=0$",
+        "$\\int_{C} f(z) d z=0$ for any circle $C$ in the plane",
+        "$f(z)$ has a pole of order 1 at $z=a$."
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "This is just testing that you know that holomorphic is the same as analytic.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "complex-analysis",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-complex-analysis-q04",
+      "topic": "Complex Analysis",
+      "question_markdown": "If $z=e^{2 \\pi i / 5}$, then $1+z+z^{2}+z^{3}+5 z^{4}+4 z^{5}+4 z^{6}+4 z^{7}+4 z^{8}+5 z^{9}=$",
+      "options": [
+        "0",
+        "$4 e^{3 \\pi i / 5}$",
+        "$5 e^{4 \\pi i / 5}$",
+        "$-4 e^{2 \\pi i / 5}$",
+        "$-5 e^{3 \\pi i / 5}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Have to use $1+x+\\ldots+x^{n-1}$ for $n$th roots of unity not equal to 1 .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "complex-analysis",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-complex-analysis-q05",
+      "topic": "Complex Analysis",
+      "question_markdown": "What is the fractional transformation $f: \\mathbb{C} \\rightarrow \\mathbb{C}$ such that $f(0)=1, f(1)=5, f(\\infty)=3$ ?",
+      "options": [
+        "$\\frac{9 z+1}{3 z+1}$",
+        "$\\frac{-6 z+1}{z-2}$",
+        "$\\frac{14 z+1}{z+2}$",
+        "$\\frac{9 z+1}{z+1}$",
+        "$\\frac{6 z-1}{2 z-1}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Can plug in or can use that Mobius transformations. First note you can map any three points $z_{1}, z_{2}, z_{3}$ to $0,1, \\infty$ by:\n\n$$\nf_{1}(z)=\\frac{z-z_{1}}{z-z_{3}} \\cdot \\frac{z_{2}-z_{1}}{z_{2}-z_{3}}\n$$\n\nand then invert (can actually treat coefficients as a matrix and use standard formula)",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "complex-analysis",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-euclidean-q01",
+      "topic": "Euclidean Geometry and Miscellaneous Problems",
+      "question_markdown": "At how many points in the $x y$-plane do the graphs of $y=x^{2012}$ and $y=5^{x}$ intersect?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "We clearly know they intersect twice by a quick sketch. But to get the third point have to know that $x^{2012}<5^{x}$ for large enough x .",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "euclidean",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-euclidean-q02",
+      "topic": "Euclidean Geometry and Miscellaneous Problems",
+      "question_markdown": "$\\sum_{n=1}^{\\infty} \\frac{(-1)^{n} n}{2^{n-1}}=$",
+      "options": [
+        "$-1 / 2$",
+        "$-4 / 5$",
+        "$-4 / 25$",
+        "$-4 / 9$",
+        "$-5 / 16$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Differentiate $1 /(1+x)$ and evaluate at $x=1 / 2$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "euclidean",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-euclidean-q03",
+      "topic": "Euclidean Geometry and Miscellaneous Problems",
+      "question_markdown": "![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-45_246_253_776_335.jpg)\n\nThe group of symmetries of the regular pentagram shown above is isomorphic to the:",
+      "options": [
+        "Symmetric group $S_{5}$",
+        "Alternating group $A_{5}$",
+        "cyclic group of order 5",
+        "cyclic group of order 10",
+        "dihedral group of order 10"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "The dihedral group is literally the group of symmetries of a pentagon, which is clearly the same as this pentagram.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "euclidean",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-euclidean-q04",
+      "topic": "Euclidean Geometry and Miscellaneous Problems",
+      "question_markdown": "![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-45_291_293_1475_541.jpg)\n\nFigure 1\n\n  ![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-45_294_291_1475_904.jpg)\n\nFigure 2\n\nThe four shaded circles in Figure 1 above are congruent and each is tangent to the large circle and to two of the other shaded circles. Figure 2 is the result of replacing each of the shaded circles in figure 1 by a figure that is geometrically similar to Figure 1. What is the ratio of the shaded portion of Figure 2 to the area of shaded portion of Figure 1?",
+      "options": [
+        "$\\frac{1}{2 \\sqrt{2}}$",
+        "$\\frac{1}{1+\\sqrt{2}}$",
+        "$\\frac{4}{1+\\sqrt{2}}$",
+        "$\\left(\\frac{\\sqrt{2}}{1+\\sqrt{2}}\\right)^{2}$",
+        "$\\left(\\frac{2}{1+\\sqrt{2}}\\right)^{2}$."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "The key is to connect the radius of the large white circle to the radius of the gray circle. Then, make a right triangle using the tangent hypothesis.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "euclidean",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-euclidean-q05",
+      "topic": "Euclidean Geometry and Miscellaneous Problems",
+      "question_markdown": "![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-45_291_293_1475_541.jpg)\n\nFigure 1\n\n  ![](/question-assets/bootcamp-problem-sets/55ecbe0b-0637-41ee-8cb3-a0267b297cc0-45_294_291_1475_904.jpg)\n\nFigure 2\n\nIn the figure above, as $r$ and $s$ increase the third side remains at 1 and the measure of the obtuse angle remains at 110 degrees. What is $\\lim _{r, s \\rightarrow \\infty}(s-r)$ ?",
+      "options": [
+        "0",
+        "A positive number less than 1",
+        "1",
+        "A finite number greater than 1",
+        "$\\infty$."
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "$$\n0<s-r<1\n$$\n\nwhere we have use the triangle inequality for the latter inequality. Geometrically speaking (and non-rigorously, the difference $s-r$ will be $\\sin 20$.\n\nLet's see why using the law of cosines:\n\n$$\n\\sqrt{r^{2}+1-2 r \\cos 110}-r=\\sqrt{(r-\\cos 110)^{2}+k}-r\n$$\n\nwhere $k$ is some unspecified constant. As $r \\rightarrow i n f t y$ the limit is clearly $-\\cos 110$ (use the standard trick of multiplying by the conjugate, i.e. $\\sqrt{(r-\\cos 110)^{2}+k}+r / \\sqrt{r-\\cos 110)^{2}+k}+r$, etc.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "euclidean",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-multivariable-q01",
+      "topic": "Multivariable Calculus",
+      "question_markdown": "The plane $y=1$ slices the surface $z=\\arctan \\frac{x+y}{1-x y}$ in a curve $C$. Find the slope of the tangent line to $C$ at the point where $x=2$.",
+      "options": [
+        "-3",
+        "-1",
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Note this is but $\\arctan x+\\arctan y!$ Then evaluate $\\frac{\\partial z}{\\partial x}$ at $x=2$ to get: $1 / 5$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "multivariable",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-multivariable-q02",
+      "topic": "Multivariable Calculus",
+      "question_markdown": "Find the volume of the solid in the first octant in $\\mathbb{R}^{3}$ bounded below by the cordinate axes and the unit circle, and bounded above by the surface $z=8 x y$",
+      "options": [
+        "$\\frac{1}{2}$",
+        "1",
+        "2",
+        "4",
+        "8",
+        "9"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "The integral is $\\int_{0}^{1} \\int_{0}^{\\sqrt{1-x^{2}}} 8 x y d y d x$ and integrate.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "multivariable",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-multivariable-q03",
+      "topic": "Multivariable Calculus",
+      "question_markdown": "Let $\\vec{F}$ be a constant unit force that is parallel to the vector $(-1,0,1)$ in $\\mathbb{R}^{3}$ and let $\\gamma(t)=\\left(t, t^{2}, t^{3}\\right)$ for $t \\in[0,1]$. The work done by $\\vec{F}$ along $\\gamma$ is:",
+      "options": [
+        "$-\\frac{1}{4}$",
+        "$-\\frac{1}{4 \\sqrt{2}}$",
+        "0",
+        "$\\sqrt{2}$",
+        "$3 \\sqrt{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "We need to evaluate:\n\n$$\n\\int_{0}^{1} \\vec{F} \\cdot d \\vec{s}=\\int_{0}^{1}(-1,0,1) \\cdot \\dot{\\gamma} d t=\\int_{0}^{1}-1+3 t^{2} d t=0\n$$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "multivariable",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-multivariable-q04",
+      "topic": "Multivariable Calculus",
+      "question_markdown": "What is the mininimum value of the expression $x+4 z$ as a function defined on $\\mathbb{R}^{3}$ subject to the constraint $x^{2}+y^{2}+z^{2} \\leq 2$ ?",
+      "options": [
+        "0",
+        "-2",
+        "$-\\sqrt{34}$",
+        "$-\\sqrt{35}$",
+        "$-5 \\sqrt{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Note this is a plane intersecting the solid sphere and hence must be maximized or minimized on the boundary. We then translate this into a lagrange multiplier porblem:\n\n$$\n\\left\\{\\begin{array}{l}\\lambda=2 x \\\\ 0=2 y \\\\ 4 \\lambda=2 z\\end{array}\\right.\n$$\n\nDoing algebra gives us $x= \\pm \\sqrt{34} / 17$ and $z= \\pm 4 \\sqrt{17} / 17$. Plugging into the original function gives us the result.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "multivariable",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-multivariable-q05",
+      "topic": "Multivariable Calculus",
+      "question_markdown": "If $a$ is a positive number, what's the value of the following double integral?\n\n$$\n\\int_{0}^{2 a} \\int_{-\\sqrt{2 a y-y^{2}}}^{0} \\sqrt{x^{2}+y^{2}} d x d y\n$$",
+      "options": [
+        "$\\frac{16}{9} a^{3}$",
+        "$\\frac{32}{9} a^{3}$",
+        "$\\frac{\\pi}{2} a^{2}$",
+        "$\\frac{8 \\pi^{2}}{3}$",
+        "$2 a^{4}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Change to polar coordinates and get $\\int_{\\pi / 2}^{\\pi} \\int_{0}^{2 a \\sin \\theta} r(r d r d \\theta)=\\int_{\\pi / 2}^{\\pi} \\frac{8}{3} a^{3} \\sin ^{3} \\theta d \\theta=\\frac{16}{9} a^{3}$. Note that we are integrating over the circle to the left of the y -axis with center ( $0, a$ ), equation $x^{2}+ (y-a)^{2}=a^{2}$, and radius $a$. We easily see that $\\sqrt{2 a y-y^{2}}=\\sqrt{a^{2}-(y-a)^{2}}$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "multivariable",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-differential-equations-q01",
+      "topic": "Differential Equations",
+      "question_markdown": "Find the family of all nonzero soultions to the equation:\n\n$$\ny^{\\prime \\prime}=\\left(y^{\\prime}\\right)^{2}\n$$",
+      "options": [
+        "$y=\\frac{1}{x+C_{1}}+C_{2}$",
+        "$y=C_{2}+\\log \\left(C_{1}-x\\right)$",
+        "$y=C_{2}-\\log \\left(C_{1}-x^{2}\\right)$",
+        "$y=C_{2}+\\log \\left(C_{1}+x\\right)$",
+        "$y=C_{2}-\\log \\left(C_{1}+x\\right)$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "It's separable and integrating once we obtain:\n\n$$\n\\frac{1}{y^{\\prime}}=C_{1}-x\n$$\n\nIntegrating once more we obtain:\n\n$$\nC_{2}-\\ln \\left|C_{1}-x\\right|=y\n$$\n\nBut if we let $C_{1}=-C_{1}^{\\prime}$, then $C_{2}-\\ln \\left|C_{1}+x\\right|$ or the same as answer $E$, without the absolute values, which just means we have restricted the domain.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "differential-equations",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-differential-equations-q02",
+      "topic": "Differential Equations",
+      "question_markdown": "Let $y=f(x)$ be a solution of the differential equation $x d y+\\left(y-x e^{x}\\right) d x=0$ such that $y=0$ when $x=1$. What is $f(2)$ ?",
+      "options": [
+        "$\\frac{1}{2 e}$",
+        "$\\frac{1}{e}$",
+        "$\\frac{e^{2}}{2}$",
+        "$2 e$",
+        "$2 e^{2}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "It's almost exact. Notice that this homogeneous of degree 1. The trick is to set $y=x v$ as a substitution for $y$. Hence, $d y=v d x+x d v$ and $v=y / x$. In particular,\n\n$$\nx^{2} d v+\\left(2 x v-x e^{x}\\right) d x\n$$\n\nwhich is now exact! Hence, our solution is: $x^{2} v-x e^{x}+e^{x}=C \\rightsquigarrow x y-x e^{x}+e^{x}=C$. Substituting $(1,0)$ gives us $C=0$. Hence, we $2 y-e^{2}=0$ and so $e^{2} / 2$.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "differential-equations",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-differential-equations-q03",
+      "topic": "Differential Equations",
+      "question_markdown": "Let $y=f(x)$ be a solution of the equation:\n\n$$\ny^{\\prime}+\\frac{y}{x}=\\sin x\n$$\n\nsuch that $f(\\pi)=1$. What is the value $f(\\pi / 2)$ ?",
+      "options": [
+        "$\\frac{2}{\\pi}-1$",
+        "$\\frac{2}{\\pi}$",
+        "$\\frac{2}{\\pi}+1$",
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{2}+1$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Integration factor is $x$ and then use integration by parts to get:\n\n$$\n-\\cos (x)+\\frac{1}{x} \\cdot \\sin x+C=y\n$$\n\nThen we see that $C=0$ from the initial condition and so $f(\\pi / 2)=\\frac{2}{\\pi}$",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "differential-equations",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-differential-equations-q04",
+      "topic": "Differential Equations",
+      "question_markdown": "Find the general solution of the differential equation:\n\n$$\n\\frac{d y}{d x}=\\frac{x+y}{x}\n$$",
+      "options": [
+        "$e^{y / x}=c x$",
+        "$e^{y / x}=c y$",
+        "$e^{x / y}=c x$",
+        "$e^{x / y}=c y$",
+        "$e^{-x / y}=c x$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "We can rewrite this D.E. as:\n\n$$\ny^{\\prime}-y / x=1\n$$\n\nThe integration factor $1 / x$ and so we get:\n\n$$\nx \\ln x+C=y\n$$\n\nA slight reqrrangement gives the answer.",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "differential-equations",
+        "multiple-choice"
+      ]
+    },
+    {
+      "id": "bootcamp-problem-sets-differential-equations-q05",
+      "topic": "Differential Equations",
+      "question_markdown": "What is the general solution to the differential equation:\n\n$$\ny^{\\prime \\prime}-2 y^{\\prime}+y=t e^{t}\n$$",
+      "options": [
+        "$C_{1} e^{t}+C_{2} t^{2} e^{t}$",
+        "$C_{1} e^{t}+C_{2} t e^{t}$",
+        "$C_{1} e^{t}+C_{2} t e^{t}+t^{3} e^{t}$",
+        "$C_{1} e^{t}+C_{2} t e^{t}+\\frac{t}{2} e^{t}$",
+        "$C_{1} e^{t}+C_{2} t e^{t}+\\frac{t^{2}}{2} e^{t}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "This is linear D.E. however the right hand side is the solution to the homogenous one so we must guess a particular solution of the form $A t^{2} e^{t}$.\n\n\\end{document}",
+      "source_note": "GRE Math Bootcamp problem sets (Mathpix export)",
+      "tags": [
+        "bootcamp",
+        "mathpix-import",
+        "differential-equations",
+        "multiple-choice"
+      ]
+    }
+  ]
+}

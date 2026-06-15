@@ -1,0 +1,1327 @@
+{
+  "id": "gre-math-practice-unlabeled-91a67ccb",
+  "title": "GRE Mathematics Practice Test (Unlabeled Form)",
+  "description": "Imported from an unlabeled GRE Mathematics practice test Mathpix export.",
+  "questions": [
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q01",
+      "topic": "Practice Test",
+      "question_markdown": "$\\lim _{n \\rightarrow \\infty}\\left(n-n \\cos \\frac{1}{\\sqrt{n}}\\right) \\sin \\frac{1}{\\sqrt{n}}=$",
+      "options": [
+        "$-\\infty$",
+        "0",
+        "$\\frac{1}{2}$",
+        "1",
+        "$\\infty$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q02",
+      "topic": "Practice Test",
+      "question_markdown": "Let $f(4)=3$ and $f^{\\prime}(4)=-2$. If $g(x)=\\frac{x f\\left(x^{2}\\right)}{x^{2}+1}$, then $g^{\\prime}(2)=$",
+      "options": [
+        "$-\\frac{89}{25}$",
+        "$-\\frac{13}{8}$",
+        "$\\frac{13}{8}$",
+        "$\\frac{75}{16}$",
+        "$\\frac{89}{25}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q03",
+      "topic": "Practice Test",
+      "question_markdown": "Which of the following is an equation of a tangent line of $f(x)=x^{3}-3 x^{2}+4 x-3$ at an inflection point of $f$ ?",
+      "options": [
+        "$y=x-2$",
+        "$y=13 x-8$",
+        "$y=-x-2$",
+        "$y=-13 x+4$",
+        "$y=13 x+2$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q04",
+      "topic": "Practice Test",
+      "question_markdown": "$\\int_{e}^{e^{2}} \\log x d x=$",
+      "options": [
+        "$-e^{2}$",
+        "$-e$",
+        "1",
+        "$e$",
+        "$e^{2}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q05",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $y=f(x)$ and $\\frac{d y}{d x}=x-\\frac{y}{2}$. If $f(1)=2$, then $\\lim _{x \\rightarrow 1} \\frac{f(x)-2}{(x-1)^{2}}=$",
+      "options": [
+        "-1",
+        "$-\\frac{1}{2}$",
+        "0",
+        "$\\frac{1}{2}$",
+        "1"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q06",
+      "topic": "Practice Test",
+      "question_markdown": "Determine the volume of the parallelepiped which has edges parallel to and the same lengths as the position vectors $\\mathbf{u}=\\langle 0,2,0\\rangle, \\mathbf{v}=\\langle 1,-1,0\\rangle$, and $\\mathbf{w}=\\langle-2,2,1\\rangle$.",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{4}$",
+        "2",
+        "15",
+        "$13 \\sqrt{6}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q07",
+      "topic": "Practice Test",
+      "question_markdown": "Consider the system\n\n$$\n\\begin{cases}y & =2 \\\\ y & =a(x-b)^{2}+c\\end{cases}\n$$\n\nwhere $a, b$, and $c$ are real numbers. For which of the following values of $a, b$, and $c$ is there a solution to the system of equations?",
+      "options": [
+        "$a=-9, b=-4$, and $c=-5$",
+        "$a=7, b=-10$, and $c=6$",
+        "$a=1, b=-6$, and $c=-4$",
+        "$a=2, b=9$, and $c=4$",
+        "$a=-10, b=-10$, and $c=-6$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q08",
+      "topic": "Practice Test",
+      "question_markdown": "The lateral surface area of a cone is $6 \\pi$ and its slant height is 6 . What is the radius of the cone's base?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "1",
+        "$\\frac{3}{2}$",
+        "2",
+        "$\\frac{12}{\\pi}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q09",
+      "topic": "Practice Test",
+      "question_markdown": "What is the measure of the angle between $\\mathbf{u}=\\langle 2,0,2\\rangle$ and $\\mathbf{v}=\\langle 3 \\sqrt{2},-6 \\sqrt{3}, 3 \\sqrt{2}\\rangle$ in $x y z$-space?",
+      "options": [
+        "$0^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q10",
+      "topic": "Practice Test",
+      "question_markdown": "If $U$ and $V$ are 3 -dimensional subspaces of $\\mathbb{R}^{5}$, what are the possible dimensions of $U \\cap V$ ?",
+      "options": [
+        "0",
+        "1",
+        "0 or 1",
+        "1,2 , or 3",
+        "$0,1,2$, or 3"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q11",
+      "topic": "Practice Test",
+      "question_markdown": "What is the absolute minimum value of $f(x)=\\frac{x^{2}-6 x}{1+|x+1|}$ ?",
+      "options": [
+        "-2",
+        "-1",
+        "0",
+        "$\\frac{1}{4}$",
+        "7"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q12",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $T$ is a linear transformation from $\\mathbb{R}^{2}$ to $\\mathbb{R}$ such that $T\\binom{1}{-3}=5$ and $T\\binom{1}{1}=-2$. Then $T\\binom{0}{2}=$",
+      "options": [
+        "-4",
+        "$-\\frac{7}{2}$",
+        "-1",
+        "3",
+        "$\\frac{9}{2}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q13",
+      "topic": "Practice Test",
+      "question_markdown": "If $f(x)=(1-x)^{17} e^{2 x}$, then $f^{(17)}(1)=$",
+      "options": [
+        "$-\\left(17!2^{17} e^{2}\\right)$",
+        "$-\\left(17!e^{2}\\right)$",
+        "0",
+        "$17!2^{17} e^{2}$",
+        "$17!e^{2}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q14",
+      "topic": "Practice Test",
+      "question_markdown": "A large class is to be divided into teams and each student must be a member of exactly one team. However, each student dislikes three of their classmates. Dislike between students need not be mutual. If the teams do not need to be equally sized, how many must be created so that no student is the teammate of someone they dislike?",
+      "options": [
+        "4",
+        "7",
+        "10",
+        "13",
+        "16"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q15",
+      "topic": "Practice Test",
+      "question_markdown": "Which of the following could be the graph of a solution of $\\frac{d y}{d x}=x|y|$ ?",
+      "options": [
+        "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-04_437_401_438_517.jpg)",
+        "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-04_454_405_391_1278.jpg)",
+        "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-04_428_401_842_517.jpg)",
+        "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-04_405_403_837_1280.jpg)",
+        "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-04_403_403_1241_515.jpg)"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q16",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $n \\mathbb{Z}=\\{0, n,-n, 2 n,-2 n, \\ldots\\}$ and $I_{n}=n \\mathbb{Z} \\cap[1,1000]$. How many elements are contained in the set $I_{6} \\cup I_{15} \\cup I_{25}$ ?",
+      "options": [
+        "200",
+        "226",
+        "257",
+        "266",
+        "272"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q17",
+      "topic": "Practice Test",
+      "question_markdown": "If $S=[0,1] \\times[1,3]$, then $\\iint_{S} x y^{2} d A=$",
+      "options": [
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{3}$",
+        "1",
+        "$\\frac{9}{2}$",
+        "$\\frac{13}{3}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q18",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $\\mathcal{F}$ is the set of functions such that $f(x)=\\frac{a x+b}{c x+d}$, where the coefficients $a, b, c$, and $d$ are real numbers and $a d-b c=1$. Which of the following are TRUE?\n\nI. If $f$ and $g$ are in $\\mathcal{F}$, then $f \\circ g=g \\circ f$.\n\nII. There is a function $i$ in $\\mathcal{F}$ such that $i \\circ f=f \\circ i$ for all $f$ in $\\mathcal{F}$.\n\nIII. If $f, g$, and $h$ are in $\\mathcal{F}$, then $f \\circ(g \\circ h)=(f \\circ g) \\circ h$.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q19",
+      "topic": "Practice Test",
+      "question_markdown": "Find the area contained between the Lemniscate curve\n\n$$\nr^{2}=4 \\sin 2 \\theta\n$$\n\nand the circle $r=\\sqrt{2}$.",
+      "options": [
+        "$\\sqrt{3}-\\frac{\\pi}{3}$",
+        "$2 \\sqrt{3}-\\frac{2 \\pi}{3}$",
+        "$2 \\sqrt{3}-\\frac{\\pi \\sqrt{2}}{3}$",
+        "$2 \\sqrt{3}-\\frac{\\pi}{3}$",
+        "$2-\\frac{\\pi}{3}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q20",
+      "topic": "Practice Test",
+      "question_markdown": "Let $f$ be a differentiable real-valued function such that $f(3)=7$ and $f^{\\prime}(x) \\geq x$ for all positive $x$. What is the maximum possible value of $\\int_{0}^{3} f(x) d x$ ?",
+      "options": [
+        "0",
+        "$\\frac{9}{2}$",
+        "12",
+        "$\\frac{25}{2}$",
+        "21"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q21",
+      "topic": "Practice Test",
+      "question_markdown": "If $f:(0,1) \\rightarrow(0,1]$, then which of the following could be TRUE?\n\nI. $f$ is one-to-one and onto.\n\nII. The image of $f$ is compact.\n\nIII. $f$ is continuous, one-to-one, and onto.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q22",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose\n\n$$\nf(x)= \\begin{cases}\\frac{2|x|}{5}, & -1 \\leq x<2 \\\\ 0, & \\text { otherwise }\\end{cases}\n$$\n\nCalculate $\\int_{-\\infty}^{\\infty} x f(x) d x$.",
+      "options": [
+        "$\\frac{14}{15}$",
+        "1",
+        "$\\frac{6}{5}$",
+        "$\\frac{7}{3}$",
+        "3"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q23",
+      "topic": "Practice Test",
+      "question_markdown": "For which value of $n$ are there exactly two abelian groups of order $n$ up to isomorphism?",
+      "options": [
+        "4",
+        "7",
+        "8",
+        "12",
+        "none of these"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q24",
+      "topic": "Practice Test",
+      "question_markdown": "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-07_676_654_285_734.jpg)\n\nAbove is the graph of $y=f(x)$. If $f(1+x)=f(x)$ for all real $x$, then $f^{\\prime}(25 \\pi)=$",
+      "options": [
+        "-16",
+        "0",
+        "undefined",
+        "2",
+        "not uniquely determined by the information given"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q25",
+      "topic": "Practice Test",
+      "question_markdown": "The convergent sequence $\\left\\{x_{n}\\right\\}$ is defined by the recursive relationship $x_{1}=1$ and $x_{n+1}=\\sqrt{15-2 x_{n}}$ for all positive integers $n$. What is the value of $\\lim _{n \\rightarrow \\infty} x_{n}$ ?",
+      "options": [
+        "-5",
+        "-3",
+        "0",
+        "3",
+        "5"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q26",
+      "topic": "Practice Test",
+      "question_markdown": "| $x$ | $f(x)$ | $f^{\\prime}(x)$ | $g(x)$ |\n| --- | --- | --- | --- |\n| -6 | -5 | 1 | -3 |\n| -2 | $-\\frac{5}{2}$ | $\\frac{1}{4}$ | 0 |\n| 2 | 0 | 1 | 6 |\n| 6 | 2 | 3 | $\\frac{13}{2}$ |\n\nIf $f$ and $g$ in the table above are inverses, then $\\left(g^{\\prime} \\circ g\\right)(0)=$",
+      "options": [
+        "-1",
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "1",
+        "4"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q27",
+      "topic": "Practice Test",
+      "question_markdown": "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-08_587_656_1164_726.jpg)\n\nA circle of radius 1 is tangent to $y=x^{2}$ at two points. Find the area bounded by the parabola and circle.",
+      "options": [
+        "$\\frac{2}{3}-\\frac{\\pi}{6}$",
+        "$\\sqrt{3}-\\frac{11 \\pi}{24}$",
+        "$\\frac{3 \\sqrt{3}}{4}-\\frac{\\pi}{3}$",
+        "$\\frac{2}{3}-\\frac{\\pi}{12}$",
+        "$\\frac{11}{6}-\\frac{\\pi}{6}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q28",
+      "topic": "Practice Test",
+      "question_markdown": "Find the arc length of the curve $C$ from the point $(8,1)$ to the point $\\left(8 e, e^{2}-8\\right)$, where\n\n$$\nC=\\left\\{(x, y) \\in \\mathbb{R}^{2}: x=8 e^{t / 2} \\text { and } y=e^{t}-4 t\\right\\} .\n$$",
+      "options": [
+        "$7-e^{2}$",
+        "$7-e$",
+        "$e^{2}-7$",
+        "$e+7$",
+        "$e^{2}+7$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q29",
+      "topic": "Practice Test",
+      "question_markdown": "Consider a segment of length 10. Points $A$ and $B$ are chosen randomly such that $A$ and $B$ divide the segment into three smaller segments. What is the probability that the three smaller segments could form the sides of a triangle?",
+      "options": [
+        "0",
+        "$10 \\%$",
+        "$25 \\%$",
+        "$50 \\%$",
+        "$80 \\%$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q30",
+      "topic": "Practice Test",
+      "question_markdown": "A discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?",
+      "options": [
+        "10",
+        "20",
+        "25",
+        "45",
+        "90"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q31",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $P$ is the set of polynomials with coefficients in $\\mathbb{Z}_{5}$ and degree less than or equal to 7 . If the operator $D$ sends $p(x)$ in $P$ to its derivative $p^{\\prime}(x)$, what are the dimensions of the null space $n$ and range $r$ of $D$ ?",
+      "options": [
+        "$n=1$ and $r=6$",
+        "$n=1$ and $r=7$",
+        "$n=2$ and $r=5$",
+        "$n=2$ and $r=6$",
+        "$n=3$ and $r=5$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q32",
+      "topic": "Practice Test",
+      "question_markdown": "Consider the following algorithm, which takes two positive input integers a and b and prints a positive output integer.\n\n```\ninput(a)\ninput(b)\nbegin\nif a > b\nset max = a\nset min = b\nelse\nset max = b\nset min = a\nwhile min > 0\nbegin\nset r = max mod min\nreplace max = min\nreplace min = r\nend\nprint a*b/max\nend\n```\n\nIf $\\mathrm{a}=20$ and $\\mathrm{b}=28$ are the inputs of the following algorithm, what is the result?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "140",
+        "560"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q33",
+      "topic": "Practice Test",
+      "question_markdown": "Let $\\varphi(k)$ be a proposition which is either true or false depending on the integer $k$. Suppose that if $\\varphi(k)$ is false then so is $\\varphi(k-1)$. If there is some $k_{0}$ such that $\\varphi\\left(k_{0}\\right)$ is true, what is the strongest conclusion that can be drawn?",
+      "options": [
+        "$\\varphi(k)$ is true for all $k$.",
+        "$\\varphi\\left(k_{0}+1\\right)$ is true.",
+        "$\\varphi\\left(k_{0}-1\\right)$ is ture.",
+        "$\\varphi(k)$ is true for $k \\leq k_{0}$.",
+        "$\\varphi(k)$ is true for $k \\geq k_{0}$."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q34",
+      "topic": "Practice Test",
+      "question_markdown": "Define\n\n$$\nf(x)= \\begin{cases}\\sin \\frac{1}{x}, & \\text { if } x \\neq 0 \\\\ 0, & \\text { if } x=0\\end{cases}\n$$\n\nLet $I=\\left\\{(x, f(x)) \\in \\mathbb{R}^{2}:-1 \\leq x \\leq 1\\right\\}$. Which of the following are TRUE?\n\nI. The set $I$ is connected.\n\nII. The set $I$ is path connected.\n\nIII. The set $I$ is compact.",
+      "options": [
+        "I only",
+        "III only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q35",
+      "topic": "Practice Test",
+      "question_markdown": "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-10_433_826_1662_642.jpg)\n\nThe figure above shows the graph of the function $f$. Suppose that $g(x)=\\int_{0}^{x} f(t) d t$. The absolute maximum of $g$ is",
+      "options": [
+        "$g(-4)$",
+        "$g(-3)$",
+        "$g(-1)$",
+        "$g(1)$",
+        "$g(3)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q36",
+      "topic": "Practice Test",
+      "question_markdown": "Let $f(x)=\\int_{0}^{x^{2}} \\sqrt{t} \\sin \\frac{1}{t} d t$, and let $I=[-1,0) \\cup(0,1]$. Which of the following are TRUE?\n\nI. $f$ is bounded on the set $I$.\n\nII. $f^{\\prime}$ is bounded on the set $I$.\n\nIII. $f^{\\prime \\prime}$ is bounded on the set $I$.",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q37",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose\n\n$$\nA=\\left(\\begin{array}{ccc}1 & 0 & -2 \\\\ c & -9 & -c \\\\ 0 & c & -1\\end{array}\\right)\n$$\n\nFor what value(s) of $c$ is $A$ singular?",
+      "options": [
+        "-3",
+        "-2",
+        "-3 and 2",
+        "-2 and 2",
+        "-3 and 3"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q38",
+      "topic": "Practice Test",
+      "question_markdown": "The region bounded by the $x$-axis and the function\n\n$$\nf(x)=\\frac{x}{1+x^{3}}\n$$\n\nis rotated about the $x$-axis. What is the volume of the solid generated?",
+      "options": [
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\pi$",
+        "$2 \\pi$",
+        "$\\infty$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q39",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose\n\nfor all $\\varepsilon>0$ there exists a $\\delta>0$ such that for all $x$ and $y$ in $D$\n\n$$\n|x-y|<\\delta   \\text { implies }  |f(x)-f(y)|<\\varepsilon .\n$$\n\nConsider the following statements.\n\n$A$ : For all $\\varepsilon>0$ there is a $\\delta>0$\n\n$B$ : For all $x$ and $y$ in $D$\n\n$C:|x-y|<\\delta$\n\n$D:|f(x)-f(y)| \\geq \\varepsilon$\n\nUsing the letters listed above, the proposition originally stated is which of the following? Denote \"not\" by $\\neg$ 。",
+      "options": [
+        "$A(B(C$ or $D))$",
+        "$A(B(\\neg C$ and $D))$",
+        "$\\neg A(B(\\neg C$ or $D))$",
+        "$A(\\neg B(\\neg C$ or $D))$",
+        "$A(B(\\neg C$ or $\\neg D))$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q40",
+      "topic": "Practice Test",
+      "question_markdown": "The radius of convergence of the series $\\sum_{n=0}^{\\infty} \\frac{(n x)^{n}}{2 \\cdot 4 \\cdot 6 \\cdot \\ldots \\cdot 2 n}$ is",
+      "options": [
+        "0",
+        "$\\frac{2}{e^{2}}$",
+        "$\\frac{2}{e}$",
+        "$\\frac{e}{2}$",
+        "$\\infty$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q41",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $V$ is a real vector space of finite dimension $n$. Call the set of matrices from $V$ into itself $\\mathcal{M}(V)$ . Let $T$ be in $\\mathcal{M}(V)$. Consider the two subspaces\n\n$$\n\\mathcal{U}=\\{X \\in \\mathcal{M}(V): T X=X T\\}   \\text { and }   \\mathcal{W}=\\{T X-X T: X \\in \\mathcal{M}(V)\\} .\n$$\n\nWhich of the following must be TRUE?\n\nI. If $V$ has a basis containing only eigenvectors of $T$ then $\\mathcal{U}=\\mathcal{M}(V)$.\n\nII. $\\operatorname{dim}(\\mathcal{U})+\\operatorname{dim}(\\mathcal{W})=n^{2}$\n\nIII. $\\operatorname{dim}(\\mathcal{U})<n$",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "I, II, and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q42",
+      "topic": "Practice Test",
+      "question_markdown": "If the finite group $G$ contains a subgroup of order five but no element of $G$ other than the identity is its own inverse, then the order of $G$ could be",
+      "options": [
+        "8",
+        "20",
+        "30",
+        "35",
+        "42"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q43",
+      "topic": "Practice Test",
+      "question_markdown": "If $\\zeta=e^{\\frac{2 \\pi}{5} i}$, then $3+3 \\zeta+12 \\zeta^{2}+12 \\zeta^{3}+12 \\zeta^{4}+9 \\zeta^{5}+5 \\zeta^{6}=$",
+      "options": [
+        "$-4 e^{\\frac{2 \\pi i}{5}}$",
+        "$-4 e^{\\frac{4 \\pi i}{5}}$",
+        "0",
+        "$4 e^{\\frac{2 \\pi i}{5}}$",
+        "$4 e^{\\frac{4 \\pi i}{5}}$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q44",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $A$ is a $3 \\times 3$ matrix such that\n\n$$\n\\det(A-\\lambda I)=-\\lambda^{3}+3 \\lambda^{2}+\\lambda-3\n$$\n\nwhere $I$ is the $3 \\times 3$ identity matrix. Which of the following are TRUE of $A$ ?\n\nI. The trace of $A$ is 3 .\n\nII. The determinate of $A$ is -3 .\n\nIII. The matrix $A$ has eigenvalues -3 and 1 .",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "I, II, and III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q45",
+      "topic": "Practice Test",
+      "question_markdown": "Find the general solution of\n\n$$\n2 \\frac{d^{2} y}{d x^{2}}+9 \\frac{d y}{d x}-35 y=0\n$$",
+      "options": [
+        "$y=C_{1} e^{-7 x}+C_{2} e^{\\frac{5}{2} x}$",
+        "$y=C_{1} e^{-\\frac{5}{2} x}+C_{2} e^{7 x}$",
+        "$y=C_{1} e^{-7 x}+C_{2} e^{5 x}$",
+        "$y=C_{1} e^{-5 x}+C_{2} e^{7 x}$",
+        "$y=C_{1} \\cos (5 x)+C_{2} \\cos (7 x)$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q46",
+      "topic": "Practice Test",
+      "question_markdown": "Let $f(x, y)=x^{3}-y^{3}+3 x^{2} y-x$ for all real $x$ and $y$. Which of the following is TRUE of $f$ ?",
+      "options": [
+        "There is an absolute minimum at $\\left(\\frac{1}{3}, \\frac{1}{3}\\right)$.",
+        "There is a relative maximum at $\\left(-\\frac{1}{3},-\\frac{1}{3}\\right)$.",
+        "There is a saddle point at $\\left(\\frac{\\sqrt{3}}{3},-\\frac{\\sqrt{3}}{3}\\right)$.",
+        "There is an absolute maximum at $\\left(-\\frac{\\sqrt{3}}{3}, \\frac{\\sqrt{3}}{3}\\right)$.",
+        "All critical values are on the line $y=x$."
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q47",
+      "topic": "Practice Test",
+      "question_markdown": "Approximate the difference $\\log (1.1)-p(1.1)$, where\n\n$$\np(x)=x-1-\\frac{1}{2}(x-1)^{2}\n$$",
+      "options": [
+        "$-\\frac{1}{3} \\times 10^{-3}$",
+        "$-\\frac{1}{4} \\times 10^{-4}$",
+        "$\\frac{3}{8} \\times 10^{-5}$",
+        "$\\frac{1}{4} \\times 10^{-4}$",
+        "$\\frac{1}{3} \\times 10^{-3}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q48",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose today is Wednesday. What day of the week will it be $10^{10^{10}}$ days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q49",
+      "topic": "Practice Test",
+      "question_markdown": "It takes Kate $k$ days to write a GRE math practice test. It takes John $j$ days to write a GRE math practice test. If Kate and John work on a practice test in alternating 2 -day shifts, it takes them 10 days when Kate starts and 10.5 days when John starts. How long would it take the two to complete a practice test if Kate and John worked simultaneously?",
+      "options": [
+        "$\\frac{9}{2}$ days",
+        "5 days",
+        "$\\frac{41}{8}$ days",
+        "$\\frac{36}{7}$ days",
+        "6 days"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q50",
+      "topic": "Practice Test",
+      "question_markdown": "In the complex plane, let $C$ be the circle $|z+2|=3$ with positive (counterclockwise) orientation. Then $\\int_{C} \\frac{d z}{z^{3}(z-2)}=$",
+      "options": [
+        "$-\\frac{\\pi i}{4}$",
+        "0",
+        "$\\frac{3 \\pi i}{8}$",
+        "$\\frac{7 \\pi i}{8}$",
+        "$2 \\pi i$"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q51",
+      "topic": "Practice Test",
+      "question_markdown": "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-16_536_536_279_794.jpg)\n\nA four-petaled rose curve has a group of symmetries which is isomorphic to the",
+      "options": [
+        "symmetric group $S_{4}$",
+        "alternating group $A_{5}$",
+        "cyclic group of order 4",
+        "cyclic group of order 8",
+        "dihedral group of 8 elements"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q52",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose the real-valued function $f$ has a continuous derivative for all values of $x$ in $\\mathbb{R}$. Which of the following must be FALSE?\n\nI. For some closed interval $[a, b]$ and every natural number $N$ there exists an $x$ in the interval $[a, b]$ such that $|f(x)|>N$.\n\nII. For each real number $c$ there are exactly two solutions of $f(x)=c$.\n\nIII. The limit $\\lim _{x \\rightarrow \\infty} \\frac{f(x)}{x}=\\infty$ if and only if $\\lim _{x \\rightarrow \\infty} f^{\\prime}(x)=\\infty$.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I and II only",
+        "I, II, and III"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q53",
+      "topic": "Practice Test",
+      "question_markdown": "Water drips out of a hole at the vertex of an upside down cone at a rate of $3 \\mathrm{~cm}^{3}$ per minute. The cone's height and radius are 2 cm and 1 cm , respectively. At what rate does the height of the water change when the water level is half a centimeter below the top of the cone? The volume of a cone is $V=\\frac{\\pi}{3} r^{2} h$, where $r$ is the radius and $h$ is the height of the cone.",
+      "options": [
+        "$-\\frac{48}{\\pi} \\mathrm{~cm} / \\mathrm{min}$",
+        "$-\\frac{4}{3 \\pi} \\mathrm{~cm} / \\mathrm{min}$",
+        "$-\\frac{8}{3 \\pi} \\mathrm{~cm} / \\mathrm{min}$",
+        "$-\\frac{24}{\\pi} \\mathrm{~cm} / \\mathrm{min}$",
+        "$-\\frac{16}{3 \\pi} \\mathrm{~cm} / \\mathrm{min}$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q54",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $f$ is an analytic function of the complex variable $z=x+i y$ where $x$ and $y$ are real variables. If\n\n$$\nf(z)=g(x, y)+e^{y} i \\sin x\n$$\n\nand $g(x, y)$ is a real-valued function of $x$ and $y$, what is the value of\n\n$$\ng\\left(\\frac{\\pi}{2}, 7\\right)-g(0,0) ?\n$$",
+      "options": [
+        "$1+e^{7}$",
+        "$1-e^{7}$",
+        "1",
+        "$e^{7}-1$",
+        "$2-2 e^{7}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q55",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $A$ and $B$ are $n \\times n$ matrices with real entries. Which of the follow are TRUE?\n\nI. The trace of $A^{2}$ is nonnegative.\n\nII. If $A^{2}=A$, then the trace of $A$ is nonnegative.\n\nIII. The trace of $A B$ is the product of the traces of $A$ and $B$.",
+      "options": [
+        "II only",
+        "III only",
+        "I and II only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q56",
+      "topic": "Practice Test",
+      "question_markdown": "Consider the independent random variables $X_{i}$ such that either $X_{i}=0$ or $X_{i}=1$ and each event is equally as likely. Let\n\n$$\nX=X_{1}+X_{2}+\\ldots+X_{100}\n$$\n\nWhich of the following values is largest?",
+      "options": [
+        "$\\operatorname{Var}(X)$",
+        "$100 P(|X-50|>25)$",
+        "$\\sum_{k=0}^{100} k\\binom{100}{k}\\left(\\frac{1}{2}\\right)^{k}$",
+        "$100 P(X \\geq 60)$",
+        "30"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q57",
+      "topic": "Practice Test",
+      "question_markdown": "$\\lim _{n \\rightarrow \\infty} \\frac{1}{n}+\\frac{1}{2+n}+\\frac{1}{4+n}+\\ldots+\\frac{1}{3 n}=$",
+      "options": [
+        "$\\frac{1}{2} \\log 2$",
+        "$\\frac{3}{4}$",
+        "$\\log \\sqrt{3}$",
+        "1",
+        "2"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q58",
+      "topic": "Practice Test",
+      "question_markdown": "Suppose $A$ and $A_{k}$ are subsets of $\\mathbb{R}$ where $k$ is any positive integer. Which of the following must be TRUE?\n\nI. If $A$ is closed, then $A$ is compact.\n\nII. If for each sequence $\\left\\{a_{k}\\right\\}$ with terms in $A$ there is a strictly increasing function $\\alpha: \\mathbb{Z} \\rightarrow \\mathbb{Z}$ such that $\\lim _{k \\rightarrow \\infty} a_{\\alpha(k)}$ is in $A$, then $A$ is compact.\n\nIII. If $B=\\bigcup_{k=1}^{\\infty} A_{k}$, then $\\bar{B}=\\bigcup_{k=1}^{\\infty} \\overline{A_{k}}$.",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q59",
+      "topic": "Practice Test",
+      "question_markdown": "The probability that a point $(x, y)$ in $\\mathbb{R}^{2}$ is chosen follows a uniform random distribution within the region described by the inequality $0<|x|+|y|<1$. What is the probability that $2(x+y)>1$ ?",
+      "options": [
+        "0",
+        "$\\frac{1}{4}$",
+        "$\\frac{\\sqrt{2}}{4}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{3}{4}$"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q60",
+      "topic": "Practice Test",
+      "question_markdown": "Let $\\mathbf{F}=\\left\\langle y,-x, \\frac{3}{\\pi}\\right\\rangle$ be a vector field in $x y z$-space. What is the work done by $\\mathbf{F}$ on a particle that moves along the path described by $\\mathbf{r}(t)=\\left\\langle\\cos t, \\sin t, t^{2}\\right\\rangle$ where $t$ goes from 0 to $\\frac{\\pi}{2}$ ?",
+      "options": [
+        "$-\\frac{\\pi}{2}$",
+        "$-\\frac{\\pi}{4}$",
+        "0",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "correct_answer": "D",
+      "solution_markdown": "Embedded answer key: D. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q61",
+      "topic": "Practice Test",
+      "question_markdown": "There are 25 suitcases, 5 of which are damaged. Three suitcases are selected at random. What is the probability that exactly 2 are damaged?",
+      "options": [
+        "$\\frac{2}{69}$",
+        "$\\frac{1}{30}$",
+        "$\\frac{2}{23}$",
+        "$\\frac{12}{125}$",
+        "$\\frac{3}{25}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q62",
+      "topic": "Practice Test",
+      "question_markdown": "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-19_455_418_287_852.jpg)\n\nLet $C$ be the positively oriented path shown above. Then $\\oint_{C} x \\sin \\left(x^{2}\\right) d x+\\left(3 e^{y^{2}}-2 x\\right) d y=$",
+      "options": [
+        "-4",
+        "-2",
+        "0",
+        "2",
+        "4"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q63",
+      "topic": "Practice Test",
+      "question_markdown": "Find the point on $3 x-2 y+z=4$ which is closest to the origin.",
+      "options": [
+        "$(1,2,5)$",
+        "$\\left(\\frac{6}{7},-\\frac{2}{7}, \\frac{6}{7}\\right)$",
+        "$\\left(\\frac{5}{6}, \\frac{4}{3}, \\frac{25}{6}\\right)$",
+        "$(1,-3,-5)$",
+        "$\\left(\\frac{6}{7},-\\frac{4}{7}, \\frac{2}{7}\\right)$"
+      ],
+      "correct_answer": "E",
+      "solution_markdown": "Embedded answer key: E. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q64",
+      "topic": "Practice Test",
+      "question_markdown": "For each positive integer $n$, let $f_{n}$ be the function defined on the interval $[0,1]$ by $f_{n}(x)=\\frac{n x}{1+n x^{2}}$. Which of the following statements are TRUE?\n\nI. The sequence $\\left\\{f_{n}\\right\\}$ converges point-wise on $[0,1]$ to a limit function $f$.\n\nII. The sequence $\\left\\{f_{n}\\right\\}$ converges uniformly on [ 0,1 ] to a limit function $f$.\n\nIII. $\\left|\\int_{0}^{1} f_{n}(x) d x-\\int_{\\frac{1}{n}}^{1} \\lim _{k \\rightarrow \\infty} f_{k}(x) d x\\right| \\rightarrow 0$ as $n \\rightarrow \\infty$.",
+      "options": [
+        "I only",
+        "III only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "A",
+      "solution_markdown": "Embedded answer key: A. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q65",
+      "topic": "Practice Test",
+      "question_markdown": "![](/question-assets/gre-math-practice-unlabeled-91a67ccb/91a67ccb-b2c3-47fe-9520-9e6473348a4b-20_603_603_345_760.jpg)\n\nThe pattern in the figure above continues infinitely into the page. If the outer most square has sides of length 1 , what is the total gray area of the figure?",
+      "options": [
+        "$1-\\frac{\\pi}{4}$",
+        "$2-\\frac{\\pi}{3}$",
+        "$2-\\frac{\\pi}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1+\\pi}{4}$"
+      ],
+      "correct_answer": "C",
+      "solution_markdown": "Embedded answer key: C. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    },
+    {
+      "id": "gre-math-practice-unlabeled-91a67ccb-q66",
+      "topic": "Practice Test",
+      "question_markdown": "| . | 1 | $\\mathbf{i}$ | $\\mathbf{j}$ | $\\mathbf{k}$ |\n| --- | --- | --- | --- | --- |\n| 1 | 1 | $\\mathbf{i}$ | $\\mathbf{j}$ | $\\mathbf{k}$ |\n| $\\mathbf{i}$ | $\\mathbf{i}$ | -1 | $\\mathbf{k}$ | $-\\mathbf{j}$ |\n| $\\mathbf{j}$ | $\\mathbf{j}$ | $-\\mathbf{k}$ | -1 | $\\mathbf{i}$ |\n| $\\mathbf{k}$ | $\\mathbf{k}$ | $\\mathbf{j}$ | $-\\mathbf{i}$ | -1 |\n\nSuppose multiplication between $1, \\mathbf{i}, \\mathbf{j}$, and $\\mathbf{k}$ are as defined above. Which of the following are rings?\n\nI. $\\{a+b \\sqrt[3]{4}: a$ and $b$ are rational $\\}$\n\nII. The set of functions $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ under the standard function addition and multiplication defined by composition\n\nIII. $\\{a+b \\mathbf{i}+c \\mathbf{j}+d \\mathbf{k}: a, b, c$, and $d$ are real $\\}$",
+      "options": [
+        "I only",
+        "III only",
+        "I and III only",
+        "II and III only",
+        "I, II, and III"
+      ],
+      "correct_answer": "B",
+      "solution_markdown": "Embedded answer key: B. Worked solutions are not included in the source test booklet.",
+      "source_note": "GRE Mathematics Practice Test (unlabeled Mathpix export)",
+      "tags": [
+        "practice",
+        "mathpix-import",
+        "unlabeled-form"
+      ]
+    }
+  ]
+}
