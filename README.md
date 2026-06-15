@@ -13,6 +13,8 @@ The simulator is intentionally strict in exam mode:
 - automatic submission when time expires
 - no pause, no instant feedback, no search/filter conveniences in exam mode
 
+**Info.** This was vibe coded before I took the test in May this year for my own use. The test was not difficult but doing those many problems *consecutively without taking a break* is wearisome, so a few mock tests before real exam seemed to be necessary. The code was written by Codex. I will not include any test suite in the repository to avoid copyright issues. You can just download a past paper / mock test from ETS (or elsewhere), use PDF4Qt PageMaster to delete irrelevant pages, and then feed the PDF into Codex and it can convert it to the format this app uses. If you want you may download an ETS logo, name it as `logo.png` and put it into the root of project directory to make the experience more authentic. PS: Everything in this README is written by Codex, except for this paragraph.
+
 ## Setup
 
 ```bash
